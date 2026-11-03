@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+coverage/
+backups/
+.DS_Store
+.admin-inicial.txt
+infra/searxng/settings.yml

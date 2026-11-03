@@ -1,0 +1,59 @@
+{
+  "name": "@onismu/server",
+  "version": "1.0.0",
+  "description": "API e coleta assistida do ONISMU",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/src/index.js",
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "migrate": "tsx src/scripts/migrar.ts",
+    "importar:universo": "tsx src/scripts/importar-universo.ts",
+    "importar:piloto": "tsx src/scripts/importar-piloto.ts",
+    "verificar:trechos": "tsx src/scripts/verificar-trechos.ts",
+    "criar-admin": "tsx src/scripts/criar-admin.ts",
+    "seed:demo": "tsx src/scripts/seed-demo.ts",
+    "remover:demo": "tsx src/scripts/seed-demo.ts --remover",
+    "coleta:agendada": "tsx src/scripts/coleta-agendada.ts",
+    "backup": "tsx src/scripts/backup.ts",
+    "test": "vitest run",
+    "diagnosticar:coleta": "tsx src/scripts/diagnosticar-coleta.ts",
+    "testar:extracao": "tsx src/scripts/testar-extracao.ts",
+    "coletar": "tsx src/scripts/coletar.ts",
+    "aplicar:revisao": "tsx src/scripts/aplicar-revisao.ts"
+  },
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0",
+    "cheerio": "^1.2.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "exceljs": "^4.4.0",
+    "express": "^4.22.3",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0",
+    "pdfkit": "^0.20.2",
+    "pg": "^8.23.1",
+    "unpdf": "^1.9.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^4.17.25",
+    "@types/node": "^26.6.5",
+    "@types/pdfkit": "^0.17.7",
+    "@types/pg": "^8.23.1",
+    "@types/supertest": "^7.2.1",
+    "supertest": "^7.3.1",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  },
+  "private": true
+}

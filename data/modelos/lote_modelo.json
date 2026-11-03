@@ -1,0 +1,44 @@
+{
+  "lote": "nome_do_lote",
+  "executado_em": "2026-11-01T10:00:00-03:00",
+  "ferramenta": "Descrição da ferramenta e do método (ex.: busca manual da equipe)",
+  "universidades": [
+    {
+      "sigla": "SIGLA",
+      "nome_oficial": "Nome oficial conforme o universo",
+      "dominio": "dominio.br",
+      "consultas": ["site:dominio.br \"saúde mental\""],
+      "fontes_consultadas": [
+        { "url": "https://www.dominio.br/pagina", "titulo": "Título", "acessada": true, "observacao": "usada" }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": ["o que ainda falta conferir"],
+      "candidatos": [
+        {
+          "nome": "Nome da iniciativa",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Resumo neutro baseado só na fonte",
+          "objetivos": null,
+          "publico_alvo": ["estudantes"],
+          "modalidade": null,
+          "abrangencia": null,
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.dominio.br/pagina",
+          "titulo_fonte": "Título",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Trecho copiado literalmente da página, com pelo menos 15 caracteres.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": ["objetivos", "periodo"],
+          "justificativa": "Por que esta categoria e este nível"
+        }
+      ]
+    }
+  ]
+}

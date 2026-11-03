@@ -1,0 +1,1673 @@
+{
+  "lote": "regioes",
+  "executado_em": "2026-10-22T23:13:27-03:00",
+  "ferramenta": "Claude Code – pesquisa-piloto assistida (WebSearch + WebFetch)",
+  "universidades": [
+    {
+      "sigla": "UFPA",
+      "nome_oficial": "Universidade Federal do Pará",
+      "dominio": "ufpa.br",
+      "consultas": [
+        "UFPA saúde mental estudantes acolhimento psicológico (site:ufpa.br)",
+        "PROREDE Programa Rede de Apoio Psicossocial UFPA Proaes",
+        "UFPA resolução política saúde mental prevenção suicídio setembro amarelo (site:ufpa.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://sigaest.ufpa.br/proaes/public/editais/347/download",
+          "titulo": "Edital nº 07/2026 – PROAES – Serviços de Apoio à Saúde Estudantil",
+          "acessada": true,
+          "observacao": "usada (PDF; texto extraído localmente)"
+        },
+        {
+          "url": "https://icm.ufpa.br/saude-mental",
+          "titulo": "Saúde Mental - ICM - UFPA",
+          "acessada": true,
+          "observacao": "usada (PEAPs e PAPs)"
+        },
+        {
+          "url": "https://ufpa.br/ufpa-cria-plantao-psicologico-para-atender-estudantes-em-vulnerabilidade-emocional/",
+          "titulo": "UFPA cria Plantão Psicológico para atender estudantes em vulnerabilidade emocional",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://ufpa.br/projeto-acolher-realiza-roda-de-conversa-sobre-saude-mental-na-pos-graduacao/",
+          "titulo": "Projeto Acolher realiza roda de conversa sobre saúde mental na pós-graduação",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://ufpa.br/progep-promove-programacao-especial-no-mes-de-combate-ao-suicidio/",
+          "titulo": "Progep promove programação especial no mês de combate ao suicídio",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://campuscastanhal.ufpa.br/?p=7210",
+          "titulo": "GPPEE da UFPA Castanhal lança manual de saúde mental para estudantes universitários",
+          "acessada": true,
+          "observacao": "usada apenas para descoberta (lista PROREDE, Plantão, Acolhimento Psicoeducacional, Roda-Vida, Imersões); manual não registrado como candidato"
+        },
+        {
+          "url": "https://portal.ufpa.br/index.php/ultimas-noticias2/12528-ufpa-disponibiliza-diferentes-canais-de-atendimento-psicologico-para-acolhimento-de-estudantes-e-servidores",
+          "titulo": "UFPA disponibiliza diferentes canais de acolhimento psicológico para estudantes e servidores",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca; não buscada"
+        },
+        {
+          "url": "https://saest.ufpa.br/portal/documentos/Acolhida em saúde mental-3.pdf",
+          "titulo": "Acolhida em saúde mental (SAEST)",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca; não buscada"
+        },
+        {
+          "url": "https://ifch.ufpa.br/images/PDF/2025/Resoluo_Comit_Preveno.pdf",
+          "titulo": "Resolução IFCH – comitê de prevenção (discriminação/assédio)",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca; tema assédio/violência, não saúde mental específica"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não foi localizada resolução/portaria instituindo política institucional de saúde mental da UFPA; verificar CONSUN/CONSEPE e SIPAC",
+        "Verificar se o PROREDE possui ato normativo próprio (edital cita a PINAE – Política Institucional de Assistência Estudantil e de Acessibilidade)",
+        "Confirmar situação atual do Plantão Psicológico, do PEAPs e do Projeto Acolher (fontes de 2020–2023)",
+        "Projetos Acolhimento Psicoeducacional, Roda-Vida e Imersões citados no Manual da Saúde Mental (Castanhal, 2025) não verificados em fonte primária",
+        "Verificar o 'Manual da Saúde Mental: um guia para o estudante' (GPPEE/Castanhal) como possível ação de formação/divulgação"
+      ],
+      "candidatos": [
+        {
+          "nome": "Projeto Rede de Apoio Psicossocial aos Estudantes (PROREDE) – Serviço de Saúde Mental",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço de saúde mental da PROAES/UFPA, vinculado ao PROREDE, sob responsabilidade da Diretoria de Atenção Integral ao Estudante (DAIE), como ação da Coordenadoria de Apoio à Saúde Estudantil (CASAE). Acesso por edital de fluxo contínuo para discentes em vulnerabilidade socioeconômica. Oferece psiquiatria, psicologia, serviço social, psicoterapia, acolhimento individual e grupal, escuta qualificada e práticas integrativas.",
+          "objetivos": "Realizar assistência de forma sistemática aos discentes, principalmente àqueles em situação de sofrimento psíquico (acolhimento/acompanhamento psicoeducacional, suporte psicossocial, promoção de cuidados e prevenção de adoecimentos da saúde mental).",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Edital de fluxo contínuo 2026",
+          "unidade_responsavel": "Pró-Reitoria de Assistência e Acessibilidade Estudantil (PROAES) – Diretoria de Atenção Integral ao Estudante (DAIE) / Coordenadoria de Apoio à Saúde Estudantil (CASAE)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Edital nº 07/2026 – PROAES – Serviços de Apoio à Saúde Estudantil",
+            "tipo_documento": "edital",
+            "numero_documento": "07/2026",
+            "data_publicacao": "2026-02-10",
+            "orgao_emissor": "Pró-Reitoria de Assistência e Acessibilidade Estudantil (PROAES/UFPA)",
+            "url_original": "https://sigaest.ufpa.br/proaes/public/editais/347/download"
+          },
+          "url_fonte": "https://sigaest.ufpa.br/proaes/public/editais/347/download",
+          "titulo_fonte": "EDITAL Nº 07/2026 – PROAES – SERVIÇOS DE APOIO À SAÚDE ESTUDANTIL",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2026-02-10",
+          "trecho_evidencia": "2.2.2. Serviço de Saúde Mental 2.2.2.1. Vinculado ao Projeto Rede de Apoio Psicossocial ao Estudante (PROREDE), objetiva realizar assistência de forma sistemática aos discentes, principalmente àqueles em situação de sofrimento psíquico, por meio de: [...] 2.2.2.2. Serviços oferecidos: Psiquiatria, psicologia, serviço social, psicoterapia, acolhimento individual e grupal, escuta qualificada,auriculoterapia, reiki, aromaterapia.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "campus"
+          ],
+          "justificativa": "Serviço permanente de atenção psicossocial da assistência estudantil, documentado em edital oficial vigente; o edital não é ato que institui política de saúde mental, por isso grau 3. Abrangência institucional inferida do edital (campi listados em contatos)."
+        },
+        {
+          "nome": "Projeto de Extensão de Assistência Psicossocial aos Discentes da UFPA (PEAPs)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Projeto de extensão mantido em parceria com a Superintendência de Assistência Estudantil (Saest), que encaminha estudantes; oferece acolhimento e atendimento psicológico e/ou psiquiátrico a alunos de graduação e pós-graduação, na sede do Instituto de Ciências Médicas.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Instituto de Ciências Médicas (ICM/UFPA), em parceria com a Saest",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://icm.ufpa.br/saude-mental",
+          "titulo_fonte": "Saúde Mental - ICM - UFPA",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2023-12-05",
+          "trecho_evidencia": "O PEAPS é um projeto de extensão mantido em parceria com a Superintendência de Assistência Estudantil da universidade (Saest), que encaminha estudantes para os atendimentos. Ele oferece acolhimento, atendimento psicológico e/ou psiquiátrico aos alunos de graduação e pós-graduação.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado",
+            "modalidade"
+          ],
+          "justificativa": "Declarado como projeto de extensão que presta atendimento continuado; categoria principal projeto_extensao com secundária servico_permanente. A Saest foi sucedida pela PROAES, o que pode afetar a situação atual."
+        },
+        {
+          "nome": "Programa de Assistência Psicossocial ao Servidor (PAPs)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Programa da rede de promoção da saúde e qualidade de vida da Progep, em parceria entre a UFPA e o Hospital das Clínicas Gaspar Vianna, que atende servidores técnico-administrativos e docentes com demandas de saúde mental, encaminhados pelo SIASS, pela Progep, por unidades ou por procura direta.",
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Desenvolvimento e Gestão de Pessoas (Progep), em parceria com o Hospital das Clínicas Gaspar Vianna",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://icm.ufpa.br/saude-mental",
+          "titulo_fonte": "Saúde Mental - ICM - UFPA",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2023-12-05",
+          "trecho_evidencia": "O PAPs (Programa de Assistência Psicossocial ao Servidor) é mantido dentro da rede de promoção da saúde e da qualidade de vida da Pró-reitoria de Desenvolvimento e Gestão de Pessoas da Universidade (Progep) e está ligado à uma parceria entre a UFPA e o Hospital das Clínicas Gaspar Vianna (HC).",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Serviço de atendimento em saúde mental a servidores; sem ato normativo localizado."
+        },
+        {
+          "nome": "Plantão Psicológico da UFPA",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço de escuta e orientação individual para estudantes em situação de fragilidade emocional, criado pela Saest em 2020, sem inscrição prévia, no segundo andar da Biblioteca Central; equipe de estagiários e professora da Faculdade de Psicologia e psicólogos da Saest.",
+          "objetivos": "Cuidar do bem-estar e da saúde mental dos estudantes; acolher o estudante em momento de fragilidade pontual e buscar outras opções de acompanhamento.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "Início em 07/01/2020",
+          "unidade_responsavel": "Superintendência de Assistência Estudantil (SAEST)",
+          "campus": "Belém (Biblioteca Central)",
+          "documento_relacionado": null,
+          "url_fonte": "https://ufpa.br/ufpa-cria-plantao-psicologico-para-atender-estudantes-em-vulnerabilidade-emocional/",
+          "titulo_fonte": "UFPA cria Plantão Psicológico para atender estudantes em vulnerabilidade emocional",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2020-01-07",
+          "trecho_evidencia": "Com o objetivo de cuidar do bem-estar e da saúde mental dos estudantes, a Universidade Federal do Pará (UFPA), por meio da Superintendência de Assistência Estudantil (SAEST), criou o serviço de Plantão Psicológico para atender alunos em situação de vulnerabilidade emocional.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "documento_relacionado"
+          ],
+          "justificativa": "Serviço documentado em notícia oficial; situação atual não confirmada (fonte de 2020; o Manual de 2025 ainda o cita). Campus Belém inferido da Biblioteca Central."
+        },
+        {
+          "nome": "Projeto de Extensão Acolher (saúde emocional na pós-graduação)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Projeto de extensão voltado a alunos de pós-graduação, com rodas de conversa (inclusive on-line durante a pandemia) e ações de saúde emocional, mediadas por bolsista de Psicologia e psicóloga voluntária.",
+          "objetivos": "Promover ações de saúde emocional para alunos de pós-graduação; criar espaços de escuta e acolhimento.",
+          "publico_alvo": [
+            "pos_graduandos"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://ufpa.br/projeto-acolher-realiza-roda-de-conversa-sobre-saude-mental-na-pos-graduacao/",
+          "titulo_fonte": "Projeto Acolher realiza roda de conversa sobre saúde mental na pós-graduação",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2020-08-19",
+          "trecho_evidencia": "Destinado a alunos de Programa de Pós-Graduação, o Projeto Acolher visa promover ações de saúde emocional, tendo em vista o alto índice de estresse e adoecimentos desses alunos.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "unidade_responsavel",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Declarado como projeto de extensão. Unidade não explicitada; a docente citada é do NTPC/UFPA. Modalidade on-line refere-se à edição de 2020 (pandemia)."
+        },
+        {
+          "nome": "UFPA na Valorização da Vida (programação Setembro Amarelo 2019)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Programação especial de 23 a 27 de setembro de 2019, em alusão ao Setembro Amarelo, organizada pela Progep com outros setores da UFPA, hospitais universitários, serviços psicossociais e apoio do CVV; mesas-redondas e atividades abertas a servidores, alunos e terceirizados.",
+          "objetivos": "Debater o tema da prevenção do suicídio e da saúde mental dentro da instituição.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "23 a 27 de setembro de 2019",
+          "unidade_responsavel": "Pró-Reitoria de Desenvolvimento e Gestão de Pessoal (Progep)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://ufpa.br/progep-promove-programacao-especial-no-mes-de-combate-ao-suicidio/",
+          "titulo_fonte": "Progep promove programação especial no mês de combate ao suicídio",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2019-09-18",
+          "trecho_evidencia": "Do dia 23 a 27 de setembro, em alusão ao Setembro Amarelo, a Pró-Reitoria de Gestão de Desenvolvimento e Pessoal (Progep), com os demais setores da UFPA, fará uma programação especial para debater esse tema dentro da Instituição.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "documento_relacionado"
+          ],
+          "justificativa": "Evento temático datado (Setembro Amarelo); notícias de 2018 também indicam ações semelhantes, não verificadas."
+        }
+      ]
+    },
+    {
+      "sigla": "UFPE",
+      "nome_oficial": "Universidade Federal de Pernambuco",
+      "dominio": "ufpe.br",
+      "consultas": [
+        "UFPE política de saúde mental resolução (site:ufpe.br)",
+        "UFPE aprova Política de Promoção à Saúde Mental e Atenção Psicossocial",
+        "UFPE NASE saúde mental estudantes atendimento psicológico Proaes (site:ufpe.br)",
+        "UFPE Programa de Promoção da Resiliência e Prevenção ao Suicídio plantão psicológico CFCH"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://www.ufpe.br/proaes/normas-e-resolucoes",
+          "titulo": "Normas e Resoluções - PROAES - UFPE",
+          "acessada": true,
+          "observacao": "usada (ementa da Portaria PROAES nº 05/2024 – PROMENTAL e Portaria nº 06/2024 – Regimento do NASE)"
+        },
+        {
+          "url": "https://drive.google.com/file/d/1rQqSH8klq_Ix5BSVBysrqL4lodQw8i8y/view?usp=sharing",
+          "titulo": "PROMENTAL - PORTARIA n° 05/2024 - PROAES",
+          "acessada": false,
+          "observacao": "link do Google Drive listado na página oficial; texto integral não acessado"
+        },
+        {
+          "url": "https://www.ufpe.br/progepe/qualidade-de-vida/saude-mental",
+          "titulo": "Saúde Mental - PROGEPE - UFPE",
+          "acessada": true,
+          "observacao": "usada (DSMAP, GT em Saúde Mental, cursos)"
+        },
+        {
+          "url": "https://www.gov.br/participamaisbrasil/politica-de-promocao-a-saude-mental-e-atencao-psicossocial-ppsmap-da-ufpe",
+          "titulo": "Política de Promoção à Saúde Mental e Atenção Psicossocial (PPSMAP) da UFPE – Participa + Brasil",
+          "acessada": true,
+          "observacao": "acessada via WebFetch (curl retornou 404); consulta pública 16/09/2025–12/10/2025, encerrada"
+        },
+        {
+          "url": "https://www.ufpe.br/proaes/nase",
+          "titulo": "Núcleo de Atenção à Saúde do Estudante (NASE) - UFPE",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufpe.br/proaes/nase/saude-mental",
+          "titulo": "Saúde Mental - NASE - UFPE",
+          "acessada": true,
+          "observacao": "conteúdo dinâmico não extraído (só menus)"
+        },
+        {
+          "url": "https://www.ufpe.br/documents/38978/4748146/65.Projeto+de+Promo%C3%A7%C3%A3o+da+Resili%C3%AAncia+e+Preven%C3%A7%C3%A3o+do+Suic%C3%ADdio.pdf/6d05ece0-e5e4-4bd5-ac7c-837ac5fae995",
+          "titulo": "Projeto de Promoção da Resiliência e Prevenção do Suicídio (ficha de projeto de extensão)",
+          "acessada": true,
+          "observacao": "usada; URL original neppag.ufpe.br falhou por certificado, acessada via www.ufpe.br"
+        },
+        {
+          "url": "https://ufpe.br/busca?_101_assetEntryId=1060818",
+          "titulo": "Pessoas em situação de vulnerabilidade psicossocial podem participar de acolhimento no CFCH",
+          "acessada": false,
+          "observacao": "timeout"
+        },
+        {
+          "url": "https://www.ufpe.br/documents/39098/4820640/Plano+Setorial+Enfrentamento+Ass%C3%A9dio+e+Discrimina%C3%A7%C3%A3o+-+Portaria+Normativa+1-2025.pdf/c3d28ef8-14ac-4c14-9820-718be4894de6",
+          "titulo": "Plano Setorial de Prevenção e Enfrentamento ao Assédio e Discriminação – Portaria Normativa 1/2025",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca; tema assédio (menciona saúde mental); não registrado"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Verificar se a Política de Promoção à Saúde Mental e Atenção Psicossocial (PPSMAP) foi aprovada pelo Conselho de Administração após a consulta pública encerrada em 12/10/2025",
+        "Obter texto integral da Portaria PROAES nº 05/2024 (PROMENTAL) – disponível apenas via Google Drive",
+        "Verificar Resolução nº 07/2021-Consad (Política de Promoção à Saúde e Qualidade de Vida no Trabalho do Servidor) – citada em busca, não acessada",
+        "Verificar Serviço de Psicologia Aplicada (SPA), Comissão de Saúde Mental/CCS, Laboratório Acolher (LACE) e serviços dos campi CAA e CAV",
+        "Confirmar se o Projeto de Promoção da Resiliência e Prevenção do Suicídio continuou após 12/2023"
+      ],
+      "candidatos": [
+        {
+          "nome": "Protocolo de Procedimentos em Situação de Crise em Saúde Mental (PROMENTAL)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Protocolo institucional para situações de crise em saúde mental envolvendo estudantes da UFPE, estabelecido por portaria da PROAES.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria para Assuntos Estudantis (PROAES)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "PROMENTAL - PORTARIA n° 05/2024 - PROAES",
+            "tipo_documento": "portaria",
+            "numero_documento": "05/2024",
+            "data_publicacao": "2024-02-07",
+            "orgao_emissor": "Pró-Reitoria para Assuntos Estudantis (PROAES/UFPE)",
+            "url_original": "https://drive.google.com/file/d/1rQqSH8klq_Ix5BSVBysrqL4lodQw8i8y/view?usp=sharing"
+          },
+          "url_fonte": "https://www.ufpe.br/proaes/normas-e-resolucoes",
+          "titulo_fonte": "Normas e Resoluções - UFPE (PROAES)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "PROMENTAL - PORTARIA n° 05/2024 - PROAES (07 DE FEVEREIRO DE 2024) EMENTA: Estabelece o Protocolo de Procedimentos em Situação de Crise em Saúde Mental (PROMENTAL) para estudantes da Universidade Federal de Pernambuco.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "campus"
+          ],
+          "justificativa": "Ato normativo (portaria) que estabelece protocolo institucional de saúde mental; grau 1 pela existência do ato, mas confiança média porque apenas a ementa foi lida (texto integral em Google Drive não acessado). Situação 'ativa' presumida pela listagem vigente."
+        },
+        {
+          "nome": "Política de Promoção à Saúde Mental e Atenção Psicossocial (minuta – em tramitação)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Minuta de política institucional elaborada pelo Grupo de Trabalho de Promoção à Saúde Mental (criado em 2021, coordenado pela DSMAP/PROGEPE, com representantes de diversas pró-reitorias, centros e entidades); entregue ao Gabinete do Reitor em março de 2025 para consulta pública e futura aprovação.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": "GT desde 2021; minuta entregue em março de 2025",
+          "unidade_responsavel": "Divisão de Promoção à Saúde Mental e Atenção Psicossocial (DSMAP) / Diretoria de Qualidade de Vida / PROGEPE",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Política de Promoção à Saúde Mental e Atenção Psicossocial (PPSMAP) da UFPE – consulta pública",
+            "tipo_documento": "outro",
+            "numero_documento": null,
+            "data_publicacao": null,
+            "orgao_emissor": "Pró-Reitoria de Gestão de Pessoas e Qualidade de Vida (Progepe/UFPE)",
+            "url_original": "https://www.gov.br/participamaisbrasil/politica-de-promocao-a-saude-mental-e-atencao-psicossocial-ppsmap-da-ufpe"
+          },
+          "url_fonte": "https://www.ufpe.br/progepe/qualidade-de-vida/saude-mental",
+          "titulo_fonte": "Saúde Mental - UFPE (PROGEPE)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O GT, a partir de debates democráticos, apontou a necessidade da institucionalização de uma política no âmbito da promoção da saúde mental. [...] Como produto final do GT, a Política de Promoção à Saúde Mental e Atenção Psicossocial foi entregue ao Gabinete do Reitor durante o Evento Conexão Gestor, em março de 2025, seguindo para consulta pública e futura aprovação.",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "numero_documento",
+            "data_publicacao"
+          ],
+          "justificativa": "Política ainda não aprovada nas fontes consultadas (consulta pública no Participa + Brasil de 16/09/2025 a 12/10/2025, encerrada); não há ato normativo localizado, por isso grau 2 e não 1. O revisor pode preferir grau 4 até confirmação da aprovação."
+        },
+        {
+          "nome": "Divisão de Promoção à Saúde Mental e Atenção Psicossocial (DSMAP/PROGEPE)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Setor da Diretoria de Qualidade de Vida da PROGEPE voltado à atenção psicossocial de servidores, organizado em dois eixos: promoção à saúde mental e atenção psicossocial; e acolhimento psicossocial no âmbito das relações de trabalho (escuta qualificada individual e grupal, inclusive em situações de assédio e discriminação).",
+          "objetivos": "Mapear, assessorar, planejar e desenvolver ações de promoção à saúde mental e atenção psicossocial; ofertar escuta qualificada individual e grupal nas relações de trabalho.",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Diretoria de Qualidade de Vida (DQV) / PROGEPE",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufpe.br/progepe/qualidade-de-vida/saude-mental",
+          "titulo_fonte": "Saúde Mental - UFPE (PROGEPE)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Divisão de Promoção à Saúde Mental e Atenção Psicossocial integra a Diretoria de Qualidade de Vida (DQV), na PROGEPE, e norteia suas ações a partir da promoção à saúde, saúde do trabalhador e defesa da luta antimanicomial. Seu foco é ampliar o campo da atenção psicossocial para os servidores e servidoras",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Unidade/serviço permanente de atenção psicossocial ao servidor; não é política (a política está em tramitação)."
+        },
+        {
+          "nome": "Núcleo de Atenção à Saúde do Estudante (NASE) – atendimento em psicologia e psiquiatria",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Núcleo da PROAES que executa ações de atenção à saúde previstas no PNAES para estudantes de graduação do campus Recife beneficiários da assistência estudantil ou em vulnerabilidade socioeconômica; inclui atendimentos de psicologia e psiquiatria por consultas eletivas após triagem, com referenciamento à rede UFPE, SUS ou privada.",
+          "objetivos": "Ampliar o acesso ao cuidado integral dos estudantes.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria para Assuntos Estudantis (PROAES)",
+          "campus": "Recife",
+          "documento_relacionado": {
+            "titulo": "REGIMENTO INTERNO DO NASE - PORTARIA Nº 06/2024 - PROAES",
+            "tipo_documento": "portaria",
+            "numero_documento": "06/2024",
+            "data_publicacao": "2024-02-21",
+            "orgao_emissor": "Pró-Reitoria para Assuntos Estudantis (PROAES/UFPE)",
+            "url_original": "https://drive.google.com/file/d/1bXdAW6K0yNQydUUG64BSyEpvu-O_NUZq/view?usp=sharing"
+          },
+          "url_fonte": "https://www.ufpe.br/proaes/nase",
+          "titulo_fonte": "Núcleo de Atenção à Saúde do Estudante (NASE) - UFPE",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Constitui seu público-alvo os(as) estudantes de graduação do campus Recife da UFPE beneficiados pelos programas de assistência estudantil da PROAES ou que comprovem situação de vulnerabilidade socioeconômica. [...] Os atendimentos de Clínica Médica, Psicologia, Psiquiatria e Nutrição do NASE ocorrem através de consultas eletivas, com agendamento prévio.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço de saúde estudantil com atenção em saúde mental; o regimento (Portaria 06/2024) organiza o núcleo, mas não é política de saúde mental, por isso grau 3. Regimento não acessado (Google Drive)."
+        },
+        {
+          "nome": "Projeto de Promoção da Resiliência e Prevenção do Suicídio",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Projeto de extensão (área Saúde) do Departamento de Psicologia/CFCH, com metodologia de pesquisa-ação, que prevê capacitações para acolhimento, plantão psicológico de prevenção ao suicídio, oficinas de promoção da resiliência, grupos focais e palestras, em formato híbrido, para a comunidade da UFPE e externa (escolas públicas, ONGs, UBS).",
+          "objetivos": "Sensibilizar a comunidade acadêmica e externa acerca da questão do suicídio; realizar ações que fortaleçam indivíduos/grupos em vulnerabilidade psicossocial quanto ao risco da conduta suicida.",
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "campus",
+          "situacao_aparente": "encerrada",
+          "periodo": "14/03/2022 a 29/12/2023",
+          "unidade_responsavel": "Departamento de Psicologia – CFCH",
+          "campus": "Recife (Cidade Universitária)",
+          "documento_relacionado": {
+            "titulo": "2022-01 - Edital de credenciamento de ações de extensão nas modalidades programa, projeto, curso, evento e serviço",
+            "tipo_documento": "edital",
+            "numero_documento": "2022-01",
+            "data_publicacao": null,
+            "orgao_emissor": null,
+            "url_original": null
+          },
+          "url_fonte": "https://www.ufpe.br/documents/38978/4748146/65.Projeto+de+Promo%C3%A7%C3%A3o+da+Resili%C3%AAncia+e+Preven%C3%A7%C3%A3o+do+Suic%C3%ADdio.pdf/6d05ece0-e5e4-4bd5-ac7c-837ac5fae995",
+          "titulo_fonte": "PROJETO DE EXTENSÃO – Projeto de Promoção da Resiliência e Prevenção do Suicídio",
+          "tipo_fonte": "sistema_extensao",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Essa proposta objetiva: (a) sensibilizar, acerca da questão do suicídio, a comunidade acadêmica da UFPE do campus da Cidade Universitária/Recife, escolas públicas e algumas organizações não governamentais situadas nas proximidades dessa universidade; (b)realizar ações que estimulem o fortalecimento de indivíduos e/ou grupos que estejam em situação de vulnerabilidade psicossocial quanto ao risco da conduta suicida.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Ficha oficial de projeto de extensão credenciado; período encerrado em 12/2023 segundo a ficha (continuidade não verificada)."
+        },
+        {
+          "nome": "Curso de Primeiros Cuidados Psicológicos (PCP)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [],
+          "descricao": "Curso oferecido no âmbito da área de saúde mental da PROGEPE para qualificar o acolhimento inicial em situações de crise no cotidiano de trabalho, com folheto e cartilha de orientações; a mesma página cita curso sobre Saúde Mental e Rede de Atenção Psicossocial.",
+          "objetivos": "Qualificar o acolhimento inicial nas situações corriqueiras de crise; permitir que servidores realizem acolhimento e suporte psicossocial a estudantes ou colegas.",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "PROGEPE (página da DSMAP/Diretoria de Qualidade de Vida)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufpe.br/progepe/qualidade-de-vida/saude-mental",
+          "titulo_fonte": "Saúde Mental - UFPE (PROGEPE)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O curso de Primeiros Cuidados Psicológicos foi criado com o objetivo de qualificar o acolhimento inicial nas situações corriqueiras de crise que podem acontecer no cotidiano de trabalho.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Ação de capacitação de servidores; unidade responsável inferida da página onde está publicada."
+        }
+      ]
+    },
+    {
+      "sigla": "UnB",
+      "nome_oficial": "Universidade de Brasília",
+      "dominio": "unb.br",
+      "consultas": [
+        "UnB saúde mental política estudantes acolhimento (site:unb.br)",
+        "\"Política de Saúde Mental e Atenção Psicossocial\" UnB resolução Conselho de Administração CAD 2024",
+        "UnB \"Fórum de Saúde Mental\" OR \"setembro amarelo\" Dasu programação (site:unb.br)",
+        "CAEP Centro de Atendimento e Estudos Psicológicos UnB Instituto de Psicologia atendimento (site:unb.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://deg.unb.br/wp-content/uploads/resolucao_cad_050_2024_saude_mental.pdf",
+          "titulo": "Resolução do Conselho de Administração nº 050/2024",
+          "acessada": true,
+          "observacao": "usada (PDF; texto extraído localmente)"
+        },
+        {
+          "url": "https://dasu.unb.br/wp-content/uploads/2025/02/SEI_12337250_Resolucao_004-3.pdf",
+          "titulo": "Resolução do Decanato de Assuntos Comunitários nº 004/2024 (PROSAM)",
+          "acessada": true,
+          "observacao": "usada (PDF)"
+        },
+        {
+          "url": "https://dasu.unb.br/programa-de-acolhimento-e-promocao-da-saude-mental-prosam/",
+          "titulo": "Programa de Acolhimento e Promoção da Saúde Mental (Prosam) – DASU UnB",
+          "acessada": true,
+          "observacao": "usada para localizar a resolução"
+        },
+        {
+          "url": "https://dasu.unb.br/coordenacao-de-atencao-psicossocial/",
+          "titulo": "Coordenação de Atenção Psicossocial (Coap) – DASU UnB",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://ip.unb.br/caep/",
+          "titulo": "Centro de Atendimento e Estudos Psicológicos – CAEP – Instituto de Psicologia – UnB",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://dasu.unb.br/wp-content/uploads/2025/09/Relatorio-CoRedes-2024-1.pdf",
+          "titulo": "Relatório CoRedes – Janeiro a dezembro de 2024",
+          "acessada": true,
+          "observacao": "usada (PDF)"
+        },
+        {
+          "url": "https://noticias.unb.br/informes/7709-unb-aprova-politica-de-saude-mental-e-atencao-psicossocial",
+          "titulo": "UnB aprova Política de Saúde Mental e Atenção Psicossocial",
+          "acessada": false,
+          "observacao": "404 (curl e WebFetch)"
+        },
+        {
+          "url": "https://noticias.unb.br/institucional/8223-unb-institui-comite-intersetorial-permanente-de-saude-mental-atencao-psicossocial-e-promocao-de-saude",
+          "titulo": "UnB institui Comitê Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde",
+          "acessada": false,
+          "observacao": "404 (curl e WebFetch)"
+        },
+        {
+          "url": "https://dac.unb.br/destaques/187-unb-promove-acoes-de-promocao-e-conscientizacao-sobre-saude-mental",
+          "titulo": "UnB promove ações de promoção e conscientização sobre Saúde Mental",
+          "acessada": false,
+          "observacao": "404"
+        },
+        {
+          "url": "https://www.dac.unb.br/destaques/116-atividades-ofertadas-pela-dasu-a-comunidade-universitaria",
+          "titulo": "Apoio Psicológico - DAC",
+          "acessada": false,
+          "observacao": "timeout"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Localizar o ato de instituição do CoPESM (Comitê Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde) – notícia oficial retornou 404",
+        "Verificar o I Fórum de Saúde Mental da UnB (data/ano) e ações da Semana Universitária",
+        "Verificar iniciativas de unidades (NAPEM/Medicina, Gipsi, poshis) e dos campi FCE, FUP, FGA",
+        "Verificar Política Integrada da Vida Estudantil (DEG) quanto a componentes de saúde mental"
+      ],
+      "candidatos": [
+        {
+          "nome": "Política de Saúde Mental e Atenção Psicossocial da Universidade de Brasília",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Política institucional instituída pelo Conselho de Administração, que reconhece a saúde mental e a atenção psicossocial como direitos, define princípios (humanização, acolhimento, não violência, não estigmatização, cuidado em liberdade) e prevê o Comitê Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde (CoPESM), vinculado ao DAC, com responsabilidades atribuídas ao DAC, à DASU, ao CoPESM e às unidades.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Aprovada em 14/11/2024",
+          "unidade_responsavel": "Decanato de Assuntos Comunitários (DAC) / Diretoria de Atenção à Saúde da Comunidade Universitária (DASU)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Resolução do Conselho de Administração nº 050/2024 – Institui a Política de Saúde Mental e Atenção Psicossocial da Universidade de Brasília",
+            "tipo_documento": "resolucao",
+            "numero_documento": "050/2024",
+            "data_publicacao": "2024-11-18",
+            "orgao_emissor": "Conselho de Administração (CAD/UnB)",
+            "url_original": "https://deg.unb.br/wp-content/uploads/resolucao_cad_050_2024_saude_mental.pdf"
+          },
+          "url_fonte": "https://deg.unb.br/wp-content/uploads/resolucao_cad_050_2024_saude_mental.pdf",
+          "titulo_fonte": "RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 050/2024",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-11-18",
+          "trecho_evidencia": "RESOLUÇÃO DO CONSELHO DE ADMINISTRAÇÃO Nº 050/2024 Institui a Política de Saúde Mental e Atenção Psicossocial da Universidade de Brasília O CONSELHO DE ADMINISTRAÇÃO DA UNIVERSIDADE DE BRASÍLIA, no uso de suas atribuições, em sua 440ª Reunião, realizada em 14/11/2024",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade"
+          ],
+          "justificativa": "Resolução de conselho superior que institui formalmente a política. Data de publicação = data do Boletim de Atos Oficiais (18/11/2024); reunião em 14/11/2024."
+        },
+        {
+          "nome": "Programa de Acolhimento e Promoção da Saúde Mental (PROSAM)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Programa formalmente instituído/atualizado por resolução do DAC, alinhado ao PNAES, destinado a estudantes de graduação presencial (e de pós-graduação conforme orçamento) em vulnerabilidade socioeconômica e sofrimento psíquico; prevê acolhimento psicossocial e auxílio financeiro provisório para tratamento psicológico/psiquiátrico e medicamentos.",
+          "objetivos": "Promover uma cultura de cuidado, acolhimento e acompanhamento de estudantes em situação de vulnerabilidade socioeconômica e em sofrimento psíquico ou com transtornos mentais.",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Decanato de Assuntos Comunitários (DAC) / DASU",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Resolução do Decanato de Assuntos Comunitários nº 004/2024 – Atualiza o Programa de Acolhimento e Promoção da Saúde Mental (PROSAM)",
+            "tipo_documento": "resolucao",
+            "numero_documento": "004/2024",
+            "data_publicacao": "2025-02-05",
+            "orgao_emissor": "Decanato de Assuntos Comunitários / Câmara de Assuntos Comunitários (UnB)",
+            "url_original": "https://dasu.unb.br/wp-content/uploads/2025/02/SEI_12337250_Resolucao_004-3.pdf"
+          },
+          "url_fonte": "https://dasu.unb.br/wp-content/uploads/2025/02/SEI_12337250_Resolucao_004-3.pdf",
+          "titulo_fonte": "RESOLUÇÃO DO (A) DECANATO DE ASSUNTOS COMUNITÁRIOS Nº 004/2024",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2025-02-05",
+          "trecho_evidencia": "Art. 1º Atualizar o Programa de Acolhimento e Promoção da Saúde Mental (PROSAM) alinhado aos objetivos da PNAES, que visa promover uma cultura de cuidado, acolhimento e acompanhamento de estudantes em situação de vulnerabilidade socioeconômica e em sofrimento psíquico ou com transtornos mentais.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo"
+          ],
+          "justificativa": "Programa institucional formalmente estabelecido por resolução (taxonomia: programa formalmente instituído = politica_institucional); componente de auxílio/acolhimento justifica secundária servico_permanente. Data = publicação no Boletim de Atos Oficiais (05/02/2025)."
+        },
+        {
+          "nome": "Coordenação de Atenção Psicossocial (Coap/DASU)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Coordenação da DASU que realiza triagem, acolhimento psicossocial, atendimento psicológico e nutricional, escuta de enlutamento e orientações/encaminhamentos em saúde mental para estudantes, técnicos e docentes, priorizando pessoas em vulnerabilidade socioeconômica.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Diretoria de Atenção à Saúde da Comunidade Universitária (DASU) / Decanato de Assuntos Comunitários (DAC)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Ato do Decanato de Assuntos Comunitários nº 04/2021 (atribuições da DASU)",
+            "tipo_documento": "outro",
+            "numero_documento": "04/2021",
+            "data_publicacao": null,
+            "orgao_emissor": "Decanato de Assuntos Comunitários (UnB)",
+            "url_original": null
+          },
+          "url_fonte": "https://dasu.unb.br/coordenacao-de-atencao-psicossocial/",
+          "titulo_fonte": "Coordenação de Atenção Psicossocial – DASU UnB",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Coordenação de Atenção Psicossocial (Coap/Dasu) realiza acolhimento psicossocial, atendimento psicológico e nutricional aos estudantes, servidores técnicos e docentes da Universidade de Brasília, priorizando aqueles que se encontram em vulnerabilidade socioeconômica.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço permanente; o Ato DAC 04/2021 é citado na Resolução DAC 004/2024 como o ato que estabelece as atribuições da DASU (não acessado)."
+        },
+        {
+          "nome": "Centro de Atendimento e Estudos Psicológicos (CAEP/IP)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Serviço-escola vinculado ao Instituto de Psicologia, em funcionamento desde 1975, que apoia a formação prática de estudantes de graduação e pós-graduação e realiza atendimento psicológico, ensino, pesquisa e extensão; vagas ofertadas no início de cada semestre.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": "Desde 1975",
+          "unidade_responsavel": "Instituto de Psicologia (IP/UnB)",
+          "campus": "Darcy Ribeiro",
+          "documento_relacionado": null,
+          "url_fonte": "https://ip.unb.br/caep/",
+          "titulo_fonte": "Centro de Atendimento e Estudos Psicológicos – CAEP – Instituto de Psicologia – UnB",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Centro de Atendimento e Estudos Psicológicos funciona desde 1975. O CAEP é um centro de custo vinculado ao Instituto de Psicologia da Universidade de Brasília. Tem como função apoiar os Departamentos na realização das atividades práticas para a formação profissional e acadêmica dos estudantes de graduação e de pós- graduação. Compreende atividades de atendimento psicológico, ensino, pesquisa e extensão em Psicologia.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Clínica-escola (serviço permanente). Público externo indicado em FAQ do CAEP visto apenas em resultado de busca; campus inferido de outras fontes de busca (confirmar)."
+        },
+        {
+          "nome": "Oficina \"365 dias de saúde mental na UnB\" – evento oficial da DASU referente ao Setembro Amarelo (2024)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Oficina de interação, autocuidado e bem-estar no Campus Darcy Ribeiro, em 17/10/2024, organizada pela CoRedes/DASU em parceria com Olhos da Alma Sã, Polo de Cuidado (FCE) e liga acadêmica, com certificado de extensão; registrada como evento oficial da DASU em referência ao Setembro Amarelo.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "encerrada",
+          "periodo": "17/10/2024",
+          "unidade_responsavel": "Coordenação de Articulação de Redes para Prevenção e Promoção da Saúde (CoRedes/DASU/DAC)",
+          "campus": "Darcy Ribeiro",
+          "documento_relacionado": null,
+          "url_fonte": "https://dasu.unb.br/wp-content/uploads/2025/09/Relatorio-CoRedes-2024-1.pdf",
+          "titulo_fonte": "RELATÓRIO COREDES – Janeiro a dezembro de 2024",
+          "tipo_fonte": "relatorio_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Organização da Oficina “365 dias de saúde mental na UnB - Um Momento de Interação, Autocuidado e Bem-estar para você! Campus Darcy Ribeiro”, 17/10, em parceria com Olhos da Alma Sã, Polo de Cuidado (FCE), Liga Acadêmica Interdisciplinar de Cosmetologia e Estética. Atividade com certificado de extensão e evento oficial da DASU em referência ao setembro amarelo - coordenação da COREDES.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Evento pontual documentado em relatório institucional; o ano (2024) decorre do período do relatório. O mesmo relatório lista outras oficinas e capacitações (Semuni 2024) que podem gerar registros adicionais."
+        }
+      ]
+    },
+    {
+      "sigla": "USP",
+      "nome_oficial": "Universidade de São Paulo",
+      "dominio": "usp.br",
+      "consultas": [
+        "USP saúde mental política escritório saúde mental (site:usp.br)",
+        "USP PRIP saúde mental \"Escritório de Saúde Mental\" OR \"ESM\" Pró-Reitoria de Inclusão e Pertencimento (site:usp.br)",
+        "USP resolução saúde mental política institucional comunidade USP (site:usp.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://prip.usp.br/areas/saude-mental/programa-ecos/",
+          "titulo": "Programa ECOS – PRIP – USP",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://prip.usp.br/areas/saude-mental/",
+          "titulo": "Saúde Mental – PRIP – USP",
+          "acessada": true,
+          "observacao": "usada (Diretoria de Saúde Mental e Bem-Estar Social)"
+        },
+        {
+          "url": "https://prip.usp.br/areas/saude-mental/protocolo-de-emergencia-de-saude-mental/",
+          "titulo": "Protocolo de Emergência – PRIP – USP",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://prip.usp.br/areas/saude-mental/mapa-de-saude-mental/",
+          "titulo": "Mapa de Saúde Mental – PRIP",
+          "acessada": false,
+          "observacao": "falha de conexão (curl)"
+        },
+        {
+          "url": "https://jornal.usp.br/institucional/programa-ecos-escuta-cuidado-e-orientacao-em-saude-mental/",
+          "titulo": "Programa Ecos: espaço de escuta, cuidado e orientação em saúde mental na Universidade",
+          "acessada": true,
+          "observacao": "usada como fonte complementar (inauguração da sede em 24/10/2022)"
+        },
+        {
+          "url": "https://jornal.usp.br/universidade/usp-quer-ampliar-rede-de-cuidados-em-saude-mental-na-universidade/",
+          "titulo": "USP quer ampliar rede de cuidados em saúde mental na Universidade",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://portal.if.usp.br/ifusp/pt-br/not%C3%ADcia/escrit%C3%B3rio-de-sa%C3%BAde-mental-da-usp-em-funcionamento",
+          "titulo": "Escritório de Saúde Mental da USP em funcionamento",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://jornal.usp.br/institucional/usp-discute-saude-mental-dos-jovens-e-prevencao-ao-suicidio/",
+          "titulo": "USP discute saúde mental dos jovens e prevenção do suicídio",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.poli.usp.br/grupo-de-acolhimento-e-promocao-a-saude-da-escola-politecnica-da-usp/onde-encontrar-ajuda/",
+          "titulo": "Onde encontrar ajuda? – Poli USP",
+          "acessada": false,
+          "observacao": "falha de conexão (curl)"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não foi localizada resolução específica instituindo política de saúde mental da USP; verificar atos da Reitoria/Conselho Universitário referentes à PRIP e à Diretoria de Saúde Mental e Bem-Estar Social",
+        "Confirmar se o Escritório de Saúde Mental (2018) foi extinto ou incorporado à PRIP/ECOS",
+        "Verificar Mapa de Saúde Mental e Bem-Estar da USP (página não acessada)",
+        "Verificar iniciativas de unidades: Grupo de Acolhimento e Promoção à Saúde (Poli), FísicAcolhe (IF), Grupo de Saúde Mental da FCF, CIP/IP, ESALQ, e clínicas-escola do IP-USP",
+        "Verificar a SAS/serviços de saúde (HU, SESMT) e iniciativas para servidores"
+      ],
+      "candidatos": [
+        {
+          "nome": "Programa ECOS – Escuta, Cuidado e Orientação em Saúde Mental",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "politica_institucional"
+          ],
+          "descricao": "Programa de saúde mental da PRIP voltado à comunidade USP, com espaços de atendimento em diferentes campi (escutas pontuais presenciais por profissionais de saúde e bolsistas, com encaminhamento às redes interna e externa), articulação de rede de cuidados territorial (Mapa de Saúde Mental e Bem-Estar) e apoio institucional a grupos e unidades. Não atende emergências.",
+          "objetivos": "Oferecer espaço de acolhimento e orientação na busca de caminhos para diferentes sofrimentos e dificuldades; articular rede de cuidados em saúde mental nos territórios dos campi.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Inclusão e Pertencimento (PRIP)",
+          "campus": "Múltiplos campi (São Paulo, Bauru, Lorena, Piracicaba, Pirassununga, São Carlos, entre outros)",
+          "documento_relacionado": null,
+          "url_fonte": "https://prip.usp.br/areas/saude-mental/programa-ecos/",
+          "titulo_fonte": "Programa ECOS – PRIP – Pró-Reitoria de Inclusão e Pertencimento – USP",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2024-12-04",
+          "trecho_evidencia": "O ECOS é um programa de saúde mental voltado à comunidade USP, que propõe uma pausa na rotina universitária, oferecendo um espaço de acolhimento e orientação na busca de caminhos para diferentes sofrimentos e dificuldades.",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Programa institucional estruturado e multicampi, sem ato normativo localizado (grau 2). Jornal da USP (25/10/2022) registra a inauguração da sede em 24/10/2022 e o descreve como 'uma das ações mais importantes da política de saúde mental da PRIP'. Data da fonte = datePublished da página (pode refletir atualização)."
+        },
+        {
+          "nome": "Diretoria de Saúde Mental e Bem-Estar Social da PRIP",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Diretoria da Pró-Reitoria de Inclusão e Pertencimento com o objetivo de desenvolver ações de convivência, bem-estar social e saúde mental: prevenção de sofrimentos, orientação e acolhimento inicial a estudantes, docentes e servidores; acolhimento em perspectiva interseccional; promoção da saúde mental por dispositivos de escuta e educativos e integração às redes.",
+          "objetivos": "Desenvolver ações relacionadas à convivência, ao bem-estar social e à saúde mental no campus.",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Inclusão e Pertencimento (PRIP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://prip.usp.br/areas/saude-mental/",
+          "titulo_fonte": "Saúde Mental – PRIP – USP",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2024-12-04",
+          "trecho_evidencia": "Saúde Mental e Bem-Estar Social é uma diretoria da Pró-Reitoria de Inclusão e Pertencimento que tem por objetivo desenvolver ações relacionadas à convivência, ao bem-estar social e à saúde mental no campus, especialmente:",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Estrutura institucional dedicada à saúde mental na administração central, sem ato normativo de política localizado; grau 2. O revisor pode preferir tratá-la como estrutura de gestão em vez de candidato autônomo (sobreposição com ECOS)."
+        },
+        {
+          "nome": "Protocolo de Emergência de Saúde Mental (PRIP/ECOS)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Protocolo de orientação para situações de emergência em saúde mental na universidade (acionamento da Guarda Universitária, SAMU, bombeiros e polícia; orientações de acolhimento), desenvolvido em janeiro de 2025 pela equipe do ECOS com apoio do LEPS/EERP-USP, com cartaz e folder.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Desenvolvido em janeiro de 2025",
+          "unidade_responsavel": "Programa ECOS / PRIP, com apoio do LEPS (EERP-USP)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Folder – Protocolo de Emergência",
+            "tipo_documento": "outro",
+            "numero_documento": null,
+            "data_publicacao": null,
+            "orgao_emissor": "PRIP/USP",
+            "url_original": "https://prip.usp.br/wp-content/uploads/sites/1632/2025/04/FOLDER-Protocolo-de-Emergencia.pdf"
+          },
+          "url_fonte": "https://prip.usp.br/areas/saude-mental/protocolo-de-emergencia-de-saude-mental/",
+          "titulo_fonte": "Protocolo de Emergência – PRIP – Pró-Reitoria de Inclusão e Pertencimento – USP",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Este protocolo foi desenvolvido em janeiro de 2025 pela equipe do Programa ECOS, com o apoio do Laboratório de Estudos e Pesquisa em Prevenção e Posvenção do Suicídio (LEPS) da Escola de Enfermagem de Ribeirão Preto da USP (EERP-USP).",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "numero_documento"
+          ],
+          "justificativa": "Protocolo institucional de crise publicado pela Pró-Reitoria, mas sem ato normativo formal localizado (grau 2). Folder/cartaz não abertos."
+        },
+        {
+          "nome": "Escritório de Saúde Mental (ESM) da USP",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço criado em 2018 para apoio a alunos (primeiro contato via plataforma e reuniões presenciais), consultoria a unidades sobre prevenção do suicídio e palestras; à época instalado provisoriamente na Superintendência de Assistência Social, a partir de projeto solicitado pela Pró-Reitoria de Graduação.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": "Desde 2018",
+          "unidade_responsavel": "Pró-Reitoria de Graduação (coordenação pelo Instituto de Psicologia)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://portal.if.usp.br/ifusp/pt-br/not%C3%ADcia/escrit%C3%B3rio-de-sa%C3%BAde-mental-da-usp-em-funcionamento",
+          "titulo_fonte": "Escritório de Saúde Mental da USP em funcionamento",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2018-08-22",
+          "trecho_evidencia": "Preocupada com o problema, a USP criou o Escritório de Saúde Mental, uma ferramenta unificada que presta apoio aos alunos através de uma plataforma, onde realizam o primeiro contato para orientação, e posteriormente agendam reuniões presenciais. O escritório também presta consultoria a unidades que necessitem de auxílio e diálogo sobre a prevenção de suicídios e promove palestras sobre o tema.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "documento_relacionado"
+          ],
+          "justificativa": "Serviço documentado em notícia oficial de unidade (IF); situação atual desconhecida (possivelmente sucedido pelas ações da PRIP – não confirmado). Modalidade híbrida inferida (plataforma on-line + reuniões presenciais)."
+        },
+        {
+          "nome": "1º Simpósio sobre Prevenção ao Suicídio: Complexidade e Esperança (2019)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Simpósio promovido pelo Escritório de Saúde Mental em 9 de setembro de 2019, reunindo pesquisadores e especialistas sobre prevenção do suicídio, com abertura do reitor.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "09/09/2019",
+          "unidade_responsavel": "Escritório de Saúde Mental (ESM) da USP",
+          "campus": "São Paulo (Biblioteca Brasiliana Guita e José Mindlin)",
+          "documento_relacionado": null,
+          "url_fonte": "https://jornal.usp.br/institucional/usp-discute-saude-mental-dos-jovens-e-prevencao-ao-suicidio/",
+          "titulo_fonte": "USP discute saúde mental dos jovens e prevenção do suicídio",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2019-09-10",
+          "trecho_evidencia": "No dia 9 de setembro, o Escritório de Saúde Mental (ESM) da USP promoveu o 1º Simpósio sobre Prevenção ao Suicídio: Complexidade e Esperança, que reuniu pesquisadores e especialistas para discutir o que já é considerada a segunda maior causa de morte entre jovens no mundo: o suicídio.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "documento_relacionado"
+          ],
+          "justificativa": "Evento pontual (contexto Setembro Amarelo) documentado em notícia oficial."
+        },
+        {
+          "nome": "Questionário PRIP: Inclusão e Pertencimento na USP (diagnóstico de saúde mental)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [],
+          "descricao": "Pesquisa institucional realizada em 2022 pela PRIP sobre experiências e percepções da comunidade nos ambientes institucionais, cujos resultados incluem indicadores de saúde mental (quase metade da comunidade não estava bem mentalmente em 2021) e subsidiam a política de saúde mental da PRIP.",
+          "objetivos": "Promover propostas e políticas visando à maior inclusão e pertencimento na Universidade.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "2022",
+          "unidade_responsavel": "Pró-Reitoria de Inclusão e Pertencimento (PRIP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://jornal.usp.br/universidade/usp-quer-ampliar-rede-de-cuidados-em-saude-mental-na-universidade/",
+          "titulo_fonte": "USP quer ampliar rede de cuidados em saúde mental na Universidade",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2023-05-03",
+          "trecho_evidencia": "Em 2021, ano pandêmico, quase metade da comunidade USP não estava bem mentalmente, de acordo com os resultados do Questionário PRIP: Inclusão e Pertencimento na USP, realizado em 2022 pela Pró-Reitoria de Inclusão e Pertencimento (PRIP).",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "documento_relacionado"
+          ],
+          "justificativa": "Pesquisa aplicada institucional com componente de saúde mental; modalidade on-line inferida de busca ('pesquisa on-line'), confirmar. Não é iniciativa de cuidado direto."
+        }
+      ]
+    },
+    {
+      "sigla": "UFSC",
+      "nome_oficial": "Universidade Federal de Santa Catarina",
+      "dominio": "ufsc.br",
+      "consultas": [
+        "UFSC política de saúde mental resolução (site:ufsc.br)",
+        "UFSC SAPSI Serviço de Atenção Psicológica atendimento comunidade (site:ufsc.br)",
+        "UFSC Prae atendimento psicológico estudantes Coordenadoria (site:ufsc.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://conselhouniversitario.paginas.ufsc.br/files/2024/04/vers%C3%A3o-consolidada-RN_1632022CUn_CIPAPP.pdf",
+          "titulo": "Resolução Normativa nº 163/2022/CUn (versão consolidada, alterada pela RN 188/2024/CUn)",
+          "acessada": true,
+          "observacao": "usada (PDF)"
+        },
+        {
+          "url": "https://noticias.ufsc.br/2023/07/comissao-apresenta-plano-de-implementacao-da-politica-de-saude-mental-na-ufsc/",
+          "titulo": "Comissão apresenta plano de implementação da política de saúde mental na UFSC",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://noticias.ufsc.br/2024/12/comite-intersetorial-apresenta-mapeamento-da-saude-mental-na-ufsc/",
+          "titulo": "Comitê intersetorial apresenta mapeamento da Saúde Mental na UFSC",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://sapsi.ufsc.br/",
+          "titulo": "Serviço de Atenção Psicológica (SAPSI)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://acolhe.ufsc.br/servicos-de-acolhimento-ufsc-florianopolis/",
+          "titulo": "Acolhe UFSC – Campus Florianópolis",
+          "acessada": true,
+          "observacao": "usada (Setor de Psicologia Educacional/PRAE); informações sobre SAPSI na página estão desatualizadas (pandemia)"
+        },
+        {
+          "url": "https://napa.paginas.ufsc.br/",
+          "titulo": "Núcleo de Apoio Psicossocial e Pedagógico ao Aluno (NAPA) – CCS",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://prodegesp.ufsc.br/departamento-de-atencao-a-saude-promove-campanha-de-conscientizacao-janeiro-branco-mes-de-conscientizacao-de-saude-mental-emocional/",
+          "titulo": "Departamento de Atenção à Saúde promove campanha de conscientização: Janeiro Branco",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://noticias.ufsc.br/2022/05/ufsc-regulamenta-politica-permanente-de-saude-mental/",
+          "titulo": "UFSC regulamenta política permanente de saúde mental",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca; substituída pelo texto da resolução"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Obter o texto da Portaria nº 2454/2023/GR (instituição do comitê) e do plano de ações da comissão transitória (2023)",
+        "Verificar alterações introduzidas pela RN nº 188/2024/CUn",
+        "Verificar serviços nos campi Araranguá, Blumenau, Curitibanos e Joinville (páginas Acolhe UFSC por campus)",
+        "Confirmar data da campanha Janeiro Branco do DAS/PRODEGESP (página sem data explícita)",
+        "Verificar Mestrado Profissional em Saúde Mental e Atenção Psicossocial e laboratórios (LAPPSILu, LAPCIP) como ações de formação/extensão"
+      ],
+      "candidatos": [
+        {
+          "nome": "Política Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde da UFSC",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Política instituída pelo Conselho Universitário que abrange estudantes da educação infantil à pós-graduação, servidores docentes e técnico-administrativos e terceirizados de todos os campi; define nove eixos temáticos (universidade promotora de saúde, prevenção de riscos e danos, atenção a crises, acolhimento e cuidado psicossocial, combate à violência institucional, entre outros) e cria o CIPAPP, vinculado ao Gabinete da Reitoria.",
+          "objetivos": "Atender a comunidade a partir das suas necessidades referentes à saúde mental, à atenção psicossocial e à promoção da saúde; promover a integração de ações, projetos de pesquisa e extensão, programas, serviços intersetoriais e dados relacionados.",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos",
+            "docentes",
+            "tecnicos_administrativos",
+            "terceirizados"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Desde 31/03/2022",
+          "unidade_responsavel": "Gabinete da Reitoria (CIPAPP)",
+          "campus": "Todos os campi",
+          "documento_relacionado": {
+            "titulo": "Resolução Normativa nº 163/2022/CUn, de 31 de março de 2022 (republicada com alterações da RN nº 188/2024/CUn)",
+            "tipo_documento": "resolucao",
+            "numero_documento": "163/2022/CUn",
+            "data_publicacao": "2022-03-31",
+            "orgao_emissor": "Conselho Universitário (CUn/UFSC)",
+            "url_original": "https://conselhouniversitario.paginas.ufsc.br/files/2024/04/vers%C3%A3o-consolidada-RN_1632022CUn_CIPAPP.pdf"
+          },
+          "url_fonte": "https://conselhouniversitario.paginas.ufsc.br/files/2024/04/vers%C3%A3o-consolidada-RN_1632022CUn_CIPAPP.pdf",
+          "titulo_fonte": "RESOLUÇÃO NORMATIVA Nº 163/2022/CUn, DE 31 DE MARÇO DE 2022 (versão consolidada)",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "RESOLUÇÃO NORMATIVA Nº 163/2022/CUn, DE 31 DE MARÇO DE 2022 (Republicada com alterações promovidas pela Resolução Normativa nº 188/2024/CUn) Dispõe sobre a Política Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde da Universidade Federal de Santa Catarina (UFSC) e cria o Comitê Intersetorial Permanente de Atenção Psicossocial e Promoção de Saúde (CIPAPP), organicamente vinculado ao Gabinete da Reitoria.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Resolução normativa do Conselho Universitário que institui a política: grau 1. Data do documento = data da resolução (republicação consolidada em 2024)."
+        },
+        {
+          "nome": "Comitê Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde (Portaria nº 2454/2023/GR) e mapeamento da saúde mental (2024)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Comitê instituído por portaria do Gabinete do Reitor para implementar e conduzir as ações da RN 163/2022/CUn, vinculado ao Gabinete da Reitoria e composto por representantes de pró-reitorias, CA, NDI, DCE, APG e sindicatos; em 17/12/2024 apresentou à Administração Central mapeamento da situação de saúde mental e proposta de diretrizes.",
+          "objetivos": "Implementar e conduzir as ações estabelecidas na Resolução Normativa nº 163/2022/CUn.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Gabinete da Reitoria",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Portaria nº 2454/2023/GR",
+            "tipo_documento": "portaria",
+            "numero_documento": "2454/2023/GR",
+            "data_publicacao": null,
+            "orgao_emissor": "Gabinete do Reitor (UFSC)",
+            "url_original": null
+          },
+          "url_fonte": "https://noticias.ufsc.br/2024/12/comite-intersetorial-apresenta-mapeamento-da-saude-mental-na-ufsc/",
+          "titulo_fonte": "Comitê intersetorial apresenta mapeamento da Saúde Mental na UFSC",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2024-12-17",
+          "trecho_evidencia": "A Portaria nº 2454/2023/GR, instituiu o Comitê de Saúde Mental da UFSC, com o objetivo de implementar e conduzir as ações estabelecidas na Resolução normativa nº 163/2022/CUn, que dispõe sobre a Política Intersetorial Permanente de Saúde Mental, Atenção Psicossocial e Promoção de Saúde da instituição.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "media",
+          "campos_ausentes": [
+            "periodo",
+            "data_publicacao",
+            "url_original"
+          ],
+          "justificativa": "Instância de governança criada por portaria (grau 1), mas a portaria não foi acessada – evidência via notícia oficial, por isso confiança média. Pode ser fundido ao registro da política pelo revisor. Modalidade 'híbrida' refere-se à reunião de 17/12/2024."
+        },
+        {
+          "nome": "Plano de ações para implementação da Política de Saúde Mental (comissão transitória, 2023)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Plano de ações apresentado em 31/07/2023 pela comissão transitória instituída para executar a política, que sugeriu a constituição imediata do CIPAPP e organizou as ações em oito eixos (ex.: trabalho com DCE e CAs sobre o trote universitário).",
+          "objetivos": "Criação de uma rede de atenção psicossocial e de promoção à saúde da comunidade universitária; integração de ações, projetos, programas, serviços e dados; estímulo a atividades de ensino, pesquisa e extensão.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": "Apresentado em 31/07/2023",
+          "unidade_responsavel": "Comissão transitória para execução da Política de Saúde Mental",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Plano de ações para implementação das diretrizes da Resolução nº 163/2022/CUn",
+            "tipo_documento": "plano",
+            "numero_documento": null,
+            "data_publicacao": "2023-07-31",
+            "orgao_emissor": "Comissão transitória (UFSC)",
+            "url_original": null
+          },
+          "url_fonte": "https://noticias.ufsc.br/2023/07/comissao-apresenta-plano-de-implementacao-da-politica-de-saude-mental-na-ufsc/",
+          "titulo_fonte": "Comissão apresenta plano de implementação da política de saúde mental na UFSC",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2023-07-31",
+          "trecho_evidencia": "A comissão transitória instituída para a execução da Política de Saúde Mental na UFSC apresentou nesta segunda-feira, 31 de julho, o plano de ações para implementação das diretrizes contidas na Resolução nº 163/2022/CUn, que criou a Política de Saúde Mental da Universidade.",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "url_original",
+            "numero_documento"
+          ],
+          "justificativa": "Plano institucional de implementação documentado em notícia oficial; o documento do plano não foi localizado, logo grau 2."
+        },
+        {
+          "nome": "Serviço de Atenção Psicológica (SAPSI)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Serviço-escola do curso de Psicologia que oferece gratuitamente diversas modalidades de atendimento psicológico (acolhimento, psicoterapia, grupos) à comunidade interna e externa, mediante agendamento prévio; não vinculado à RAPS/SUS.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Departamento de Psicologia (DPSI/CFH)",
+          "campus": "Florianópolis (Trindade)",
+          "documento_relacionado": null,
+          "url_fonte": "https://sapsi.ufsc.br/",
+          "titulo_fonte": "Serviço de Atenção Psicológica",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Oferecemos diversas modalidades de atendimentos psicológicos de forma gratuita à comunidade interna e externa à UFSC. Os atendimentos, independente da modalidade, são realizados mediante agendamento prévio.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Clínica-escola (serviço permanente). Modalidade presencial, vínculo ao DPSI e campus informados por FAQ/Manual de Estágio vistos apenas em resultados de busca – confirmar."
+        },
+        {
+          "nome": "Setor de Psicologia Educacional – Coordenadoria de Assistência Estudantil (PRAE)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Setor da PRAE que realiza atividades de acolhimento e orientação em relação à vida universitária para estudantes de graduação presencial, prioritariamente com cadastro PRAE, renda validada ou oriundos de escola pública, por procura espontânea.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – Coordenadoria de Assistência Estudantil",
+          "campus": "Florianópolis",
+          "documento_relacionado": null,
+          "url_fonte": "https://acolhe.ufsc.br/servicos-de-acolhimento-ufsc-florianopolis/",
+          "titulo_fonte": "Campus Florianópolis – Acolhe UFSC",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Setor de Psicologia Educacional – Coordenadoria de Assistência Estudantil da Pró-Reitoria de Assuntos Estudantis (PRAE) Atividades: Atividades de acolhimento e orientação em relação à vida universitária. Maiores informações na página do setor, para acessar a programação atual. Público-alvo: Estudantes de graduação presencial da UFSC, prioritariamente com cadastro PRAE concluído, validação de renda deferida ou oriundos/as de escola-pública.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço de psicologia da assistência estudantil; a página Acolhe contém trechos desatualizados (pandemia), por isso situação 'desconhecida' e confiança média. Plantão psicológico citado em notícias vistas só na busca."
+        },
+        {
+          "nome": "Núcleo de Apoio Psicossocial e Pedagógico ao Aluno (NAPA/CCS)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Núcleo do Centro de Ciências da Saúde que oferece acolhimento e orientação em saúde mental e bem-estar e atenção pedagógica, sem atendimento psicológico, encaminhando à rede de atendimento da UFSC e de Florianópolis.",
+          "objetivos": "Oferecer suporte e orientação a estudantes com dificuldades emocionais, acadêmicas ou sociais.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Centro de Ciências da Saúde (CCS)",
+          "campus": "Florianópolis",
+          "documento_relacionado": null,
+          "url_fonte": "https://napa.paginas.ufsc.br/",
+          "titulo_fonte": "Página do Núcleo de Apoio Psicossocial e Pedagógico ao Aluno (NAPA) – Centro de Ciências da Saúde",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Núcleo de Apoio Psicossocial e Pedagógico ao Aluno (NAPA) do Centro de Ciências da Saúde está aqui para oferecer suporte e orientação a estudantes que enfrentam dificuldades emocionais, acadêmicas ou sociais. [...] Apoio Psicossocial – Acolhimento e orientação para questões de saúde mental e bem-estar. Não realizamos atendimento psicológico",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Núcleo psicopedagógico de unidade (servico_permanente, abrangência unidade). Campus inferido da localização do CCS."
+        },
+        {
+          "nome": "Campanha Janeiro Branco – Mês de Conscientização de Saúde Mental & Emocional (DAS/PRODEGESP)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Campanha de conscientização promovida pelo Departamento de Atenção à Saúde da PRODEGESP, com orientações de autocuidado em saúde mental e referência à comissão de efetivação da política (RN 163/2022/CUn) e às equipes do DAS para atendimento de trabalhadores.",
+          "objetivos": "Alertar para os cuidados com a saúde mental e emocional, a partir da prevenção das doenças decorrentes do estresse.",
+          "publico_alvo": [
+            "tecnicos_administrativos",
+            "docentes",
+            "comunidade_universitaria"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": null,
+          "unidade_responsavel": "Departamento de Atenção à Saúde (DAS/PRODEGESP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://prodegesp.ufsc.br/departamento-de-atencao-a-saude-promove-campanha-de-conscientizacao-janeiro-branco-mes-de-conscientizacao-de-saude-mental-emocional/",
+          "titulo_fonte": "Departamento de Atenção à Saúde promove campanha de conscientização: Janeiro Branco – Mês de Conscientização de Saúde Mental & Emocional",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Atualmente, a UFSC possui uma Comissão em vigência trabalhando na efetivação da Política de Saúde Mental da UFSC (Resolução nº 163/2022/CUn), conforme instituído em 31 de julho de 2023 [...] O Departamento de Atenção à Saúde (DAS/PRODEGESP/UFSC) possui equipes para o atendimentos em saúde dos trabalhadores da instituição.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "periodo",
+            "data_publicacao_fonte",
+            "documento_relacionado"
+          ],
+          "justificativa": "Campanha temática (acao_pontual). Página sem data explícita; o texto cita a Lei 14.556/2023 e campanhas 'a partir de 2024', sugerindo janeiro de 2024 (não confirmado). Modalidade on-line inferida (publicação no site)."
+        }
+      ]
+    },
+    {
+      "sigla": "PUCRS",
+      "nome_oficial": "Pontifícia Universidade Católica do Rio Grande do Sul",
+      "dominio": "pucrs.br",
+      "consultas": [
+        "PUCRS saúde mental estudantes apoio psicológico (site:pucrs.br)",
+        "PUCRS Serviço de Atendimento e Pesquisa em Psicologia SAPP clínica-escola (site:pucrs.br)",
+        "PUCRS \"Mente ESMED\" OR \"setembro amarelo\" OR \"projeto de extensão\" saúde mental (site:pucrs.br)",
+        "PUCRS \"política\" saúde mental institucional colaboradores programa bem-estar professores (site:pucrs.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://www.pucrs.br/apoiodiscente/nucleo-de-apoio-psicossocial/",
+          "titulo": "Núcleo de Apoio Psicossocial - Centro de Apoio Discente",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.pucrs.br/apoiodiscente/nucleo-de-apoio-psicossocial/objetivos/",
+          "titulo": "Ações - Centro de Apoio Discente",
+          "acessada": true,
+          "observacao": "usada (inclui AMPA)"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/institucional/nucleo-de-apoio-psicossocial-completa-18-anos-de-cuidados-com-os-alunos/",
+          "titulo": "Núcleo de Apoio Psicossocial completa 18 anos de cuidados com os alunos",
+          "acessada": true,
+          "observacao": "usada como fonte complementar (criação em 2006)"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/saude/centro-de-atencao-psicossocial-acolhimento-alunos-e-professores/",
+          "titulo": "Centro de Atenção Psicossocial: acolhimento a alunos e professores",
+          "acessada": true,
+          "observacao": "usada como contexto histórico (CAP, 2016); não registrado separadamente"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/institucional/saude-mental-e-bem-estar-acao-do-centro-de-apoio-discente-reforca-as-relacoes-de-cuidado-e-protecao-da-vida-na-pucrs/",
+          "titulo": "Saúde mental e bem-estar: ação do Centro de Apoio Discente reforça as relações de cuidado e proteção da vida na PUCRS",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://portal.pucrs.br/ensino/escola-de-ciencias-da-saude-e-da-vida/sapp/",
+          "titulo": "SAPP – Escola de Ciências da Saúde e da Vida",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.pucrs.br/apoiodiscente/2026/09/02/mente-esmed-e-centro-de-apoio-discente-ampliam-integracao-para-fortalecer-a-saude-mental-na-formacao-medica/",
+          "titulo": "Mente ESMED e Centro de Apoio Discente ampliam integração para fortalecer a saúde mental na formação médica",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/impacto-social/pucrs-e-universidade-do-canada-lancam-programa-de-promocao-da-saude-mental/",
+          "titulo": "PUCRS e Dalhousie University (Canadá) lançam programa de promoção da saúde mental",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/institucional/colaborador-pucrs-confira-as-novidades-no-portfolio-de-beneficios/",
+          "titulo": "Colaborador PUCRS: confira as novidades no portfólio de benefícios",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca (psicologia para colaboradores encaminhados por médicos do trabalho)"
+        },
+        {
+          "url": "https://portal.pucrs.br/noticias/saude/projeto-da-pucrs-promove-atendimentos-de-saude-a-colaboradores-e-fortalece-formacao-de-estudantes/",
+          "titulo": "Projeto da PUCRS promove atendimentos de saúde a colaboradores (CIPS)",
+          "acessada": false,
+          "observacao": "apenas no resultado de busca"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não foi localizada política institucional ou ato normativo de saúde mental da PUCRS (instituição privada: verificar regimento/atos da Reitoria, relatórios sociais/de sustentabilidade)",
+        "Verificar ações para colaboradores (atendimento psicológico via medicina do trabalho; Centro Interprofissional de Promoção à Saúde – CIPS) – vistas só em busca",
+        "Verificar projetos de extensão em saúde mental no portal de extensão da PUCRS e ações de Setembro Amarelo do Hospital São Lucas",
+        "Confirmar situação atual do Text4Hope-RS (lançado em 2024)"
+      ],
+      "candidatos": [
+        {
+          "nome": "Núcleo de Apoio Psicossocial (NAP) – Centro de Apoio Discente",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Espaço de acolhimento e cuidado com estudantes, focado em saúde mental e bem-estar no ambiente acadêmico, com equipe multidisciplinar (psicólogos, assistente social e psiquiatra); realiza avaliação inicial, acompanhamento periódico, ações coletivas de prevenção, intervenção em crise, mediação de conflitos, assessoria a professores e gestores e encaminhamentos.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Centro de Apoio Discente",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.pucrs.br/apoiodiscente/nucleo-de-apoio-psicossocial/",
+          "titulo_fonte": "Núcleo de Apoio Psicossocial | Centro de Apoio Discente",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Somos o Núcleo de Apoio Psicossocial | Centro de Apoio Discente, um espaço de acolhimento e cuidado com os estudantes da PUCRS, principalmente no que se refere à saúde mental e bem-estar no ambiente acadêmico. O Núcleo de Apoio Psicossocial é composto por uma equipe multidisciplinar de Psicólogos, Assistente Social e Psiquiatra.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço permanente de apoio psicossocial. Notícia oficial de 01/07/2024 informa criação em 2006 (como Centro de Atenção Psicossocial – CAP) e aprovação pela Reitoria, sem ato normativo citado. Atendimento a pós-graduandos e modalidade on-line/presencial vistos apenas em resultado de busca."
+        },
+        {
+          "nome": "Ambulatório de Psicoterapia Analítica do Hospital São Lucas (AMPA) – referência para estudantes",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Ambulatório do Hospital São Lucas para o qual o NAP encaminha estudantes, quando necessário, para atendimento psicoterápico ou psiquiátrico de baixo custo.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Hospital São Lucas da PUCRS",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.pucrs.br/apoiodiscente/nucleo-de-apoio-psicossocial/objetivos/",
+          "titulo_fonte": "Ações - Centro de Apoio Discente",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Quando necessário, os profissionais do Núcleo de Apoio Psicossocial realizam encaminhamento do estudante para atendimento psicoterápico ou psiquiátrico no Ambulatório de Psicoterapia Analítica do Hospital São Lucas (AMPA). O AMPA realiza assistência médica e psicoterápica de baixo custo (com ou sem o uso de medicação psicotrópica) para estudantes da instituição.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço de atenção em saúde mental (psicoterapia/psiquiatria) acessível a estudantes; evidenciado apenas indiretamente pela página do NAP (página própria do AMPA não consultada)."
+        },
+        {
+          "nome": "Serviço de Atendimento e Pesquisa em Psicologia (SAPP)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Serviço-escola do Curso de Psicologia da Escola de Ciências da Saúde e da Vida, campo de práticas e estágios com função extensionista, que oferece atendimentos psicológicos e consultorias gratuitos a pessoas, grupos e instituições de Porto Alegre, mediante avaliação psicossocial.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_externa"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Escola de Ciências da Saúde e da Vida – Curso de Psicologia",
+          "campus": "Porto Alegre (prédio 11)",
+          "documento_relacionado": null,
+          "url_fonte": "https://portal.pucrs.br/ensino/escola-de-ciencias-da-saude-e-da-vida/sapp/",
+          "titulo_fonte": "SAPP – Escola de Ciências da Saúde e da Vida – PUCRS",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2024-01-26",
+          "trecho_evidencia": "O Serviço de Atendimento e Pesquisa em Psicologia (SAPP) é o serviço-escola do Curso de Psicologia da Escola de Ciências da Saúde e da Vida da PUCRS, constituindo-se em campo de práticas e estágios dos acadêmicos e respondendo à função extensionista da Universidade. Esse serviço oferece diferentes modalidades de atendimentos psicológicos e consultorias a pessoas, grupos e instituições de Porto Alegre.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Clínica-escola (servico_permanente) com componente formativo. Data = datePublished da página. Editais SAPP 2025 vistos na busca, não abertos."
+        },
+        {
+          "nome": "Programa de Saúde Mental e Desenvolvimento Socioemocional da Escola de Medicina (Mente ESMED)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Programa da Escola de Medicina voltado à saúde mental e ao bem-estar dos estudantes de Medicina, que iniciou em agosto articulação sistemática (reuniões semanais) com o Núcleo de Apoio Psicossocial e demais núcleos do Centro de Apoio Discente.",
+          "objetivos": "Fortalecer a rede de cuidado dentro da Escola de Medicina, incorporando a saúde mental como dimensão estratégica da formação médica.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Escola de Medicina (ESMED)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.pucrs.br/apoiodiscente/2026/09/02/mente-esmed-e-centro-de-apoio-discente-ampliam-integracao-para-fortalecer-a-saude-mental-na-formacao-medica/",
+          "titulo_fonte": "Mente ESMED e Centro de Apoio Discente ampliam integração para fortalecer a saúde mental na formação médica",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2026-09-02",
+          "trecho_evidencia": "No dia 5 de agosto, representantes do CAD e do Programa de Saúde Mental e Desenvolvimento Socioemocional da Escola de Medicina (Mente ESMED) realizaram a primeira reunião de trabalho conjunta. [...] O Mente ESMED nasce para fortalecer essa rede dentro da Escola de Medicina, aproximando as estruturas já existentes e incorporando a saúde mental como uma dimensão estratégica da formação médica.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Programa de unidade recente; a categoria é incerta (busca o descreve como educativo/preventivo, não clínico) – revisor pode reclassificar como pesquisa_formacao ou projeto. Data = data no caminho da URL; versão em inglês tem published_time 2026-08-31."
+        },
+        {
+          "nome": "Ação do Centro de Apoio Discente/NAP de divulgação nas Escolas – saúde mental e proteção da vida (2025)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Ação em que a equipe multidisciplinar do NAP percorreu as Escolas da Universidade, recebida por decanos, para divulgar o serviço de saúde mental e incentivar a procura de apoio.",
+          "objetivos": "Incentivar que a comunidade acadêmica procure apoio em situações de sofrimento psíquico e outras demandas associadas ao cuidado integral do estudante.",
+          "publico_alvo": [
+            "estudantes",
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": null,
+          "unidade_responsavel": "Centro de Apoio Discente / Núcleo de Apoio Psicossocial (NAP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://portal.pucrs.br/noticias/institucional/saude-mental-e-bem-estar-acao-do-centro-de-apoio-discente-reforca-as-relacoes-de-cuidado-e-protecao-da-vida-na-pucrs/",
+          "titulo_fonte": "Saúde mental e bem-estar: ação do Centro de Apoio Discente reforça as relações de cuidado e proteção da vida na PUCRS",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2025-09-19",
+          "trecho_evidencia": "Com o compromisso de cuidar e promover a proteção da vida, contribuindo para um ambiente acadêmico saudável, o Centro de Apoio Discente, por meio do Núcleo de Apoio Psicossocial (NAP), realizou uma ação para reforçar as relações de cuidado humano, tão necessárias no contexto atual.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Ação pontual de divulgação/sensibilização (setembro de 2025, possivelmente associada ao Setembro Amarelo – não declarado na fonte)."
+        },
+        {
+          "nome": "Text4Hope-RS – apoio psicológico por mensagens de texto após as enchentes",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Programa gratuito de envio de mensagens de texto baseadas em terapia cognitivo-comportamental para pessoas atingidas pelas enchentes de 2024 no Rio Grande do Sul, em parceria entre o NEPTE (Escola de Ciências da Saúde e da Vida) e a Dalhousie University (Canadá).",
+          "objetivos": "Ajudar a população gaúcha a cuidar da saúde mental e do bem-estar emocional após as enchentes.",
+          "publico_alvo": [
+            "comunidade_externa"
+          ],
+          "modalidade": "online",
+          "abrangencia": null,
+          "situacao_aparente": "desconhecida",
+          "periodo": "Lançado em 2024",
+          "unidade_responsavel": "Núcleo de Estudos e Pesquisa em Trauma e Estresse (NEPTE) – Escola de Ciências da Saúde e da Vida",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://portal.pucrs.br/noticias/impacto-social/pucrs-e-universidade-do-canada-lancam-programa-de-promocao-da-saude-mental/",
+          "titulo_fonte": "PUCRS e Dalhousie University (Canadá) lançam programa de promoção da saúde mental",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2024-08-05",
+          "trecho_evidencia": "O programa chamado Text4Hope-RS é uma parceria do Núcleo de Estudos e Pesquisa em Trauma e Estresse (NEPTE) da Escola de Ciências da Saúde e da Vida da PUCRS e da Dalhousie University do Canadá que envia mensagens de texto baseadas na terapia cognitivo-comportamental (TCC).",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "documento_relacionado",
+            "abrangencia"
+          ],
+          "justificativa": "Iniciativa de impacto social/extensão com base em pesquisa, voltada à comunidade externa; não declarada formalmente como 'projeto de extensão' na fonte, por isso confiança média na categoria."
+        }
+      ]
+    }
+  ]
+}

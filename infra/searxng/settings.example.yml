@@ -1,0 +1,17 @@
+# SearXNG local do ONISMU — usado apenas pelo coletor (acesso restrito a 127.0.0.1).
+use_default_settings: true
+general:
+  instance_name: "ONISMU busca local"
+search:
+  safe_search: 0
+  default_lang: "pt-BR"
+  formats:
+    - html
+    - json
+server:
+  secret_key: "TROQUE_POR_UM_SEGREDO_ALEATORIO"
+  limiter: false
+  image_proxy: false
+  method: "GET"
+ui:
+  static_use_hash: true

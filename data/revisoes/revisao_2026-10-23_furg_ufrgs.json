@@ -1,0 +1,469 @@
+{
+  "revisor": {
+    "email": "revisao-ia@onismu.local",
+    "nome": "Claude — revisão assistida por IA"
+  },
+  "nota_publica": "Revisão assistida por IA (Claude), por delegação do pesquisador responsável, em 23/10/2026; recomenda-se conferência humana.",
+  "decisoes": [
+    {
+      "candidato": 56,
+      "acao": "aprovar",
+      "justificativa": "Minuta oficial da Política de Saúde Mental (Resolução CONSUN nº XX) em consulta à comunidade; documento institucional estruturado, mas não aprovado: Nível 2.",
+      "edicoes": {
+        "nome": "Política de Saúde Mental da FURG (proposta em consulta à comunidade)",
+        "grau_evidencia": 2,
+        "situacao_documentada": "desconhecida",
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "abrangencia": "institucional",
+        "limitacoes": "Proposta preliminar (minuta com número e data em aberto) divulgada para avaliação da comunidade; aprovação pelo CONSUN não localizada. Reclassificar para Nível 1 se aprovada."
+      }
+    },
+    {
+      "candidato": 104,
+      "acao": "vincular",
+      "a_candidato": 56,
+      "justificativa": "Mesmo documento (minuta da Política de Saúde Mental) encontrado pela coleta local; acrescentado como evidência."
+    },
+    {
+      "candidato": 57,
+      "acao": "aprovar",
+      "justificativa": "Portaria GAB 126/2025 institui o Comitê de Gestão em Saúde Mental: instância institucional formal. Nível 2 (não 1) porque o ato cria o comitê, não a política; a política segue em minuta.",
+      "edicoes": {
+        "grau_evidencia": 2,
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "abrangencia": "institucional",
+        "limitacoes": "O ato normativo institui um comitê de gestão, e não a política de saúde mental (ainda em elaboração)."
+      }
+    },
+    {
+      "candidato": 113,
+      "acao": "vincular",
+      "a_candidato": 57,
+      "justificativa": "Notícia oficial da instalação do mesmo comitê; acrescentada como evidência (a coleta local o classificou incorretamente como extensão)."
+    },
+    {
+      "candidato": 110,
+      "acao": "aprovar",
+      "justificativa": "Notícia oficial documenta as Mini-Conferências Setoriais promovidas pela Comissão Especial de Saúde Mental (SECAID) para discutir a proposta de política: ação pontual do processo participativo.",
+      "edicoes": {
+        "nome": "Mini-Conferências Setoriais da Política de Saúde Mental",
+        "categoria_principal": "acao_pontual",
+        "categorias_secundarias": [],
+        "grau_evidencia": 3,
+        "unidade_responsavel": "Comissão Especial de Saúde Mental da Secretaria de Ações Afirmativas, Inclusão e Diversidades (Secaid)",
+        "publicos": [
+          "comunidade_universitaria"
+        ]
+      }
+    },
+    {
+      "relacao": {
+        "origem_candidato": 110,
+        "destino_candidato": 56,
+        "tipo": "parte_de"
+      },
+      "justificativa": "As mini-conferências integram o processo de construção da Política de Saúde Mental."
+    },
+    {
+      "candidato": 61,
+      "acao": "inconclusivo",
+      "motivo": "Trecho não pôde ser conferido (arquivo acima de 30 MB); o mesmo evento já está documentado pelo candidato #110 (notícia oficial)."
+    },
+    {
+      "candidato": 58,
+      "acao": "aprovar",
+      "justificativa": "Serviço de Psicologia Escolar da PRAE regulamentado por instrução normativa: serviço permanente, Nível 3.",
+      "edicoes": {
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "estudantes"
+        ],
+        "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE)"
+      }
+    },
+    {
+      "candidato": 59,
+      "acao": "aprovar",
+      "justificativa": "Portaria oficial menciona o Serviço de Psicologia da PROGEP/CPOSS à disposição dos servidores: serviço permanente, Nível 3.",
+      "edicoes": {
+        "publicos": [
+          "servidores"
+        ],
+        "unidade_responsavel": "Pró-Reitoria de Gestão e Desenvolvimento de Pessoas (PROGEP) — Coordenação de Promoção e Orientação em Saúde do Servidor (CPOSS)"
+      }
+    },
+    {
+      "candidato": 60,
+      "acao": "aprovar",
+      "justificativa": "Portaria GAB 124/2025 suspende atividades para acolhimento, escuta e cuidado coletivo após perdas na comunidade: ação pontual de posvenção, Nível 3.",
+      "edicoes": {
+        "nome": "Suspensão das atividades acadêmicas para acolhimento e cuidado coletivo (setembro de 2025)",
+        "situacao_documentada": "encerrada",
+        "periodicidade": "pontual",
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "abrangencia": "institucional"
+      }
+    },
+    {
+      "candidato": 111,
+      "acao": "vincular",
+      "a_candidato": 60,
+      "justificativa": "Notícia oficial sobre a mesma portaria; acrescentada como evidência."
+    },
+    {
+      "candidato": 62,
+      "acao": "aprovar",
+      "justificativa": "Projeto de extensão com lives mensais sobre saúde mental listado em edital da PRAE (Campus São Lourenço do Sul).",
+      "edicoes": {
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "modalidade": "online",
+        "abrangencia": "campus",
+        "unidade_responsavel": "PRAE — Campus São Lourenço do Sul"
+      }
+    },
+    {
+      "candidato": 63,
+      "acao": "aprovar",
+      "justificativa": "Curso de formação continuada em intervenções em saúde mental listado em edital da PRAE: formação, Nível 3.",
+      "edicoes": {
+        "modalidade": "online",
+        "abrangencia": "campus",
+        "unidade_responsavel": "PRAE — Campus São Lourenço do Sul"
+      }
+    },
+    {
+      "candidato": 64,
+      "acao": "inconclusivo",
+      "motivo": "A fonte apenas nomeia o projeto (atividades esporádicas no Campus SLS); o vínculo com saúde mental não é explicitado. Buscar descrição própria."
+    },
+    {
+      "candidato": 65,
+      "acao": "aprovar",
+      "justificativa": "Momento de conversa sobre saúde mental, conduzido pela equipe de psicólogos da PRAE, na programação da Acolhida Cidadã 2025: ação pontual, Nível 3.",
+      "edicoes": {
+        "nome": "Momento conversa “Saúde mental no ambiente universitário” — Acolhida Cidadã 2025",
+        "situacao_documentada": "encerrada",
+        "periodicidade": "periodica",
+        "publicos": [
+          "estudantes_graduacao"
+        ]
+      }
+    },
+    {
+      "candidato": 105,
+      "acao": "rejeitar",
+      "motivo": "CAPS AD é serviço municipal do SUS, não iniciativa da universidade; a fonte é material de seminário."
+    },
+    {
+      "candidato": 106,
+      "acao": "rejeitar",
+      "motivo": "CAPS AD de Rio Grande é serviço municipal do SUS, não iniciativa da universidade."
+    },
+    {
+      "candidato": 107,
+      "acao": "rejeitar",
+      "motivo": "A fonte é artigo acadêmico sobre a Acolhida Cidadã (acolhimento de ingressantes); o trecho não estabelece iniciativa de saúde mental."
+    },
+    {
+      "candidato": 108,
+      "acao": "rejeitar",
+      "motivo": "O trecho só menciona a Semana da Acolhida, sem relação explícita com saúde mental."
+    },
+    {
+      "candidato": 109,
+      "acao": "aprovar",
+      "justificativa": "Relatório de gestão da FAMED descreve programa do HU-FURG com FAMED e EEnf para atendimento às demandas psicoemocionais de acadêmicos: serviço, Nível 3.",
+      "edicoes": {
+        "nome": "Programa de Saúde Acadêmica (HU-FURG, FAMED e Escola de Enfermagem)",
+        "publicos": [
+          "estudantes_graduacao"
+        ],
+        "abrangencia": "unidade",
+        "unidade_responsavel": "Hospital Universitário (HU-FURG), Faculdade de Medicina (FAMED) e Escola de Enfermagem (EEnf)"
+      }
+    },
+    {
+      "candidato": 112,
+      "acao": "aprovar",
+      "justificativa": "Estudo multicêntrico sobre saúde mental de estudantes de graduação na pandemia, com participação da FURG: pesquisa aplicada, Nível 3.",
+      "edicoes": {
+        "nome": "Estudo “Saúde e Bem-estar na Graduação” (pandemia)",
+        "categoria_principal": "pesquisa_formacao",
+        "grau_evidencia": 3,
+        "publicos": [
+          "estudantes_graduacao"
+        ],
+        "modalidade": "online"
+      }
+    },
+    {
+      "candidato": 37,
+      "acao": "aprovar",
+      "justificativa": "Portaria do Reitor nº 7715/2022 institui formalmente o Saber Viver, programa que integra políticas, serviços e ações de saúde e bem-estar estudantil, com objetivos explícitos de saúde mental: programa institucional formalizado, Nível 1.",
+      "edicoes": {
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "estudantes"
+        ],
+        "abrangencia": "institucional",
+        "limitacoes": "O programa abrange saúde e bem-estar estudantil em sentido amplo, não exclusivamente saúde mental; público: estudantes."
+      }
+    },
+    {
+      "candidato": 38,
+      "acao": "aprovar",
+      "justificativa": "Página oficial da PRAE descreve acolhimento e orientação em saúde mental a estudantes de graduação: serviço permanente, Nível 3.",
+      "edicoes": {
+        "nome": "Psicologia — acolhimento e orientação em saúde mental (PRAE)",
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "estudantes_graduacao"
+        ],
+        "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE)"
+      }
+    },
+    {
+      "candidato": 39,
+      "acao": "aprovar",
+      "justificativa": "Programa de extensão MEDUSA com grupos semanais de escuta e acolhimento em vários campi e on-line, documentado em site oficial.",
+      "edicoes": {
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "modalidade": "hibrida"
+      }
+    },
+    {
+      "candidato": 40,
+      "acao": "aprovar",
+      "justificativa": "Clínica-escola do Instituto de Psicologia que oferece atendimento psicológico à comunidade: serviço permanente, Nível 3.",
+      "edicoes": {
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "comunidade_externa"
+        ],
+        "abrangencia": "unidade",
+        "unidade_responsavel": "Instituto de Psicologia, Serviço Social, Saúde e Comunicação Humana"
+      }
+    },
+    {
+      "candidato": 41,
+      "acao": "aprovar",
+      "justificativa": "Departamento de Atenção à Saúde oferece escuta qualificada multiprofissional a servidores: serviço permanente, Nível 3.",
+      "edicoes": {
+        "nome": "Atendimentos individuais — acompanhamento psicossocial a servidores (DAS)",
+        "publicos": [
+          "docentes",
+          "tecnicos_administrativos"
+        ],
+        "unidade_responsavel": "Departamento de Atenção à Saúde (DAS)"
+      }
+    },
+    {
+      "candidato": 42,
+      "acao": "aprovar",
+      "justificativa": "Curso de formação sobre cuidado à saúde mental discente ligado ao Programa Saber Viver (turma 8, maio–junho de 2025): formação, Nível 3.",
+      "edicoes": {
+        "grau_evidencia": 3,
+        "situacao_documentada": "encerrada",
+        "modalidade": "hibrida",
+        "data_inicio": "2025-05-21",
+        "data_fim": "2025-06-04",
+        "periodicidade": "periodica"
+      }
+    },
+    {
+      "relacao": {
+        "origem_candidato": 42,
+        "destino_candidato": 37,
+        "tipo": "vinculada_a_politica"
+      },
+      "justificativa": "A página do curso o identifica como formação ligada ao Programa Saber Viver."
+    },
+    {
+      "candidato": 43,
+      "acao": "aprovar",
+      "justificativa": "Projeto de extensão da FAMED para identificação de sinais de transtornos psíquicos e orientação sobre tratamento, documentado em notícia oficial (2019).",
+      "edicoes": {
+        "publicos": [
+          "comunidade_universitaria"
+        ],
+        "unidade_responsavel": "Faculdade de Medicina (FAMED)",
+        "limitacoes": "Fonte de 2019; situação atual do projeto não confirmada."
+      }
+    },
+    {
+      "candidato": 44,
+      "acao": "aprovar",
+      "justificativa": "Ação de extensão de escuta e acolhimento individual a estudantes, listada na página do Programa Saber Viver.",
+      "edicoes": {
+        "nome": "FALAQUÍ — escuta e acolhimento individual a estudantes",
+        "publicos": [
+          "estudantes"
+        ]
+      }
+    },
+    {
+      "relacao": {
+        "origem_candidato": 44,
+        "destino_candidato": 37,
+        "tipo": "vinculada_a_politica"
+      },
+      "justificativa": "Ação divulgada na página oficial do Programa Saber Viver."
+    },
+    {
+      "candidato": 45,
+      "acao": "aprovar",
+      "justificativa": "Programa de acolhimento e acompanhamento discente listado na página do Saber Viver: serviço de unidade acadêmica, Nível 3.",
+      "edicoes": {
+        "publicos": [
+          "estudantes"
+        ],
+        "abrangencia": "unidade",
+        "limitacoes": "Unidade acadêmica responsável não identificada na fonte consultada."
+      }
+    },
+    {
+      "relacao": {
+        "origem_candidato": 45,
+        "destino_candidato": 37,
+        "tipo": "vinculada_a_politica"
+      },
+      "justificativa": "Programa divulgado na página oficial do Programa Saber Viver."
+    },
+    {
+      "candidato": 114,
+      "acao": "vincular",
+      "a_candidato": 39,
+      "justificativa": "Mesmo Programa MEDUSA (grupos de acolhimento retomados em setembro de 2026, portal de saúde mental da UFRGS); acrescentado como evidência atual."
+    },
+    {
+      "candidato": 122,
+      "acao": "vincular",
+      "a_candidato": 39,
+      "justificativa": "Mesmo Programa MEDUSA, descrito pela PROREXT (fundado em 2020); acrescentado como evidência."
+    },
+    {
+      "candidato": 123,
+      "acao": "vincular",
+      "a_candidato": 43,
+      "justificativa": "Mesmo Projeto Pega Leve, descrito pela PROREXT (início em 2018, ampliado a outros cursos); acrescentado como evidência mais recente."
+    },
+    {
+      "candidato": 128,
+      "acao": "vincular",
+      "a_candidato": 41,
+      "justificativa": "Mesmo serviço de acompanhamento psicossocial a servidores (texto idêntico), no Catálogo de Serviços da UFRGS."
+    },
+    {
+      "candidato": 126,
+      "acao": "vincular",
+      "a_candidato": 38,
+      "justificativa": "Mesmo serviço de acolhimento em saúde mental da PRAE, aqui pela Divisão de Promoção da Saúde Discente no Catálogo de Serviços; acrescentado como evidência."
+    },
+    {
+      "candidato": 116,
+      "acao": "aprovar",
+      "justificativa": "Conjunto de materiais educativos de saúde mental (cartilhas e cartaz) publicados no portal de saúde mental da UFRGS: disseminação de conhecimento, registrado como uma iniciativa para não multiplicar contagens.",
+      "edicoes": {
+        "nome": "Materiais educativos de saúde mental (cartilhas e cartaz) — PRAE/DPSD",
+        "categoria_principal": "pesquisa_formacao",
+        "categorias_secundarias": [
+          "acao_pontual"
+        ],
+        "grau_evidencia": 3,
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "estudantes",
+          "comunidade_universitaria"
+        ],
+        "unidade_responsavel": "Divisão de Promoção da Saúde Discente (DPSD) da Pró-Reitoria de Assuntos Estudantis (PRAE)",
+        "modalidade": "online",
+        "descricao": "Cartilhas sobre cuidados em saúde mental após as enchentes, primeiros socorros psicológicos em desastres, acesso ao SUS, abordagem do suicídio nas unidades acadêmicas, e cartaz sobre onde buscar ajuda."
+      }
+    },
+    {
+      "candidato": 117,
+      "acao": "vincular",
+      "a_candidato": 116,
+      "justificativa": "Cartilha integrante do mesmo conjunto de materiais educativos."
+    },
+    {
+      "candidato": 118,
+      "acao": "vincular",
+      "a_candidato": 116,
+      "justificativa": "Cartilha do mesmo conjunto; o trecho identifica a DPSD/PRAE como autora."
+    },
+    {
+      "candidato": 119,
+      "acao": "vincular",
+      "a_candidato": 116,
+      "justificativa": "Cartilha do mesmo conjunto (abordagem do suicídio nas unidades acadêmicas)."
+    },
+    {
+      "candidato": 120,
+      "acao": "vincular",
+      "a_candidato": 116,
+      "justificativa": "Cartaz do mesmo conjunto de materiais."
+    },
+    {
+      "candidato": 121,
+      "acao": "rejeitar",
+      "motivo": "O trecho descreve a campanha nacional Setembro Amarelo, não uma ação promovida pela UFRGS."
+    },
+    {
+      "candidato": 124,
+      "acao": "inconclusivo",
+      "motivo": "Única evidência é uma frase em página de listagem do Jornal da Universidade; relação com o Programa Saber Viver e vigência não esclarecidas. Consultar a matéria completa."
+    },
+    {
+      "candidato": 115,
+      "acao": "aprovar",
+      "justificativa": "Convite oficial (agosto de 2026) para grupo de desenvolvimento de habilidades sociais aberto à comunidade acadêmica e externa, no portal de saúde mental: ação de extensão, Nível 3.",
+      "edicoes": {
+        "nome": "Grupo de Desenvolvimento de Habilidades Sociais",
+        "situacao_documentada": "ativa",
+        "publicos": [
+          "comunidade_universitaria",
+          "comunidade_externa"
+        ],
+        "limitacoes": "Unidade responsável não identificada na fonte."
+      }
+    },
+    {
+      "candidato": 125,
+      "acao": "aprovar",
+      "justificativa": "Núcleo de Apoio ao Estudante (16 anos de atuação) descrito como espaço de escuta a graduandos e pós-graduandos: serviço permanente, Nível 3.",
+      "edicoes": {
+        "nome": "Núcleo de Apoio ao Estudante (NAE)",
+        "publicos": [
+          "estudantes_graduacao",
+          "pos_graduandos"
+        ],
+        "limitacoes": "Foco principal em carreira e aprendizagem; a função de escuta é destacada no contexto do ensino remoto. Fonte sem data visível."
+      }
+    },
+    {
+      "candidato": 127,
+      "acao": "aprovar",
+      "justificativa": "Notícia oficial de atividade da PRAE sobre acesso a serviços de saúde mental para estudantes: ação pontual, Nível 3.",
+      "edicoes": {
+        "nome": "Atividade da PRAE sobre acesso a serviços de saúde mental",
+        "publicos": [
+          "estudantes"
+        ],
+        "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE)",
+        "periodicidade": "pontual"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3009 @@
+{
+  "lote": "rs",
+  "executado_em": "2026-10-23T02:10:05+00:00",
+  "ferramenta": "Claude Code – pesquisa-piloto assistida (WebSearch + WebFetch)",
+  "universidades": [
+    {
+      "sigla": "UFRGS",
+      "nome_oficial": "Universidade Federal do Rio Grande do Sul",
+      "dominio": "ufrgs.br",
+      "consultas": [
+        "UFRGS saúde mental estudantes acolhimento psicológico PRAE",
+        "site:ufrgs.br política de saúde mental resolução",
+        "UFRGS Clínica de Atendimento Psicológico Instituto de Psicologia atendimento gratuito",
+        "UFRGS saúde mental servidores PROGESP acolhimento psicológico servidores",
+        "UFRGS \"setembro amarelo\" prevenção do suicídio estudantes 2025",
+        "UFRGS portaria comitê saúde mental comunidade universitária",
+        "\"Pega Leve\" UFRGS FAMED saúde mental estudantes projeto de extensão"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://www.ufrgs.br/prae/promocao-da-saude/",
+          "titulo": "Promoção da Saúde – PRAE/UFRGS",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://www.ufrgs.br/saberviver/",
+          "titulo": "Saber Viver UFRGS",
+          "acessada": true,
+          "observacao": "used (contexto)"
+        },
+        {
+          "url": "https://www.ufrgs.br/saberviver/?p=382",
+          "titulo": "Normatização e Formulários – Saber Viver UFRGS",
+          "acessada": true,
+          "observacao": "used; lista Portaria 7715/2022 e fluxos"
+        },
+        {
+          "url": "https://www.ufrgs.br/site/wp-content/uploads/2025/04/institui-o-saber-viver-programa-de-saude-e-bem-estar-estudantil-da-universidade-federal-do-rio-grande-do-sul.pdf",
+          "titulo": "Portaria nº 7715 de 19/12/2022",
+          "acessada": true,
+          "observacao": "used; PDF baixado e texto extraído localmente"
+        },
+        {
+          "url": "https://www.ufrgs.br/saberviver/?p=392",
+          "titulo": "Saúde – Saber Viver UFRGS",
+          "acessada": true,
+          "observacao": "used (FALAQUÍ, PROA, MEDUSA)"
+        },
+        {
+          "url": "https://www.ufrgs.br/medusa/2024/",
+          "titulo": "Programa de Extensão MEDUSA – arquivo 2024",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://www.ufrgs.br/clinica/apresentacao/",
+          "titulo": "Apresentação – Clínica de Atendimento Psicológico UFRGS",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://www.ufrgs.br/das/?p=346",
+          "titulo": "Atendimentos Individuais – DAS",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://www.ufrgs.br/edufrgs/estrategias-de-cuidado-a-saude-mental-discente-em-contexto-universitario-uma-formacao-ligada-ao-programa-saber-viver-turma-8/",
+          "titulo": "Estratégias de cuidado à saúde mental discente em contexto universitário (turma 8) – EDUFRGS",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://www.ufrgs.br/cipas/?p=236",
+          "titulo": "Links úteis & mais informações – CIPAS",
+          "acessada": true,
+          "observacao": "used (contexto CIPAS, site Saúde Mental, Pega Leve)"
+        },
+        {
+          "url": "https://www.ufrgs.br/jornal/?p=4544",
+          "titulo": "Projeto Pega Leve discute saúde mental – Jornal da UFRGS",
+          "acessada": true,
+          "observacao": "used"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Confirmar situação atual do projeto Pega Leve (fonte de 2019)",
+        "Verificar existência de política/resolução de saúde mental do CONSUN além da Portaria 7715/2022",
+        "Ações de Setembro Amarelo localizadas apenas em páginas antigas (FAMED, Campus Litoral Norte, campanha #tamojuntoUFRGS 2019) – não buscadas",
+        "Programa Saúde/auxílio financeiro para tratamento de saúde mental citado em página antiga (humanista) – não verificado",
+        "FALAQUÍ e PROA descritos apenas na página-agregadora do Saber Viver; páginas próprias não consultadas",
+        "Relatório 'Gestão Aberta' da PRAE (PDF 2026) não consultado"
+      ],
+      "candidatos": [
+        {
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "objetivos": "Promoção da saúde e bem-estar estudantil; entre os objetivos, oferecer formação continuada sobre saúde mental à comunidade universitária.",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Desde 19/12/2022",
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – Divisão de Promoção da Saúde Discente (DPSD)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Institui o Saber Viver - Programa de Saúde e Bem-Estar Estudantil da Universidade Federal do Rio Grande do Sul",
+            "tipo_documento": "portaria",
+            "numero_documento": "7715",
+            "data_publicacao": "2022-12-19",
+            "orgao_emissor": "Reitor da UFRGS",
+            "url_original": "https://www.ufrgs.br/site/wp-content/uploads/2025/04/institui-o-saber-viver-programa-de-saude-e-bem-estar-estudantil-da-universidade-federal-do-rio-grande-do-sul.pdf"
+          },
+          "data_publicacao_fonte": "2022-12-19",
+          "campos_ausentes": [
+            "modalidade",
+            "campus"
+          ],
+          "nome": "Saber Viver – Programa de Saúde e Bem-Estar Estudantil da UFRGS (Portaria nº 7715/2022)",
+          "categoria_sugerida": "politica_institucional",
+          "descricao": "Programa institucional instituído por portaria do Reitor que integra políticas, serviços e ações da Universidade voltadas à promoção da saúde e bem-estar estudantil, com Comitê Gestor, formação em saúde mental estudantil, comunicação de intercorrências em saúde mental e fluxos de encaminhamento (urgência, ideação/tentativa de suicídio etc.).",
+          "url_fonte": "https://www.ufrgs.br/site/wp-content/uploads/2025/04/institui-o-saber-viver-programa-de-saude-e-bem-estar-estudantil-da-universidade-federal-do-rio-grande-do-sul.pdf",
+          "titulo_fonte": "Portaria nº 7715 de 19/12/2022",
+          "tipo_fonte": "documento_normativo",
+          "trecho_evidencia": "Art. 1º - O Saber Viver - Programa de Saúde e Bem-Estar Estudantil da Universidade Federal do Rio Grande do Sul (UFRGS) é uma iniciativa que integra as diferentes políticas, serviços e ações desenvolvidas pela Universidade, visando à promoção da saúde e bem-estar estudantil [...] IV - Oferecer formação continuada sobre saúde mental à comunidade universitária;",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "justificativa": "Portaria do Reitor institui formalmente o programa, com seção específica de saúde mental, comitê gestor e fluxos; texto extraído do PDF oficial. Escopo é saúde e bem-estar estudantil amplo (não exclusivamente saúde mental)."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": "Identificar fatores que interferem na saúde mental e na vida acadêmica do estudante.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "PRAE – Divisão de Promoção da Saúde Discente (DPSD)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "campus",
+            "documento_relacionado"
+          ],
+          "nome": "Psicologia – acolhimento e orientação em saúde mental (Programa de Benefícios PRAE)",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Ações de acolhimento e orientação em saúde mental a estudantes de graduação integrantes do Programa de Benefícios PRAE, com orientação sobre acesso à rede externa quando há necessidade de tratamento, e suporte a servidores técnicos e docentes em situações de saúde mental discente.",
+          "url_fonte": "https://www.ufrgs.br/prae/promocao-da-saude/",
+          "titulo_fonte": "Promoção da Saúde – PRAE/UFRGS",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "Ações de acolhimento e orientação em saúde mental, apenas, aos estudantes de graduação [...] com o objetivo de identificar fatores que interferem na saúde mental e na vida acadêmica do estudante.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "justificativa": "Serviço permanente de psicologia da assistência estudantil descrito em página oficial da PRAE; vinculado ao Saber Viver mas classificado como serviço."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Grupos iniciados em 2024/1 (9 de abril de 2024)",
+          "unidade_responsavel": "Instituto de Psicologia, Serviço Social, Saúde e Comunicação Humana UFRGS",
+          "campus": "Saúde, Centro e Olímpico (Porto Alegre) e online",
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "documento_relacionado"
+          ],
+          "nome": "Programa de Extensão Movimento Educação e Saúde Mental (MEDUSA) – grupos de acolhimento",
+          "categoria_sugerida": "projeto_extensao",
+          "descricao": "Programa de extensão que realiza grupos semanais de acolhimento, escuta e compartilhamento de experiências para estudantes de graduação e pós-graduação, nos campi Saúde, Centro e Olímpico e em grupo online.",
+          "url_fonte": "https://www.ufrgs.br/medusa/2024/",
+          "titulo_fonte": "Programa de Extensão MEDUSA – 2024",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "O Programa de Extensão Movimento Educação e Saúde Mental (Medusa/UFRGS) inicia [...] Os grupos são espaços de encontros semanais para promover a escuta, o acolhimento [...] nos campi Saúde, Centro e Olímpico, além de um grupo online",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Programa de extensão documentado em site oficial; trechos obtidos por extração resumida (fragmentos verbatim, conferir texto completo)."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_externa"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Instituto de Psicologia, Serviço Social, Saúde e Comunicação Humana",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "nome": "Clínica de Atendimento Psicológico (serviço-escola do Instituto de Psicologia)",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Serviço-escola do Instituto de Psicologia, Serviço Social, Saúde e Comunicação Humana que oferece atendimento psicológico e fonoaudiológico à comunidade.",
+          "url_fonte": "https://www.ufrgs.br/clinica/apresentacao/",
+          "titulo_fonte": "Apresentação – Clínica de Atendimento Psicológico UFRGS",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "A Clínica de Atendimento Psicológico é um serviço-escola do Instituto de Psicologia, Serviço Social, Saúde e Comunicação Humana da UFRGS [...] oferece atendimento fonoaudiológico e psicológico à comunidade.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "justificativa": "Clínica-escola documentada em página oficial. Modalidade presencial e exclusão de estudantes do próprio Instituto constam apenas em snippet de busca da página de atendimento (não confirmados por fetch)."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Departamento de Atenção à Saúde (DAS) – Divisão de Promoção da Saúde",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "nome": "Atendimentos Individuais – acompanhamento psicossocial a servidores (DAS)",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Acompanhamento psicossocial individualizado, realizado por equipe multiprofissional, para servidores docentes e técnico-administrativos com demandas de saúde mental relacionadas ao trabalho (ex.: burnout, conflitos, assédio); não é psicoterapia, podendo haver encaminhamento.",
+          "url_fonte": "https://www.ufrgs.br/das/?p=346",
+          "titulo_fonte": "Atendimentos Individuais – DAS",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "um espaço de escuta qualificada realizado por equipe multiprofissional [...] servidores ativos docentes ou técnico-administrativos da UFRGS",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Serviço permanente para servidores em página oficial do DAS; trecho curto verbatim, demais detalhes parafraseados pela ferramenta de extração."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": "Fornecer subsídios para o cuidado em saúde mental discente na Universidade.",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "21 de maio a 04 de junho de 2025 (turma 8)",
+          "unidade_responsavel": "PRAE / UFRGS (promoção EDUFRGS/PROGESP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "campus"
+          ],
+          "nome": "Curso 'Estratégias de cuidado à saúde mental discente em contexto universitário' – formação ligada ao Programa Saber Viver (turma 8)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "descricao": "Capacitação de servidores docentes e técnico-administrativos, preferencialmente os que atuam diretamente com estudantes, para o cuidado em saúde mental discente; formato híbrido, 12 horas.",
+          "url_fonte": "https://www.ufrgs.br/edufrgs/estrategias-de-cuidado-a-saude-mental-discente-em-contexto-universitario-uma-formacao-ligada-ao-programa-saber-viver-turma-8/",
+          "titulo_fonte": "Estratégias de cuidado à saúde mental discente em contexto universitário – turma 8 (EDUFRGS)",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "Fornecer subsídios para o cuidado em saúde mental discente na Universidade. [...] Híbrido (encontros presenciais e atividades a distância assíncronas) [...] 21 de maio a 04 de junho de 2025",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "justificativa": "Formação recorrente (turma 8) prevista na Portaria 7715/2022 do Saber Viver; edição específica de 2025 já encerrada. [Verificação pós-coleta: trecho obtido via WebFetch (modelo resumidor); não localizado no HTML estático baixado por curl — conferir manualmente na página.]"
+        },
+        {
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "objetivos": "Identificar e encaminhar estudantes em risco quanto à saúde mental e visibilizar a questão na universidade (segundo página do CIPAS).",
+          "publico_alvo": [
+            "estudantes",
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "unidade",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Faculdade de Medicina (FAMED)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": "2019-09-04",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "nome": "Projeto Pega Leve (FAMED)",
+          "categoria_sugerida": "projeto_extensao",
+          "descricao": "Projeto de extensão da Faculdade de Medicina voltado a orientar a comunidade na identificação de sinais de transtornos psíquicos, informar sobre busca de tratamento e desconstruir o estigma, com palestras, psicoeducação em redes sociais e capacitação de estudantes.",
+          "url_fonte": "https://www.ufrgs.br/jornal/?p=4544",
+          "titulo_fonte": "Projeto Pega Leve discute saúde mental",
+          "tipo_fonte": "noticia_oficial",
+          "trecho_evidencia": "o Pega Leve, projeto de extensão da Faculdade de Medicina, foi criado para orientar a comunidade na identificação de sinais de transtornos psíquicos, para informar sobre a busca de tratamento",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Projeto de extensão anti-estigma/gatekeeper documentado em notícia oficial de 2019; situação atual não confirmada."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "unidade_responsavel",
+            "documento_relacionado"
+          ],
+          "nome": "FALAQUÍ – escuta e acolhimento individual a estudantes",
+          "categoria_sugerida": "projeto_extensao",
+          "descricao": "Ação de extensão que oferece escuta e acolhimento individual e gratuito a estudantes, listada entre os serviços de saúde do Programa Saber Viver; descrita como realizada remotamente.",
+          "url_fonte": "https://www.ufrgs.br/saberviver/?p=392",
+          "titulo_fonte": "Saúde – Saber Viver UFRGS",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "uma ação de extensão que oferece escuta e acolhimento individual e gratuito a estudantes da UFRGS e da USFM.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Evidência apenas em página agregadora do Saber Viver; unidade responsável e página própria não verificadas ('USFM' grafado assim na fonte). [Verificação pós-coleta: trecho obtido via WebFetch (modelo resumidor); não localizado no HTML estático baixado por curl — conferir manualmente na página.]"
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "unidade",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "unidade_responsavel",
+            "documento_relacionado"
+          ],
+          "nome": "PROA – Programa de Orientação, Acolhimento e Acompanhamento Discente",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Espaço de acolhimento, encontro e reflexão que oferece escuta e acompanhamento a discentes dos cursos de Arquitetura e Urbanismo, Design de Produto e Design Visual.",
+          "url_fonte": "https://www.ufrgs.br/saberviver/?p=392",
+          "titulo_fonte": "Saúde – Saber Viver UFRGS",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "um espaço de acolhimento, encontro e reflexão que oferece escuta e acompanhamento aos discentes",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Programa de acolhimento de unidade acadêmica listado na página do Saber Viver; página própria não consultada. [Verificação pós-coleta: trecho obtido via WebFetch (modelo resumidor); não localizado no HTML estático baixado por curl — conferir manualmente na página.]"
+        }
+      ]
+    },
+    {
+      "sigla": "UFPel",
+      "nome_oficial": "Universidade Federal de Pelotas",
+      "dominio": "ufpel.edu.br",
+      "consultas": [
+        "UFPel saúde mental estudantes núcleo psicologia pró-reitoria assuntos estudantis",
+        "UFPel política de saúde mental resolução CONSUN UFPel saúde mental",
+        "UFPel \"Serviço Escola de Psicologia\" SEP atendimento comunidade",
+        "site:ufpel.edu.br \"saúde mental\" projeto de extensão OR \"setembro amarelo\" OR \"prevenção ao suicídio\"",
+        "UFPel PROGEP saúde mental servidores acolhimento psicológico núcleo atenção saúde servidor",
+        "ccs2.ufpel.edu.br saúde mental UFPel notícia estudantes acolhimento 2025"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://wp.ufpel.edu.br/prae/atendimento-psicologico/",
+          "titulo": "Saúde Mental – PRAE/UFPel",
+          "acessada": true,
+          "observacao": "usada; página lista acolhimento Nupadi, grupos terapêuticos, Emoções em Diálogo, Diz Aí, Plantão Contextos; acesso direto via curl bloqueado por WAF, conteúdo obtido via WebFetch"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/cpu/files/2020/09/NUPADI.pdf",
+          "titulo": "NUPADI (folder)",
+          "acessada": true,
+          "observacao": "usada; PDF de 2020 (pela URL) com apresentação do núcleo e suas ações"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/prae/coordenacao_de_integracao_estudantil/nupadi-apresentacao/",
+          "titulo": "Nupadi – apresentação (PRAE/UFPel)",
+          "acessada": true,
+          "observacao": "lista equipe técnica (pedagogas, psicólogas, psiquiatra); sem texto descritivo; usada como apoio"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/scs/resolucoes-consun-2026/",
+          "titulo": "Resoluções CONSUN 2026",
+          "acessada": true,
+          "observacao": "nenhuma resolução específica de saúde mental; apenas Res. 141/2026 (Bem-Viver, violências)"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/scs/files/2026/02/SEI_3672422_Resolucao_141_2026.pdf",
+          "titulo": "Resolução CONSUN 141/2026 – Política Institucional Bem-Viver UFPel: Prevenção e Combate às Violências",
+          "acessada": true,
+          "observacao": "lida; política de prevenção a violências, não de saúde mental; menciona 'oferecimento de suporte psicológico aos estudantes que sofrem com a discriminação'; não registrada como candidato (relevância indireta)"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/empauta/setembro-amarelo-a-campanha-de-prevencao-ao-suicidio/",
+          "titulo": "Setembro Amarelo: a campanha de prevenção ao suicídio",
+          "acessada": true,
+          "observacao": "usada; matéria de 13/09/2021"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/progep/2023/10/19/roda-de-conversa-sobre-primeiros-cuidados-psicologicos-pcp-em-situacoes-de-tensao-emocional/",
+          "titulo": "Roda de conversa sobre Primeiros Cuidados Psicológicos (PCP) em situações de tensão emocional",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/teatro/2022/07/15/projeto-ufpel-sempre-acolhedora/",
+          "titulo": "Projeto UFPel Sempre Acolhedora",
+          "acessada": true,
+          "observacao": "usada; republicação em site de curso (Teatro) de comunicado institucional de 15/07/2022"
+        },
+        {
+          "url": "https://wp.ufpel.edu.br/psicologia/2025/",
+          "titulo": "Psicologia UFPel – publicações de 2025",
+          "acessada": true,
+          "observacao": "usada para curso de extensão 'Trabalho, precarização e saúde mental'; menciona NEPSI e ação psicoeducativa com PRAE"
+        },
+        {
+          "url": "https://anais-siiepe.ufpel.edu.br/2025/CH_03219.pdf",
+          "titulo": "CH 03219 (SIIEPE 2025) – Serviço Escola de Psicologia",
+          "acessada": false,
+          "observacao": "visto apenas em snippet de busca; não buscado"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não localizada política institucional/resolução específica de saúde mental na UFPel (consultada lista CONSUN 2026; anos anteriores não verificados integralmente).",
+        "Verificar página própria do Serviço Escola de Psicologia (SEP) da UFPel – só citado indiretamente na página da PRAE.",
+        "Confirmar continuidade (2025-2026) dos grupos do Nupadi, inclusive o Grupo de Prevenção ao Suicídio 'Para Cuidar da Vida' (evidência de folder de 2020).",
+        "Grupo 'Emoções em Diálogo: Encontros e Transformações' citado na página da PRAE não registrado por falta de trecho verbatim suficiente.",
+        "NEPSI – Núcleo de Saúde Mental, Cognição e Comportamento (grupo de pesquisa) mencionado em edital de IC 2025; não verificado.",
+        "Verificar serviços permanentes de saúde mental para servidores na PROGEP/CSQV (apenas eventos localizados).",
+        "Verificar sistema de projetos de extensão da UFPel (Cobalto/PREC) para outros projetos de saúde mental."
+      ],
+      "candidatos": [
+        {
+          "nome": "Acolhimento em Saúde Mental na PRAE (Nupadi)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Acolhimento pontual de apoio emocional a estudantes com matrícula ativa, oferecido pela equipe do Núcleo Psicopedagógico (Nupadi) da PRAE, mediante formulário, em atendimento presencial na sede da PRAE; não implica continuidade em psicoterapia individual.",
+          "objetivos": "oferecer apoio emocional para estudantes da UFPel com matrícula ativa",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – Núcleo Psicopedagógico de Atenção ao Estudante (Nupadi)",
+          "campus": "Pelotas (sede da PRAE, Rua Almirante Barroso, 1202)",
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/prae/atendimento-psicologico/",
+          "titulo_fonte": "Saúde Mental – PRAE/UFPel",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Essa é uma das ações propostas pela equipe do Núcleo Psicopedagógico de Apoio ao Discente (Nupadi) que objetiva oferecer apoio emocional para estudantes da UFPEL com matrícula ativa. [...] Os acolhimentos ocorrem presencialmente na sede da PRAE – Rua Almirante Barroso, nº 1202 – térreo. [...] Ressaltamos que tais atendimentos são pontuais e não deverão gerar expectativa de continuidade em psicoterapia individual.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo",
+            "documento_relacionado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço contínuo de acolhimento psicológico da assistência estudantil documentado em página oficial; sem ato normativo localizado. Página aparentemente atualizada em 2024 (datas das edições dos grupos). Trechos obtidos via WebFetch (curl bloqueado por WAF). [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Núcleo Psicopedagógico de Atenção ao Discente/Estudante (NUPADI) – PRAE",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Núcleo da PRAE criado em 2012, que desenvolve acompanhamento pedagógico e ações ligadas à saúde mental: grupos de autoestima, grupo Vivências Acadêmicas e Saúde Mental, rodas de conversa itinerantes, grupo de prevenção ao suicídio, grupos terapêuticos e acolhimentos em saúde mental. Equipe inclui pedagogas, psicólogas e psiquiatra (página de apresentação).",
+          "objetivos": "auxiliar alunos em situação de vulnerabilidade sobre a permanência nos programas de auxílio e apoiar em questões ligadas à saúde mental",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "desde 2012",
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/cpu/files/2020/09/NUPADI.pdf",
+          "titulo_fonte": "NUPADI (folder)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O NUPADI foi criado em 2012, pela pró-reitoria de assuntos estudantis da Universidade Federal de Pelotas, para auxiliar alunos que não conseguem cumprir com os critérios de aproveitamento acadêmico. Desde então, o núcleo vem desenvolvendo ações para auxiliar alunos em situação de vulnerabilidade sobre a permanência nos programas de auxílio e apoiando em questões ligadas à saúde mental.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "documento_relacionado",
+            "data_publicacao_fonte",
+            "modalidade (inferida)"
+          ],
+          "justificativa": "Núcleo permanente de apoio psicopedagógico/psicológico estudantil; folder institucional (caminho da URL indica 2020). Hifenização de quebra de linha do PDF removida no trecho. Continuidade confirmada pela página atual da PRAE que cita o Nupadi."
+        },
+        {
+          "nome": "Grupo de Prevenção ao Suicídio \"Para Cuidar da Vida\" (Nupadi/PRAE)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Grupo do Nupadi destinado a estudantes que sofrem por ideação, planos ou tentativas de suicídio, ou pelo suicídio de alguém próximo, com entrevista individual prévia de avaliação.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – NUPADI",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/cpu/files/2020/09/NUPADI.pdf",
+          "titulo_fonte": "NUPADI (folder)",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Grupo de Prevenção ao Suicídio “Para Cuidar da Vida” Espaço para alunos que sofrem por ideação, planos ou tentativas de suicídio, ou pelo suicídio de alguém próximo. Os alunos devem passar por entrevista individual para avaliação.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Ação de cuidado em grupo vinculada ao serviço do Nupadi; evidência apenas em folder de ~2020, situação atual desconhecida (não citada na página atual da PRAE). Categoria secundária incerta (pode ser projeto)."
+        },
+        {
+          "nome": "Grupos terapêuticos \"im.permanências acadêmicas\" (Nupadi/PRAE)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Grupos terapêuticos fechados para estudantes com matrícula ativa, coordenados por psicóloga do Nupadi, que articulam psicanálise, arte e filosofia em torno das vivências de ingresso e permanência na universidade; edição 2024 com inscrição por formulário e encontros na sede da PRAE.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": "edição 2024 (agosto a dezembro); página menciona inscrições para nova rodada em fevereiro de 2025",
+          "unidade_responsavel": "PRAE – Nupadi",
+          "campus": "Pelotas (prédio da PRAE)",
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/prae/atendimento-psicologico/",
+          "titulo_fonte": "Saúde Mental – PRAE/UFPel",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Quando pensamos no ingresso na universidade pensamos num mundo cheio de expectativas e possibilidades [...] Serão acolhidos 30 estudantes da UFPel com matrícula ativa. [...] os quais serão realizados na sala 211 no prédio em que a PRAE está situada",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Modalidade de atendimento em grupo do serviço psicológico estudantil; trechos curtos obtidos via WebFetch; continuidade após 2024/2025 não confirmada. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Plantão Psicológico \"Contextos\"",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Projeto de extensão que oferece atendimentos psicológicos emergenciais de sessão única, sem agendamento, por ordem de chegada, à população adulta de Pelotas e região, no Serviço Escola de Psicologia (SEP).",
+          "objetivos": "fornecer atendimentos psicológicos emergenciais de sessão única",
+          "publico_alvo": [
+            "comunidade_externa",
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Serviço Escola de Psicologia (SEP) – curso de Psicologia",
+          "campus": "Pelotas (Rua Marechal Deodoro, 1160)",
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/prae/atendimento-psicologico/",
+          "titulo_fonte": "Saúde Mental – PRAE/UFPel",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O projeto de extensão “Plantão Psicológico CONTEXTOS” tem como propósito fornecer atendimentos psicológicos emergenciais de sessão única",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "periodo",
+            "unidade_responsavel (inferida do local SEP)",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Explicitamente denominado projeto de extensão na página da PRAE; não verificado no sistema de extensão nem em página do SEP. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Diz Aí: Clínica Política Feminista e Antirracista",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Projeto de extensão de acolhimento psicológico em grupo, conduzido por psicóloga do Nupadi em parceria com o SEP, que recebe novos membros por encaminhamento dos acolhimentos individuais; versão anterior (folder Nupadi) voltada a sofrimento derivado de violências racial, de gênero e sexualidade.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "PRAE – Nupadi, em parceria com o Serviço Escola de Psicologia (SEP)",
+          "campus": "Pelotas (SEP, Rua Marechal Deodoro, 1160)",
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/prae/atendimento-psicologico/",
+          "titulo_fonte": "Saúde Mental – PRAE/UFPel",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Outra possibilidade de acolhimento psicológico é através do projeto de extensão “Diz Aí: Clínica Política Feminista e Antirracista”",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Identificado como projeto de extensão na página oficial; também listado no folder NUPADI como 'Diz Aí: Conversando sobre raça, gênero e sexualidade'. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Setembro Amarelo na UFPel (2021) – ciclos de palestras",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Matéria de 2021 relata palestras de conscientização e prevenção ao suicídio no Setembro Amarelo na UFPel, incluindo ciclo promovido pelo Diretório Acadêmico de Engenharia de Petróleo, ação do projeto de extensão Barraca da Saúde (Enfermagem) e ciclo de palestras online do Hospital Escola.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "online",
+          "abrangencia": "unidade",
+          "situacao_aparente": "encerrada",
+          "periodo": "setembro de 2021",
+          "unidade_responsavel": "Diversos: Diretório Acadêmico da Engenharia de Petróleo; projeto de extensão Barraca da Saúde (Enfermagem); Hospital Escola (HE) da UFPel",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/empauta/setembro-amarelo-a-campanha-de-prevencao-ao-suicidio/",
+          "titulo_fonte": "Setembro Amarelo: a campanha de prevenção ao suicídio",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2021-09-13",
+          "trecho_evidencia": "Palestras de conscientização e prevenção são as principais atividades que ocorrerão ao longo do mês na UFPel. [...] o Hospital Escola (HE) da UFPel também está promovendo um ciclo de palestras para marcar o Setembro Amarelo [...] Com o tema “Um Cuidado com a Vida”, o ciclo oferece palestras online para os colaboradores, docentes e acadêmicos do HE.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos"
+          ],
+          "justificativa": "Ações pontuais de campanha; fonte é site jornalístico do curso de Jornalismo (Em Pauta) no domínio ufpel.edu.br, não necessariamente comunicação oficial da reitoria. Modalidade online confirmada apenas para o ciclo do HE. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Roda de conversa \"Primeiros Cuidados Psicológicos: Como acolher alguém em situação de tensão emocional\" (PROGEP)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "Atividade formativa para servidores docentes e técnico-administrativos sobre Primeiros Cuidados Psicológicos, promovida pela CSQV e CDP da PROGEP, em duas turmas presenciais em 7/11/2023 no auditório da FAMED.",
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "7 de novembro de 2023",
+          "unidade_responsavel": "PROGEP – Coordenação de Saúde e Qualidade de Vida (CSQV) e Coordenação de Desenvolvimento de Pessoal (CDP)",
+          "campus": "Pelotas (auditório da FAMED)",
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/progep/2023/10/19/roda-de-conversa-sobre-primeiros-cuidados-psicologicos-pcp-em-situacoes-de-tensao-emocional/",
+          "titulo_fonte": "Roda de conversa sobre Primeiros Cuidados Psicológicos (PCP) em situações de tensão emocional",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2023-10-19",
+          "trecho_evidencia": "No dia 7 de novembro de 2023 será realizada a roda de conversa [...] promovida pela Coordenação de Saúde e Qualidade de Vida (CSQV) e de Coordenação de Desenvolvimento de Pessoal (CDP), da Pró-Reitoria de Gestão de Pessoas (PROGEP), UFPel. [...] voltada aos servidores e servidoras docentes e téc. administrativos(as) da Universidade",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos"
+          ],
+          "justificativa": "Capacitação de servidores em saúde mental (PCP); data da notícia inferida da URL. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Projeto UFPel Sempre Acolhedora",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Ação da equipe psicossocial da PROGEP com PRE e PRAE, no retorno às aulas presenciais (2022), de formação psicoeducativa em saúde mental para grupos internos de apoio indicados pelas unidades (ao menos um TAE, um docente e um estudante).",
+          "objetivos": "fortalecer os valores acolhedores em nossa instituição nesse momento de retorno às aulas presenciais",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos",
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "agosto de 2022 (data prevista)",
+          "unidade_responsavel": "Equipe psicossocial da PROGEP, em parceria com PRE e PRAE",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/teatro/2022/07/15/projeto-ufpel-sempre-acolhedora/",
+          "titulo_fonte": "Projeto UFPel Sempre Acolhedora",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2022-07-15",
+          "trecho_evidencia": "equipe psicossocial da PROGEP em parceria com a PRE e PRAE [...] fortalecer os valores acolhedores em nossa instituição nesse momento de retorno às aulas presenciais [...] servidores e alunos possam apresentar nesse período adaptativo",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "campus"
+          ],
+          "justificativa": "Ação formativa institucional pontual/temporária; fonte é republicação no site do curso de Teatro; trechos fragmentários via WebFetch. Situação 'encerrada' presumida pelo caráter de retorno pós-pandemia. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        },
+        {
+          "nome": "Curso de extensão \"Trabalho, precarização e saúde mental: da colonização à superexploração do trabalho no capitalismo de plataformas\"",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Curso de extensão divulgado pelo curso de Psicologia em 2025, com encontros online, voltado a estudantes, profissionais de saúde e integrantes de movimentos sociais, sobre relações entre trabalho precarizado e saúde mental.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "comunidade_externa"
+          ],
+          "modalidade": "online",
+          "abrangencia": "unidade",
+          "situacao_aparente": "encerrada",
+          "periodo": "encontros em 18/10, 25/10, 08/11 e 22/11 (2025)",
+          "unidade_responsavel": "Curso de Psicologia (UFPel)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://wp.ufpel.edu.br/psicologia/2025/",
+          "titulo_fonte": "Psicologia UFPel – publicações de 2025",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2025-10-08",
+          "trecho_evidencia": "Estão abertas as inscrições para o curso de extensão Trabalho, precarização e saúde mental [...] Convidamos estudantes, profissionais da saúde e integrantes de movimentos sociais a participarem do curso de extensão",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "unidade_responsavel (inferida do site do curso)"
+          ],
+          "justificativa": "Ação formativa de extensão com tema de saúde mental; evidência a partir de página-arquivo de posts (trechos via WebFetch); foco não restrito à comunidade universitária. [Verificação pós-coleta: site da UFPel bloqueia download automatizado; trecho obtido via WebFetch, conferir manualmente.]"
+        }
+      ]
+    },
+    {
+      "sigla": "FURG",
+      "nome_oficial": "Universidade Federal do Rio Grande",
+      "dominio": "furg.br",
+      "consultas": [
+        "FURG saúde mental estudantes atendimento psicológico PRAE",
+        "site:furg.br \"Política de Saúde Mental\" consulta comunidade",
+        "site:furg.br Centro de Atendimento Psicológico CAP psicologia comunidade",
+        "site:furg.br \"setembro amarelo\" OR \"prevenção do suicídio\" OR \"projeto de extensão\" saúde mental",
+        "FURG \"saúde mental\" notícia acolhimento estudantes 2025 comitê",
+        "FURG projeto de extensão saúde mental universitários roda de conversa psicologia furg.br",
+        "FURG PROGEP saúde mental servidores atendimento psicológico qualidade de vida",
+        "furg.br notícias saúde mental 2025 2026 PRAE psicologia escolar campanha estudantes"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://furg.br/arquivos/Noticias/2026/11-05-2026-Poltica_SM_FURG_-_Preliminar_para_Avaliao_da_Comunidade-furg.pdf",
+          "titulo": "Política SM FURG – Preliminar para Avaliação da Comunidade (minuta de Resolução CONSUN)",
+          "acessada": true,
+          "observacao": "usada; texto extraído localmente do PDF"
+        },
+        {
+          "url": "https://www.furg.br/arquivos/Noticias/2026/13-04-2026-divulgao_conferencias_setoriais_psm-furg.pdf",
+          "titulo": "Divulgação Mini-Conferências Setoriais – Política de Saúde Mental FURG",
+          "acessada": true,
+          "observacao": "usada; PDF de ~100MB baixado via curl (WebFetch excedeu limite) e texto extraído"
+        },
+        {
+          "url": "https://conselhos.furg.br/arquivos/Portaria_GR_126_2025.pdf",
+          "titulo": "Portaria GAB/FURG nº 126, de 02/10/2025",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://conselho.furg.br/arquivos/Portaria_Normativa_124_2025.pdf",
+          "titulo": "Portaria GAB/FURG nº 124, de 14/09/2025",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://conselhos.furg.br/arquivos/instrucoes-normativas/prae/2024/IN_PRAE_0008_2024.pdf",
+          "titulo": "Instrução Normativa PRAE/FURG nº 8, de 12/07/2024",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://prae.furg.br/servico-de-psicologia",
+          "titulo": "Serviço de Psicologia – PRAE/FURG",
+          "acessada": true,
+          "observacao": "usada como apoio (oferta de escuta e ações de prevenção/promoção; unidades em 4 campi)"
+        },
+        {
+          "url": "https://prae.furg.br",
+          "titulo": "PRAE/FURG – página inicial",
+          "acessada": true,
+          "observacao": "descoberta de links (Serviço de Psicologia, CBVU, Agendamento de Serviços de Saúde)"
+        },
+        {
+          "url": "https://prae.furg.br/diretoria-de-assistência-estudantil/cbvu",
+          "titulo": "CBVU – Coordenação de Bem Viver Universitário",
+          "acessada": true,
+          "observacao": "apoio; cita agendamento de serviços psicológico e psiquiátrico"
+        },
+        {
+          "url": "https://prae.furg.br/images/Documentos/Editais/SEI_0256468_Edital_21_2024.pdf",
+          "titulo": "Edital PRAE nº 21/2024 – seleção de bolsista PDE (Campus SLS)",
+          "acessada": true,
+          "observacao": "usada; lista projetos de saúde mental da PRAE-SLS"
+        },
+        {
+          "url": "https://acolhidacidada.furg.br/arquivos/Acolhida2025_1/Anexo_2_Edital_Acolhida_20251.pdf",
+          "titulo": "Anexo – Edital 05/2025 Projeto de Acolhida Cidadã/Solidária",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://progep.furg.br/arquivos/procedimentos/000393.pdf",
+          "titulo": "PROGEP/FURG – procedimento 000393 (serviço de psicologia organizacional)",
+          "acessada": false,
+          "observacao": "falha de conexão (WebFetch e curl); conteúdo visto só em snippet"
+        },
+        {
+          "url": "https://progep.furg.br",
+          "titulo": "PROGEP/FURG",
+          "acessada": false,
+          "observacao": "falha de conexão"
+        },
+        {
+          "url": "https://psicologia.furg.br/images/Ficha_de_local_de_estgio.pdf",
+          "titulo": "Ficha de local de estágio – CAP/FURG",
+          "acessada": false,
+          "observacao": "visto apenas em snippet de busca"
+        },
+        {
+          "url": "https://sul21.com.br/?p=274709",
+          "titulo": "Sul21 – reportagem sobre suicídios de estudantes da FURG (2025)",
+          "acessada": false,
+          "observacao": "fonte secundária, apenas descoberta"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Política de Saúde Mental da FURG ainda em minuta (número/data XX); verificar aprovação pelo CONSUN e publicação da resolução definitiva.",
+        "Centro de Atendimento Psicológico (CAP/FURG) – clínica-escola citada na Portaria 126/2025; localizar página institucional própria.",
+        "Serviço de psicologia da PROGEP/CPOSS para servidores: procedimento 000393 não acessível (site progep.furg.br fora do ar durante a coleta).",
+        "Verificar sistema de extensão da FURG (PROEXC) para projetos de saúde mental além dos da PRAE-SLS.",
+        "Resolução CONSUN/FURG nº 15/2023 (Política de enfrentamento ao assédio, discriminação e violência) citada na IN 8/2024 – relevância indireta, não verificada.",
+        "Deliberação COEPEA/FURG nº 164/2010 (Programa Acolhida Cidadã/Solidária) citada na minuta – não verificada."
+      ],
+      "candidatos": [
+        {
+          "nome": "Política de Saúde Mental da FURG (proposta preliminar de Resolução CONSUN, em consulta à comunidade)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Minuta de resolução do Conselho Universitário que institui a Política de Saúde Mental da FURG, dispondo sobre avaliação sistemática, promoção, prevenção e atenção psicossocial para a comunidade universitária, prevendo Comissão Permanente de Saúde Mental vinculada à SECAID. Documento marcado como 'PROPOSTA', com número e data em aberto (XX).",
+          "objetivos": "dispor sobre as estratégias desenvolvidas pela e para a comunidade universitária em torno da avaliação sistemática, promoção, prevenção e atenção psicossocial em saúde mental no âmbito da FURG",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Comissão Especial de Saúde Mental da SECAID (elaboração); CONSUN (aprovação)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Resolução CONSUN/FURG nº XX – Dispõe sobre a Política de Saúde Mental da Universidade Federal do Rio Grande - FURG (proposta preliminar para avaliação da comunidade)",
+            "tipo_documento": "outro",
+            "numero_documento": null,
+            "data_publicacao": null,
+            "orgao_emissor": "Conselho Universitário (CONSUN) – FURG",
+            "url_original": "https://furg.br/arquivos/Noticias/2026/11-05-2026-Poltica_SM_FURG_-_Preliminar_para_Avaliao_da_Comunidade-furg.pdf"
+          },
+          "url_fonte": "https://furg.br/arquivos/Noticias/2026/11-05-2026-Poltica_SM_FURG_-_Preliminar_para_Avaliao_da_Comunidade-furg.pdf",
+          "titulo_fonte": "Política SM FURG – Preliminar para Avaliação da Comunidade",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Dispõe sobre a Política de Saúde Mental da Universidade Federal do Rio Grande - FURG. [...] Art. 1º Instituir, no âmbito da FURG, a Política de Saúde Mental. [...] Art. 3º A Política de Saúde Mental dispõe sobre as estratégias desenvolvidas pela e para a comunidade universitária em torno da avaliação sistemática, promoção, prevenção e atenção psicossocial em saúde mental no âmbito da FURG.",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "numero_documento",
+            "data_publicacao",
+            "periodo"
+          ],
+          "justificativa": "Política formal em elaboração, documentada oficialmente, mas ainda não aprovada (minuta com 'XX'); por isso grau 2 e não 1. Nome do arquivo sugere 11/05/2026 (não confirmado no texto). Se aprovada, reclassificar para grau 1."
+        },
+        {
+          "nome": "Comitê de Gestão em Saúde Mental da FURG",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Comitê instituído por portaria da Reitoria, com atribuições de acompanhar, planejar e intervir em saúde mental, sofrimento psicológico e posvenção ao luto; atender demandas emergenciais com capacitação em Primeiros Cuidados Psicológicos; apoiar PRAE e PROGEP no acolhimento psicossocial e busca ativa; orientar a comunidade. Composto por PRAE, PROGEP, PROGRAD, FAMED, EENF, curso de Psicologia, CAP, SECAID (presidência), DCE e Secretaria Municipal de Saúde.",
+          "objetivos": "acompanhar, planejar e intervir em questões relacionadas à saúde mental, sofrimento psicológico e posvenção ao luto, no contexto universitário",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "efeitos a partir de 15/09/2025",
+          "unidade_responsavel": "Gabinete da Reitora; presidência pela Secretaria de Ações Afirmativas, Inclusão e Diversidades (SECAID)",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Portaria GAB/FURG nº 126, de 02 de outubro de 2025 – Dispõe sobre a instituição do Comitê de Gestão em Saúde Mental no âmbito da FURG",
+            "tipo_documento": "portaria",
+            "numero_documento": "126/2025",
+            "data_publicacao": "2025-10-02",
+            "orgao_emissor": "Gabinete da Reitora – FURG",
+            "url_original": "https://conselhos.furg.br/arquivos/Portaria_GR_126_2025.pdf"
+          },
+          "url_fonte": "https://conselhos.furg.br/arquivos/Portaria_GR_126_2025.pdf",
+          "titulo_fonte": "Portaria GAB/FURG nº 126/2025",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2025-10-02",
+          "trecho_evidencia": "Art. 1º Instituir o Comitê de Gestão em Saúde Mental no âmbito da Universidade Federal do Rio Grande – FURG. Art. 2º Este Comitê terá as seguintes atribuições: I - acompanhar, planejar e intervir em questões relacionadas à saúde mental, sofrimento psicológico e posvenção ao luto, no contexto universitário;",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [],
+          "justificativa": "Ato normativo (portaria) que estabelece formalmente uma instância institucional de gestão em saúde mental; grau 1 por ser documento oficial instituidor, embora não seja uma política abrangente (esta segue em minuta)."
+        },
+        {
+          "nome": "Serviço de Psicologia Escolar da PRAE",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço da PRAE, vinculado à Coordenação do Bem Viver Universitário (CBVU), regulamentado por Instrução Normativa, com ações prioritariamente coletivas e interdisciplinares, preventivas e interventivas, voltadas ao bem-estar psicossocial e à aprendizagem; não tem como objetivo o tratamento clínico. Atende graduandos e pós-graduandos de cursos presenciais, com prioridade para estudantes do SAB e vítimas de assédio/violência. Página da PRAE indica unidades nos campi Rio Grande, Santo Antônio da Patrulha, São Lourenço do Sul e Santa Vitória do Palmar.",
+          "objetivos": "promover bem-estar psicossocial e condições para a aprendizagem dos estudantes",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – Diretoria de Assistência Estudantil – Coordenação do Bem Viver Universitário (CBVU)",
+          "campus": "Rio Grande, Santo Antônio da Patrulha, São Lourenço do Sul, Santa Vitória do Palmar",
+          "documento_relacionado": {
+            "titulo": "Instrução Normativa PRAE/FURG nº 8, de 12 de julho de 2024 – regulamenta os procedimentos do Serviço de Psicologia Escolar da PRAE",
+            "tipo_documento": "instrucao_normativa",
+            "numero_documento": "8/2024",
+            "data_publicacao": "2024-07-12",
+            "orgao_emissor": "Pró-Reitoria de Assuntos Estudantis (PRAE) – FURG",
+            "url_original": "https://conselhos.furg.br/arquivos/instrucoes-normativas/prae/2024/IN_PRAE_0008_2024.pdf"
+          },
+          "url_fonte": "https://conselhos.furg.br/arquivos/instrucoes-normativas/prae/2024/IN_PRAE_0008_2024.pdf",
+          "titulo_fonte": "Instrução Normativa PRAE/FURG nº 8/2024",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-07-12",
+          "trecho_evidencia": "Art. 3° O Serviço de Psicologia Escolar tem como objetivo promover bem-estar psicossocial e condições para a aprendizagem dos estudantes, por meio de ações prioritariamente coletivas e interdisciplinares, de natureza preventiva e interventiva, que respeitem a ética, os direitos humanos e os preceitos científicos da Psicologia Escolar.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo"
+          ],
+          "justificativa": "Serviço permanente de psicologia (não é política, apesar de regulamentado por IN); grau 3 por ser serviço documentado sem política abrangente vigente. Campi conforme página prae.furg.br/servico-de-psicologia."
+        },
+        {
+          "nome": "Serviço de Psicologia da PROGEP / Coordenação de Promoção e Orientação em Saúde do Servidor (CPOSS)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço de psicologia da Pró-Reitoria de Gestão e Desenvolvimento de Pessoas, por meio da CPOSS, citado em portaria como disponível para apoiar e acolher servidores. Snippet de busca de procedimento da PROGEP (não acessado) descreve acolhimento psicossocial, escuta e apoio psicológico pontual a servidores.",
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "PROGEP – Coordenação de Promoção e Orientação em Saúde do Servidor (CPOSS)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://conselho.furg.br/arquivos/Portaria_Normativa_124_2025.pdf",
+          "titulo_fonte": "Portaria GAB/FURG nº 124, de 14 de setembro de 2025",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2025-09-14",
+          "trecho_evidencia": "§3º O Serviço de Psicologia da Pró-Reitoria de Gestão e Desenvolvimento de Pessoas (PROGEP), por meio da Coordenação de Promoção e Orientação em Saúde do Servidor (CPOSS), estará à disposição para apoiar e acolher os servidores e servidoras da Universidade.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "justificativa": "Existência do serviço evidenciada indiretamente em portaria oficial; página/procedimento próprio da PROGEP (progep.furg.br/arquivos/procedimentos/000393.pdf) não pôde ser acessado."
+        },
+        {
+          "nome": "Suspensão das atividades acadêmicas para acolhimento e cuidado coletivo (15 a 19/09/2025)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Portaria suspendeu atividades acadêmicas nos quatro campi entre 15 e 19/09/2025, considerando o contexto de perdas na comunidade, para reuniões de construção coletiva voltadas ao acolhimento e cuidado comunitário, com disponibilidade dos serviços de psicologia da PRAE (estudantes) e da PROGEP (servidores).",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "15 a 19 de setembro de 2025",
+          "unidade_responsavel": "Gabinete da Reitora; Serviço de Psicologia da PRAE; PROGEP/CPOSS",
+          "campus": "Rio Grande, Santo Antônio da Patrulha, São Lourenço do Sul, Santa Vitória do Palmar",
+          "documento_relacionado": {
+            "titulo": "Portaria GAB/FURG nº 124, de 14 de setembro de 2025 – suspensão das atividades acadêmicas de 15 a 19/09/2025",
+            "tipo_documento": "portaria",
+            "numero_documento": "124/2025",
+            "data_publicacao": "2025-09-14",
+            "orgao_emissor": "Gabinete da Reitora – FURG",
+            "url_original": "https://conselho.furg.br/arquivos/Portaria_Normativa_124_2025.pdf"
+          },
+          "url_fonte": "https://conselho.furg.br/arquivos/Portaria_Normativa_124_2025.pdf",
+          "titulo_fonte": "Portaria GAB/FURG nº 124/2025",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2025-09-14",
+          "trecho_evidencia": "b) a necessidade de tempo para acolhimento, escuta e cuidado coletivo; e c) o compromisso da Universidade com a saúde mental e o bem-estar de estudantes, servidores e servidoras. [...] §1º Durante este período, serão realizadas reuniões de construção coletiva voltadas ao acolhimento, ao diálogo e à promoção de ações de cuidado comunitário.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos"
+          ],
+          "justificativa": "Ação emergencial pontual (posvenção) formalizada em portaria; não estabelece política permanente."
+        },
+        {
+          "nome": "Mini-Conferências Setoriais de Saúde Mental (discussão coletiva da proposta de Política de Saúde Mental)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [
+            "politica_institucional"
+          ],
+          "descricao": "Convite da Comissão Especial de Saúde Mental da SECAID (30 membros, reuniões mensais desde março de 2024) para mini-conferências setoriais de apresentação e discussão da proposta de Política de Saúde Mental, abertas a estudantes, professores, TAEs, terceirizados e comunidade externa.",
+          "objetivos": "apresentação e discussão da proposta de Política de Saúde Mental da Universidade",
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "Comissão Especial de Saúde Mental – Secretaria de Ações Afirmativas, Inclusão e Diversidades (SECAID)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.furg.br/arquivos/Noticias/2026/13-04-2026-divulgao_conferencias_setoriais_psm-furg.pdf",
+          "titulo_fonte": "Divulgação Mini-Conferências Setoriais – Política de Saúde Mental FURG",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Comissão Especial de Saúde Mental da Secretaria de Ações Afirmativas Inclusão e Diversidades (SECAID) convida para a participação nas Mini- conferências Setoriais para a apresentação e discussão da proposta de Política de Saúde Mental da Universidade. [...] Desde março de 2024, foram realizadas reuniões mensais para a elaboração das bases da proposta de Política de Saúde Mental da FURG",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo (datas não extraídas do PDF)",
+            "modalidade",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Etapa participativa do processo de construção da política; nome do arquivo sugere 13/04/2026 (não confirmado no texto). Grau 2 por documentar processo institucional estruturado sem ato normativo final."
+        },
+        {
+          "nome": "Projeto de Extensão \"Conversando sobre…\" (PRAE – Campus São Lourenço do Sul)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Projeto de extensão da PRAE no campus SLS com lives mensais sobre temas de saúde mental, citado em edital de seleção de bolsista de 2024.",
+          "objetivos": null,
+          "publico_alvo": [],
+          "modalidade": "online",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "em execução em 2024",
+          "unidade_responsavel": "PRAE – Campus São Lourenço do Sul (SLS)",
+          "campus": "São Lourenço do Sul",
+          "documento_relacionado": {
+            "titulo": "Edital nº 21/2024, de 09 de agosto de 2024 – Seleção de bolsista Programa de Desenvolvimento ao Estudante – PRAE (Campus SLS)",
+            "tipo_documento": "edital",
+            "numero_documento": "21/2024",
+            "data_publicacao": "2024-08-09",
+            "orgao_emissor": "Pró-Reitoria de Assuntos Estudantis (PRAE) – FURG",
+            "url_original": "https://prae.furg.br/images/Documentos/Editais/SEI_0256468_Edital_21_2024.pdf"
+          },
+          "url_fonte": "https://prae.furg.br/images/Documentos/Editais/SEI_0256468_Edital_21_2024.pdf",
+          "titulo_fonte": "Edital PRAE nº 21/2024 – seleção de bolsista PDE (SLS)",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-08-09",
+          "trecho_evidencia": "Os projetos de extensão desenvolvidos hoje na PRAE-SLS que o/a bolsista irá acompanhar são os seguintes: [...] 8.2 Projeto de Extensão “Conversando sobre…” , com lives mensais sobre temas de saúde mental e acompanhamento administrativo.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "publico_alvo"
+          ],
+          "justificativa": "Projeto de extensão identificado apenas por menção em edital; sem página própria localizada."
+        },
+        {
+          "nome": "Curso de Formação Continuada \"Intervenções em Saúde Mental\" (PRAE – Campus SLS)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Projeto de curso de formação continuada em intervenções em saúde mental, com aulas virtuais, desenvolvido pela PRAE no campus São Lourenço do Sul (citado em edital de 2024).",
+          "objetivos": null,
+          "publico_alvo": [],
+          "modalidade": "online",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "em execução em 2024",
+          "unidade_responsavel": "PRAE – Campus São Lourenço do Sul (SLS)",
+          "campus": "São Lourenço do Sul",
+          "documento_relacionado": null,
+          "url_fonte": "https://prae.furg.br/images/Documentos/Editais/SEI_0256468_Edital_21_2024.pdf",
+          "titulo_fonte": "Edital PRAE nº 21/2024 – seleção de bolsista PDE (SLS)",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-08-09",
+          "trecho_evidencia": "8.1 Projeto do Curso de Formação Continuada “Intervenções em Saúde Mental”, aulas virtuais na terça e quinta e acompanhamento administrativo.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "publico_alvo"
+          ],
+          "justificativa": "Ação de formação em saúde mental listada entre projetos de extensão da PRAE-SLS; evidência apenas por menção em edital."
+        },
+        {
+          "nome": "Projeto Ateliê das Emoções (PRAE – Campus SLS)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Projeto com atividades esporádicas presenciais no Campus São Lourenço do Sul, listado entre os projetos de extensão da PRAE-SLS em edital de 2024.",
+          "objetivos": null,
+          "publico_alvo": [],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "em execução em 2024",
+          "unidade_responsavel": "PRAE – Campus São Lourenço do Sul (SLS)",
+          "campus": "São Lourenço do Sul",
+          "documento_relacionado": null,
+          "url_fonte": "https://prae.furg.br/images/Documentos/Editais/SEI_0256468_Edital_21_2024.pdf",
+          "titulo_fonte": "Edital PRAE nº 21/2024 – seleção de bolsista PDE (SLS)",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-08-09",
+          "trecho_evidencia": "8.3 Projeto Ateliê das Emoções, com atividades esporádicas presenciais no Campus SLS.",
+          "grau_evidencia_sugerido": 4,
+          "confianca": "baixa",
+          "campos_ausentes": [
+            "objetivos",
+            "publico_alvo",
+            "descricao detalhada"
+          ],
+          "justificativa": "Menção mínima; vínculo com saúde mental inferido pelo nome e pelo contexto (lista de projetos da PRAE-SLS que inclui outros de saúde mental). Evidência insuficiente para caracterização."
+        },
+        {
+          "nome": "Momento conversa \"Saúde mental no ambiente universitário\" – Acolhida Cidadã/Solidária 2025",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "No edital do Projeto de Acolhida Cidadã/Solidária (1º semestre de 2025), os proponentes podem agendar um momento de conversa sobre saúde mental no ambiente universitário com a equipe de psicólogos da CBVU/PRAE, entre 31/03 e 04/04/2025.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "31/03/2025 a 04/04/2025",
+          "unidade_responsavel": "PRAE – equipe de psicólogos da CBVU",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Anexo I – Edital 05/2025 – Projeto de Acolhida Cidadã/Solidária – 1º semestre de 2025",
+            "tipo_documento": "edital",
+            "numero_documento": "05/2025",
+            "data_publicacao": null,
+            "orgao_emissor": null,
+            "url_original": "https://acolhidacidada.furg.br/arquivos/Acolhida2025_1/Anexo_2_Edital_Acolhida_20251.pdf"
+          },
+          "url_fonte": "https://acolhidacidada.furg.br/arquivos/Acolhida2025_1/Anexo_2_Edital_Acolhida_20251.pdf",
+          "titulo_fonte": "Anexo – Edital 05/2025 Projeto de Acolhida Cidadã/Solidária",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "14 - Momento conversa - Saúde mental no ambiente universitário (De 31/03/2025 e 04/04/2025) Sim Não Optando pela conversa, é necessário inserir “Saúde mental no ambiente universitário” no Quadro “Programação da Acolhida Cidadã” (item 8, deste anexo) com local, data e horário. Caso a equipe de psicólogos da CBVU/PRAE não consiga atender",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "data_publicacao_fonte",
+            "campus"
+          ],
+          "justificativa": "Ação pontual de saúde mental inserida na acolhida de ingressantes; modalidade presencial inferida (agendamento com local); evidência a partir de formulário anexo de edital."
+        }
+      ]
+    },
+    {
+      "sigla": "UFCSPA",
+      "nome_oficial": "Universidade Federal de Ciências da Saúde de Porto Alegre",
+      "dominio": "ufcspa.edu.br",
+      "consultas": [
+        "UFCSPA saúde mental estudantes apoio psicológico núcleo",
+        "site:ufcspa.edu.br saúde mental política resolução programa",
+        "UFCSPA Pró-Reitoria de Assuntos Estudantis psicologia acolhimento NAE (allowed_domains ufcspa.edu.br)",
+        "UFCSPA \"setembro amarelo\" OR \"prevenção do suicídio\" OR \"projeto de extensão\" saúde mental (allowed_domains ufcspa.edu.br)",
+        "\"Projeto Girassol\" UFCSPA prevenção suicídio extensão Clarissa De Antoni",
+        "UFCSPA serviço-escola psicologia atendimento comunidade clínica (allowed_domains ufcspa.edu.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://ufcspa.edu.br",
+          "titulo": "Portal UFCSPA",
+          "acessada": true,
+          "observacao": "navegação"
+        },
+        {
+          "url": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar",
+          "titulo": "Saúde e bem-estar – UFCSPA",
+          "acessada": true,
+          "observacao": "used (índice; menciona Programa de Tutoria)"
+        },
+        {
+          "url": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar/nap",
+          "titulo": "Atendimento psicopedagógico – UFCSPA",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://ufcspa.edu.br/noticias/materias-de-capa/5129-saude-mental-e-bem-estar-confira-os-canais-de-atendimento-da-ufcspa",
+          "titulo": "Saúde mental e bem-estar: confira os canais de atendimento da UFCSPA",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar/bem-estar-e-saude-no-trabalho",
+          "titulo": "Bem-estar e saúde no trabalho – UFCSPA",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar/respira-e-nao-pira",
+          "titulo": "Respira e não pira – UFCSPA",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://ufcspa.edu.br/noticias/noticias-para-as-comunidades-interna-e-externa/6455-evento-trem-de-doido-promove-reflexoes-sobre-a-luta-antimanicomial",
+          "titulo": "Evento \"Trem de Doido\" promove reflexões sobre a luta antimanicomial",
+          "acessada": true,
+          "observacao": "used"
+        },
+        {
+          "url": "https://saude.rs.gov.br/upload/arquivos/carga20191030/21083052-seminario-material-informativo.pdf",
+          "titulo": "Informativo Ações de Promoção da Vida e Prevenção do Comportamento Suicida em Crianças, Adolescentes e Jovens – Vol. 1, out/2019 (SES/RS)",
+          "acessada": true,
+          "observacao": "used; fonte secundária, texto extraído localmente do PDF"
+        },
+        {
+          "url": "https://ufcspa.edu.br/documentos/extensao/editais2026/probext/SEI_UFCSPA_-_2502007_-_201_-_Resultado_final_seleo.pdf",
+          "titulo": "Resultado final Edital PROEXT nº 72/2026",
+          "acessada": true,
+          "observacao": "PDF sem texto extraível (provavelmente imagem); não utilizado"
+        },
+        {
+          "url": "https://repositorio.ufcspa.edu.br/server/api/core/bitstreams/827a14cd-ca83-409a-83f2-c6e120fa6fc7/content",
+          "titulo": "Repositório UFCSPA (TCC sobre Projeto Girassol/QPR)",
+          "acessada": false,
+          "observacao": "ECONNREFUSED"
+        },
+        {
+          "url": "https://api.repositorio.ufcspa.edu.br/server/api/core/bitstreams/1c0637ac-6c33-42de-8813-a127aa0f7872/content",
+          "titulo": "Repositório UFCSPA – Curso de Psicologia",
+          "acessada": false,
+          "observacao": "ENOTFOUND"
+        },
+        {
+          "url": "https://siur.ufcspa.edu.br/atividades/index/5763",
+          "titulo": "UFCSPA Acolhe 2026 (SIUR)",
+          "acessada": false,
+          "observacao": "ECONNREFUSED"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Nenhuma política/resolução institucional de saúde mental localizada",
+        "Treinamento QPR (gatekeepers, 2022, 121 participantes) visto apenas em snippet de busca de documento do repositório (inacessível) – não registrado como candidato",
+        "Projeto Girassol: confirmar em fonte primária da UFCSPA (sistema de extensão/repositório) e situação atual",
+        "Edital PROEXT 72/2026 cita projetos de saúde mental (ex.: 'Sob a Luz do Meu Olhar') apenas em snippet; PDF não extraível",
+        "SIUR (sistema de extensão) e repositório institucional inacessíveis no momento da coleta",
+        "Divergência de nome do NAP (Apoio Psicossocial vs. Psicopedagógico) entre páginas",
+        "Programa de Tutoria (via NAP) mencionado como política institucional na página Saúde e bem-estar – verificar normativa"
+      ],
+      "candidatos": [
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos",
+            "docentes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Ações Afirmativas e Assuntos Estudantis (PRAE)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": "2026-09-24",
+          "campos_ausentes": [
+            "objetivos",
+            "modalidade",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "nome": "Núcleo de Apoio Psicossocial (NAP)",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Núcleo ligado à PRAE que oferece acompanhamento psicopedagógico individualizado a docentes e discentes e acolhimento/aconselhamento psicológico com triagem e encaminhamentos, contando com psicóloga clínica em tempo integral.",
+          "url_fonte": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar/nap",
+          "titulo_fonte": "Atendimento psicopedagógico – UFCSPA",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "Núcleo de Apoio Psicossocial (NAP) [...] está ligado à Pró-Reitoria de Ações Afirmativas e Assuntos Estudantis (PRAE) [...] Acolhimento & Aconselhamento psicológico: triagem e encaminhamentos [...] conta com uma psicóloga clínica, em tempo integral, para atendimento de demandas imediatas",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "justificativa": "Serviço permanente de apoio psicológico/psicopedagógico em página oficial (data = última atualização da página)."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Departamento de Bem-estar, Saúde e Segurança no Trabalho (DBESST); notícia de 2023 cita Divisão de Saúde e Bem-Estar no Trabalho (DIBEST)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": "2023-08-15",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "documento_relacionado"
+          ],
+          "nome": "Serviço de acolhimento e atendimento psicossocial aos servidores (DBESST/DIBEST) e plantão de acolhimento",
+          "categoria_sugerida": "servico_permanente",
+          "descricao": "Serviço de atendimento psicossocial para docentes e técnico-administrativos, vinculado à área de bem-estar e saúde no trabalho, incluindo plantão de acolhimento espontâneo semanal (quintas, 12h30–13h30, Prédio 1, sala 100G, segundo notícia de 2023).",
+          "url_fonte": "https://ufcspa.edu.br/noticias/materias-de-capa/5129-saude-mental-e-bem-estar-confira-os-canais-de-atendimento-da-ufcspa",
+          "titulo_fonte": "Saúde mental e bem-estar: confira os canais de atendimento da UFCSPA",
+          "tipo_fonte": "noticia_oficial",
+          "trecho_evidencia": "têm à disposição o serviço de atendimento psicossocial da DIBEST [...] Os servidores também podem participar espontaneamente do plantão de acolhimento",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "justificativa": "Serviço permanente para servidores em notícia oficial (2023) e confirmado em página institucional de 2026 ('serviço de acolhimento e atendimento psicossocial dedicado aos servidores'); horários do plantão podem estar desatualizados."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": "2021-07-26",
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "unidade_responsavel",
+            "documento_relacionado"
+          ],
+          "nome": "Respira e não pira UFCSPA",
+          "categoria_sugerida": "acao_pontual",
+          "descricao": "Projeto institucional de transmissões ao vivo (YouTube/Facebook) com convidados para debater temas da vida acadêmica e do novo coronavírus, mediado por professoras da UFCSPA.",
+          "url_fonte": "https://ufcspa.edu.br/vida-academica/saude-e-bem-estar/respira-e-nao-pira",
+          "titulo_fonte": "Respira e não pira – UFCSPA",
+          "tipo_fonte": "site_institucional",
+          "trecho_evidencia": "O \"Respira e não pira\" é um projeto institucional da UFCSPA de transmissões ao vivo [...] trazer convidados para debater temas importantes, relativos à vida acadêmica e ao novo coronavírus.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Série de lives do contexto pandêmico, listada em 'Saúde e bem-estar'; relação explícita com saúde mental é inferida do título e da seção; página não atualizada desde 2021."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": "Fomentar debates sobre a Reforma Psiquiátrica Brasileira e os caminhos da saúde mental no país.",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "encerrada",
+          "periodo": "17 de maio (2025)",
+          "unidade_responsavel": "Centro Acadêmico Igor Carneiro (CAIC) e Liga de Psiquiatria e Saúde Mental (LIPSAM)",
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": "2025-05-09",
+          "campos_ausentes": [
+            "documento_relacionado"
+          ],
+          "nome": "Evento 'Trem de Doido: Diálogos Antimanicomiais'",
+          "categoria_sugerida": "acao_pontual",
+          "descricao": "Evento para fomentar debates sobre a Reforma Psiquiátrica Brasileira e os caminhos da saúde mental, organizado por centro acadêmico e liga acadêmica, com roda de conversa aberta.",
+          "url_fonte": "https://ufcspa.edu.br/noticias/noticias-para-as-comunidades-interna-e-externa/6455-evento-trem-de-doido-promove-reflexoes-sobre-a-luta-antimanicomial",
+          "titulo_fonte": "Evento \"Trem de Doido\" promove reflexões sobre a luta antimanicomial",
+          "tipo_fonte": "noticia_oficial",
+          "trecho_evidencia": "fomentar debates sobre a Reforma Psiquiátrica Brasileira e os caminhos da saúde mental no país.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Evento pontual em notícia oficial, organizado por entidades estudantis (não por unidade administrativa). Data na fonte: 'sexta-feira, 17 de maio' (inconsistência de dia da semana para 2025)."
+        },
+        {
+          "categorias_secundarias": [],
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_externa"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": null,
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "data_publicacao_fonte": null,
+          "campos_ausentes": [
+            "objetivos",
+            "periodo",
+            "unidade_responsavel",
+            "abrangencia",
+            "documento_relacionado",
+            "data_publicacao_fonte (fonte indica apenas Outubro/2019)"
+          ],
+          "nome": "Projeto Girassol: Reflexão e Prevenção ao Suicídio",
+          "categoria_sugerida": "projeto_extensao",
+          "descricao": "Projeto da UFCSPA com ações no contexto escolar: atividades lúdicas, rodas de conversa e palestras com crianças e adolescentes de 8 a 18 anos de escolas públicas, e oficinas/palestras para professores, pais e demais atores escolares.",
+          "url_fonte": "https://saude.rs.gov.br/upload/arquivos/carga20191030/21083052-seminario-material-informativo.pdf",
+          "titulo_fonte": "Informativo Ações de Promoção da Vida e Prevenção do Comportamento Suicida em Crianças, Adolescentes e Jovens – Volume 1: Outubro/2019",
+          "tipo_fonte": "fonte_secundaria",
+          "trecho_evidencia": "5) Projeto Girassol: Reflexão e Prevenção ao Suicídio - Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA) O Projeto prevê ações no contexto escolar em duas intervenções que estão interrelacionadas: a primeira, atividades lúdicas, rodas de conversa e palestras com crianças e adolescentes na faixa etária de 8 a 18 anos que frequentam",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "justificativa": "Projeto de prevenção do suicídio evidenciado em informativo da SES/RS (fonte secundária, PDF extraído localmente). Vínculo como extensão consta apenas em snippets de busca; fonte primária UFCSPA inacessível."
+        }
+      ]
+    },
+    {
+      "sigla": "UNIPAMPA",
+      "nome_oficial": "Universidade Federal do Pampa",
+      "dominio": "unipampa.edu.br",
+      "consultas": [
+        "site:unipampa.edu.br saúde mental",
+        "UNIPAMPA PRODAE \"Núcleo de Saúde Mental\" OR NuSM acolhimento psicológico estudantes",
+        "\"Portaria\" \"1062\" 2025 UNIPAMPA \"Programa de Saúde Mental Sustentável\"",
+        "unipampa.edu.br setembro amarelo saúde mental campanha prevenção suicídio",
+        "Unipampa projeto de extensão saúde mental estudantes campus"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://sei.unipampa.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1951587&id_orgao_publicacao=0",
+          "titulo": "SEI/UNIPAMPA - Portaria GR nº 1062, de 18 de julho de 2025",
+          "acessada": true,
+          "observacao": "usada (texto integral da portaria no Boletim de Serviço Eletrônico)"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/prodae/programa-de-saude-mental/",
+          "titulo": "Programa de Saúde Mental – PRODAE",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/prodae/apoio-psicologico-ao-estudante/",
+          "titulo": "Acolhimento Psicológico a Estudantes – PRODAE",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/prodae/files/2025/12/projeto-rede-de-cuidado-psicologico.pdf",
+          "titulo": "Cadastro de Projeto Institucional – Rede de Cuidado Psicológico (2025.AS.RE.4854)",
+          "acessada": true,
+          "observacao": "usada (PDF; texto extraído localmente)"
+        },
+        {
+          "url": "https://unipampa.edu.br/portal/sites/default/files/documentos/edital_158-2026_-_edital_de_selecao_de_psicologos_voluntarios_para_atuacao_temporaria_no_apoio_a_implantacao_do_programa_de_saude_mental_sustentavel_para_estudantes_da_unipampa.pdf",
+          "titulo": "Edital nº 158/2026 – seleção de psicólogos voluntários",
+          "acessada": true,
+          "observacao": "usada como fonte complementar (PDF; texto extraído localmente)"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/prodae/",
+          "titulo": "Pró-Reitoria de Desenvolvimento e Assistência Estudantil (PRODAE)",
+          "acessada": true,
+          "observacao": "página inicial; usada para descoberta de links"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/cqvs/files/2024/11/carta_aberta_a_comunidade_academica___psicologia_unipampa.pdf",
+          "titulo": "Carta Aberta à Comunidade Acadêmica – Considerações sobre saúde mental e o trabalho da psicologia na UNIPAMPA (12/09/2024)",
+          "acessada": true,
+          "observacao": "usada (PDF; texto extraído localmente)"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/cqvs/",
+          "titulo": "Qualidade de Vida e Seleção de Pessoal – Unipampa",
+          "acessada": true,
+          "observacao": "descoberta; sem descrição de serviços"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/dasst/",
+          "titulo": "Divisão de Atenção à Saúde e Segurança do Trabalho – Unipampa",
+          "acessada": true,
+          "observacao": "descoberta"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/dasst/servico-de-psicologia/",
+          "titulo": "Serviço de Psicologia – DASST",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/dasst/2026/09/29/conheca-a-3a-edicao-da-cartilha-de-prevencao-ao-suicidio-pela-valorizacao-da-vida/",
+          "titulo": "Conheça a 3ª edição da Cartilha de Prevenção ao Suicídio – Pela valorização da vida",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://sites.unipampa.edu.br/progepe/2025/11/10/cartilhas-sobre-saude-mental-do-servidor/",
+          "titulo": "Cartilhas sobre Saúde Mental do Servidor – PROGEPE",
+          "acessada": true,
+          "observacao": "consultada; lista de cartilhas (2022–2026), incorporada como contexto do candidato de campanhas"
+        },
+        {
+          "url": "https://revistas.uece.br/index.php/conexaocomciencia/article/download/8081/6978/33029",
+          "titulo": "Projeto de Extensão Saúde Mental e Bem-estar na Universidade: se reinventando ante o cenário de pandemia (Revista Conexão ComCiência, 2022)",
+          "acessada": true,
+          "observacao": "usada (publicação científica; relato de experiência)"
+        },
+        {
+          "url": "https://desativados.unipampa.edu.br/volawsdados/uruguaiana2008-2017/noticias/360-campus-uruguaiana-sedia-evento-regional-de-saude-mental%3Fformat=pdf",
+          "titulo": "Campus Uruguaiana sedia evento regional de saúde mental (arquivo antigo)",
+          "acessada": false,
+          "observacao": "visto apenas em resultado de busca; notícia antiga (c. 2010), não incluída"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Verificar se o Núcleo de Saúde Mental (NuSM/PRODAE) possui ato próprio de criação (a Portaria 1062/2025 atribui-lhe competências, mas não o cria explicitamente)",
+        "Localizar sistema/registro de projetos de extensão (SAP/GURI) para identificar outros projetos de extensão em saúde mental por campus",
+        "Confirmar se o projeto de extensão 'Saúde Mental e Bem-estar na Universidade' (Campus São Borja) continua ativo após 2021",
+        "Não foram localizadas páginas oficiais recentes de ações de Setembro Amarelo voltadas a estudantes"
+      ],
+      "candidatos": [
+        {
+          "nome": "Programa de Saúde Mental Sustentável para Estudantes (Portaria GR nº 1062/2025)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "servico_permanente",
+            "acao_pontual"
+          ],
+          "descricao": "Programa instituído por portaria da Reitoria como parte dos programas da PRODAE e integrante da Política de Assistência Estudantil da Unipampa, voltado ao bem-estar psíquico dos discentes por meio de ações de acolhimento, prevenção, promoção e encaminhamento, organizado em quatro eixos estratégicos (diagnóstico e monitoramento; rede de apoio psicossocial e capacitação; promoção e prevenção; infraestrutura e ambiência). Atribui ao Núcleo de Saúde Mental o planejamento, coordenação e acompanhamento das ações e define fluxos para situações de ideação suicida e violações de direitos.",
+          "objetivos": "Desenvolver ações permanentes de acolhimento psicológico; promover saúde mental e prevenir sofrimento psíquico (campanhas, psicoeducação, projetos); fortalecer a permanência estudantil; diagnosticar e monitorar continuamente a saúde mental dos estudantes; fortalecer a rede de apoio psicossocial e os fluxos institucionais; qualificar infraestrutura e ambiência; promover atuação interprofissional (Art. 2º).",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Instituído em 18/07/2025",
+          "unidade_responsavel": "Pró-Reitoria de Desenvolvimento e Assistência Estudantil (PRODAE); Núcleo de Saúde Mental (NuSM)",
+          "campus": "multicampi",
+          "documento_relacionado": {
+            "titulo": "Portaria nº 1062, de 18 de julho de 2025 – institui o Programa de Saúde Mental Sustentável para Estudantes",
+            "tipo_documento": "portaria",
+            "numero_documento": "1062/2025",
+            "data_publicacao": "2025-07-18",
+            "orgao_emissor": "Gabinete da Reitoria – Universidade Federal do Pampa (assinada pela Vice-Reitora no exercício da Reitoria)",
+            "url_original": "https://sei.unipampa.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1951587&id_orgao_publicacao=0"
+          },
+          "url_fonte": "https://sei.unipampa.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=1951587&id_orgao_publicacao=0",
+          "titulo_fonte": "SEI/UNIPAMPA - Portaria GR nº 1062, de 18 de julho de 2025",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2025-07-18",
+          "trecho_evidencia": "Art. 1º O Programa de Saúde Mental Sustentável para Estudantes integra a Política de Assistência Estudantil da Unipampa, tendo como finalidade promover o bem-estar psíquico dos discentes por meio de ações contínuas e articuladas de acolhimento, prevenção, promoção e encaminhamento.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "orcamento"
+          ],
+          "justificativa": "Ato normativo formal (portaria da Reitoria publicada no Boletim de Serviço Eletrônico) que institui programa institucional de saúde mental com objetivos, eixos e responsabilidades definidos; enquadra-se como política institucional, grau 1."
+        },
+        {
+          "nome": "Acolhimento psicológico breve a estudantes – Rede de Cuidado Psicológico (PRODAE/NuSM)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Serviço de acolhimento psicológico breve e focal a estudantes, solicitado por formulário on-line, realizado por interfaces de saúde mental dos campi e psicólogos(as) voluntários(as) no âmbito do projeto institucional 'Rede de Cuidado Psicológico: Implantação do Programa de Saúde Mental Sustentável para Estudantes da Unipampa' (registro 2025.AS.RE.4854, área Ações Sociais no Âmbito da Comunidade Acadêmica, unidade de origem Reitoria). Casos de urgência são encaminhados com prioridade ao psicólogo do NuSM. Psicólogos voluntários são selecionados por edital (ex.: Edital nº 158/2026, campus Jaguarão).",
+          "objetivos": "Implantar e consolidar, em todos os campi, uma rede de cuidado psicológico com psicólogos voluntários, garantindo acolhimento breve, escuta qualificada, encaminhamento ético, ações de promoção e prevenção e registros para diagnóstico e monitoramento (objetivo geral do projeto).",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Execução do projeto de 18/08/2025 a 18/08/2027",
+          "unidade_responsavel": "PRODAE / Núcleo de Saúde Mental (NuSM); coordenação do projeto: Juliana Lima Moreira Rhoden",
+          "campus": "multicampi (equipes por campus; dois profissionais on-line atendem todos os campi)",
+          "documento_relacionado": {
+            "titulo": "Cadastro de Projeto Institucional – Rede de Cuidado Psicológico: Implantação do Programa de Saúde Mental Sustentável para Estudantes da Unipampa",
+            "tipo_documento": "outro",
+            "numero_documento": "2025.AS.RE.4854",
+            "data_publicacao": null,
+            "orgao_emissor": "Universidade Federal do Pampa – Reitoria (unidade de origem)",
+            "url_original": "https://sites.unipampa.edu.br/prodae/files/2025/12/projeto-rede-de-cuidado-psicologico.pdf"
+          },
+          "url_fonte": "https://sites.unipampa.edu.br/prodae/apoio-psicologico-ao-estudante/",
+          "titulo_fonte": "Acolhimento Psicológico a Estudantes – Pró-Reitoria de Desenvolvimento e Assistência Estudantil",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Este formulário destina-se à solicitação de acolhimento psicológico breve no âmbito do Projeto Institucional “Rede de Cuidado Psicológico”: Implantação do  Programa de Saúde Mental Sustentável para Estudantes da Unipampa (PRODAE/NuSM).",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "data_publicacao_fonte",
+            "numero_de_sessoes"
+          ],
+          "justificativa": "Serviço de atendimento estruturado e em funcionamento, vinculado operacionalmente ao programa instituído pela Portaria 1062/2025 (grau 1 pelo respaldo normativo do programa). Classificado como serviço permanente; o projeto que o operacionaliza tem prazo (2025–2027) e é registrado como ação social institucional, por isso 'projeto_extensao' como categoria secundária. Revisor pode optar por fundir com o candidato do Programa."
+        },
+        {
+          "nome": "Atendimento psicológico educacional nos Núcleos de Desenvolvimento Educacional (NuDE)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Atuação de psicólogos(as) educacionais lotados nos NuDEs dos campi, com atendimento individual a pedido do estudante, número limitado de encontros, acolhimento, orientação e encaminhamento à rede de saúde, ações de grupo pontuais e orientação a docentes e técnicos. Descrito em carta aberta assinada por psicólogos(as) da instituição (NuDE Uruguaiana, NuDE Jaguarão, NuSM/PRODAE, DASST/PROGEPE), que também relata sobrecarga e listas de espera.",
+          "objetivos": "Acolher, orientar e realizar encaminhamentos para serviços de saúde, quando necessário.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "campus",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Núcleos de Desenvolvimento Educacional (NuDE) dos campi",
+          "campus": "multicampi (signatários citam NuDE Uruguaiana e NuDE Jaguarão)",
+          "documento_relacionado": null,
+          "url_fonte": "https://sites.unipampa.edu.br/cqvs/files/2024/11/carta_aberta_a_comunidade_academica___psicologia_unipampa.pdf",
+          "titulo_fonte": "Carta Aberta à Comunidade Acadêmica – Considerações sobre saúde mental e o trabalho da psicologia na UNIPAMPA",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2024-09-12",
+          "trecho_evidencia": "a atuação do(a) psicólogo(a) educacional na UNIPAMPA é realizada pela oferta de atendimento individual, por meio da solicitação do próprio estudante, com número limitado de encontros e com o objetivo de acolher, orientar e realizar encaminhamentos para serviços de saúde, quando necessário.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "lista_de_campi_atendidos"
+          ],
+          "justificativa": "Serviço permanente de psicologia descrito em documento assinado por profissionais da instituição e hospedado em site institucional; não é página oficial de serviço nem ato normativo, por isso confiança média e grau 3. Desde 2025 os NuDEs também atuam como interface do Programa de Saúde Mental Sustentável."
+        },
+        {
+          "nome": "Serviço de Psicologia da PROGEPE/DASST para servidores",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "Serviço de Psicologia da Pró-Reitoria de Gestão de Pessoas, vinculado à Divisão de Atenção à Saúde e Segurança do Trabalho (DASST), que realiza campanhas de prevenção e promoção à saúde mental no trabalho, palestras e rodas de conversa, documentos psicológicos para subsidiar decisões administrativas, suporte psicológico a equipes, orientação a gestores e atendimentos psicológicos individuais relacionados ao trabalho (acompanhamento funcional).",
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Gestão de Pessoas (PROGEPE) – Divisão de Atenção à Saúde e Segurança do Trabalho (DASST)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://sites.unipampa.edu.br/dasst/servico-de-psicologia/",
+          "titulo_fonte": "Serviço de Psicologia – Divisão de Atenção à Saúde e Segurança do Trabalho",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Serviço de Psicologia da Pró-Reitoria de Gestão de Pessoas da Unipampa está atualmente vinculado à Divisão de Atenção à Saúde e Segurança do Trabalho (DASST) e realiza as seguintes atividades:",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço institucional permanente de psicologia organizacional e do trabalho documentado em página oficial; sem ato normativo específico localizado."
+        },
+        {
+          "nome": "Cartilha de Prevenção ao Suicídio – Pela valorização da vida (3ª edição, Setembro Amarelo 2026) e campanhas de saúde mental do servidor",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Relançamento, em setembro de 2026, em alusão ao Setembro Amarelo, da 3ª edição da cartilha de prevenção ao suicídio elaborada pela DASST/PROGEPE, dirigida a servidores e à comunidade. A página de cartilhas da PROGEPE lista ainda a 2ª edição (2025), a série 'Saúde Mental e Adicções' (2025) e a campanha 'Aprendendo sobre transtornos mentais' (2022).",
+          "objetivos": "Promover eventos, disseminar informações e proporcionar espaços para debates sobre suicídio (conforme texto da notícia).",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos",
+            "comunidade_externa"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Setembro de 2026 (3ª edição); edições anteriores em 2025",
+          "unidade_responsavel": "Divisão de Atenção à Saúde e Segurança do Trabalho (DASST) – PROGEPE",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://sites.unipampa.edu.br/dasst/2026/09/29/conheca-a-3a-edicao-da-cartilha-de-prevencao-ao-suicidio-pela-valorizacao-da-vida/",
+          "titulo_fonte": "Conheça a 3ª edição da Cartilha de Prevenção ao Suicídio – Pela valorização da vida",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2026-09-29",
+          "trecho_evidencia": "O material está sendo relançado no mês de setembro, em virtude do Setembro Amarelo , por se tratar do mês de prevenção ao suicídio.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos_formais",
+            "alcance"
+          ],
+          "justificativa": "Campanha/material informativo vinculado ao Setembro Amarelo, documentado em notícia oficial; ação pontual sem ato normativo."
+        },
+        {
+          "nome": "Projeto de Extensão Saúde Mental e Bem-estar na Universidade (Campus São Borja)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Projeto de extensão do Campus São Borja, com primeira edição presencial em 2019 e ações virtuais/digitais em 2020 e 2021, voltado a produzir conteúdo e difundir informações para promoção da saúde mental e bem-estar; idealizado a partir da procura por apoio psicológico junto ao NuDE. Financiado pelo Programa de Desenvolvimento Acadêmico (PDA) 2020 e 2021, segundo relato de experiência publicado.",
+          "objetivos": "Produzir conteúdo, difundir conhecimentos e informações e contribuir na promoção da saúde mental, bem-estar e cuidado de uma forma acessível.",
+          "publico_alvo": [
+            "estudantes",
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": "online",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "2019–2021 (conforme o artigo)",
+          "unidade_responsavel": null,
+          "campus": "São Borja",
+          "documento_relacionado": null,
+          "url_fonte": "https://revistas.uece.br/index.php/conexaocomciencia/article/download/8081/6978/33029",
+          "titulo_fonte": "Projeto de Extensão Saúde Mental e Bem-estar na Universidade: se reinventando ante o cenário de pandemia (Revista Conexão ComCiência, n.2, v.2, e8081, 2022)",
+          "tipo_fonte": "publicacao_cientifica",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Projeto Saúde Mental e Bem -estar na Universidade fez par te da Universidade Federal do Pampa (Unipampa) – Campus São Borja.  Teve sua primeira edição no ano de 2019, antes da eclosão da pandemia de Covid-19",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "unidade_responsavel",
+            "situacao_atual",
+            "registro_no_sistema_de_extensao"
+          ],
+          "justificativa": "Projeto de extensão evidenciado apenas por publicação científica dos próprios coordenadores (fonte não institucional oficial); não localizado registro no sistema de extensão; situação atual desconhecida. Obs.: o trecho preserva quebras de palavras da extração do PDF ('Bem -estar', 'par te')."
+        }
+      ]
+    },
+    {
+      "sigla": "UFSM",
+      "nome_oficial": "Universidade Federal de Santa Maria",
+      "dominio": "ufsm.br",
+      "consultas": [
+        "site:ufsm.br saúde mental política institucional",
+        "UFSM Universidade Federal de Santa Maria saúde mental estudantes PRAE acolhimento psicológico",
+        "ufsm.br saúde mental estudantes atendimento psicológico PRAE (allowed_domains: ufsm.br)",
+        "UFSM resolução política de saúde mental comunidade universitária (allowed_domains: ufsm.br)",
+        "\"UFSM Conecta Saúde Mental\" projeto",
+        "UFSM \"Espaço Nise da Silveira\" saúde mental",
+        "UFSM Clínica de Estudos e Intervenção em Psicologia CEIP atendimento comunidade (allowed_domains: ufsm.br)",
+        "UFSM CQVS PROGEP acompanhamento psicossocial servidores saúde mental (allowed_domains: ufsm.br)"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://www.ufsm.br/reitoria/gabinete/saude-mental",
+          "titulo": "Saúde Mental – Gabinete da Reitoria",
+          "acessada": true,
+          "observacao": "usada (portal agregador: fluxogramas de acolhimento por campus, normativas, guias)"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/proplan/resolucao-ufsm-n-110-2022",
+          "titulo": "Resolução UFSM nº 110, de 31 de outubro de 2022",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/proplan/instrucao-normativa-ufsm-006-2024",
+          "titulo": "Instrução Normativa UFSM nº 006, de 29 de maio de 2024",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/prograd/caed/saude-mental",
+          "titulo": "Educação-saúde – CAEd/PROGRAD",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/prae/servicos/acolhimento-em-saude-mental",
+          "titulo": "Acolhimento em Saúde Mental – PRAE",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/reitoria/gabinete-do-reitor/cosame/atendimento-psicoeducativo",
+          "titulo": "Atendimento psicoeducativo – COSAME",
+          "acessada": true,
+          "observacao": "consultada; lista de serviços de apoio pedagógico e NAEs por campus (usada como contexto)"
+        },
+        {
+          "url": "https://www.ufsm.br/2025/08/27/ufsm-lanca-projeto-que-interliga-acoes-de-saude-mental",
+          "titulo": "UFSM lança projeto que interliga ações de saúde mental",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/2022/09/28/acao-na-antiga-reitoria-promove-assistencia-em-saude-mental-a-sociedade",
+          "titulo": "Ação na Antiga Reitoria promove assistência em saúde mental à sociedade",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/cursos/graduacao/santa-maria/psicologia/ceip",
+          "titulo": "Clínica de Estudos e Intervenções em Psicologia (CEIP) – Psicologia",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/progep/servicos/servico-psicossocial",
+          "titulo": "Serviço Psicossocial – PROGEP",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/progep/2026/01/26/janeiro-branco-2026-promocao-da-saude-mental-e-do-cuidado-no-trabalho-com-servidores-e-servidoras",
+          "titulo": "Janeiro Branco 2026: Promoção da Saúde Mental e do Cuidado no Trabalho com Servidoras e Servidores",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://proplan.ufsm.br/wiki/Indicador_de_Sa%C3%BAde_Mental_Universit%C3%A1ria",
+          "titulo": "Indicador de Saúde Mental Universitária - WikiUFSM",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.ufsm.br/pro-reitorias/proplan/resolucao-ufsm-n-264-2026",
+          "titulo": "Resolução UFSM nº 264/2026 – Política para a Promoção da Comunicação Compassiva e Cultura da Paz",
+          "acessada": false,
+          "observacao": "citada na página de Saúde Mental; não acessada (política correlata, não especificamente de saúde mental)"
+        },
+        {
+          "url": "https://www.ufsm.br/app/uploads/sites/361/2026/05/Escuta-e-cuidado-guia-de-acolhimento-na-UFSM.pdf",
+          "titulo": "Escuta e cuidado – guia de acolhimento na UFSM (Guia de Saúde Mental, PDF)",
+          "acessada": false,
+          "observacao": "link localizado na página de Saúde Mental; não acessado"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não localizada resolução que institua uma 'Política de Saúde Mental' abrangente; verificar se existe minuta ou proposta em tramitação no COSAME",
+        "Acessar o 'Guia de Saúde Mental' (Escuta e cuidado – guia de acolhimento na UFSM, 2026) e a Resolução 264/2026 para avaliar conteúdo relacionado",
+        "Verificar a Resolução UFSM 041/2021 (alterada pela 245/2025), citada em resultado de busca como base para atendimento em saúde mental da Subdivisão de Educação-Saúde da CAEd",
+        "Confirmar situação atual do Espaço Nise da Silveira & AFAB (fonte de 2022)",
+        "Levantar projetos de extensão em saúde mental no portal de projetos (ufsm.br/projetos/extensao), ex.: Núcleo de Psicanálise, Projeto Enlaces",
+        "Verificar ações de Setembro Amarelo/prevenção ao suicídio para estudantes"
+      ],
+      "candidatos": [
+        {
+          "nome": "Comitê de Saúde Mental (COSAME) – Resolução UFSM nº 110/2022",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Órgão colegiado vinculado ao Gabinete do Reitor criado por resolução, com competência para receber demandas de saúde mental, propor ações e normativas, integrar as ações de saúde mental das diferentes unidades, promover o diálogo entre os agentes de saúde mental e avaliar e aprovar protocolos de atendimento.",
+          "objetivos": "Receber demandas, propor ações resolutivas e normativas, integrar ações de saúde mental das unidades, promover diálogo entre agentes e avaliar/aprovar protocolos de atendimento (Art. 2º).",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Criado em 31/10/2022",
+          "unidade_responsavel": "Gabinete do Reitor",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Resolução UFSM nº 110, de 31 de outubro de 2022 – Aprova a criação do órgão colegiado denominado “Comitê de Saúde Mental (COSAME)”",
+            "tipo_documento": "resolucao",
+            "numero_documento": "110/2022",
+            "data_publicacao": "2022-10-31",
+            "orgao_emissor": "Reitor da Universidade Federal de Santa Maria",
+            "url_original": "https://www.ufsm.br/pro-reitorias/proplan/resolucao-ufsm-n-110-2022"
+          },
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/proplan/resolucao-ufsm-n-110-2022",
+          "titulo_fonte": "RESOLUÇÃO UFSM N° 110/2022",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2022-10-31",
+          "trecho_evidencia": "Aprova a criação do órgão colegiado denominado “Comitê de Saúde Mental (COSAME)” vinculado ao Gabinete do Reitor na estrutura organizacional da Universidade Federal de Santa Maria (UFSM).",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "composicao_atual",
+            "modalidade"
+          ],
+          "justificativa": "Resolução que institui formalmente instância colegiada de governança da saúde mental na universidade; classificada como política institucional (normativa), grau 1, embora não seja uma 'política de saúde mental' abrangente."
+        },
+        {
+          "nome": "Instrução Normativa UFSM nº 006/2024 – procedimentos em tentativa de suicídio, suicídio e posvenção",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Instrução normativa que estabelece os procedimentos institucionais a serem adotados em situações de tentativa de suicídio, suicídio e posvenção do suicídio na UFSM, incluindo a condução das ações de posvenção por profissionais de saúde mental da PRAE, CAEd, CQVS, NAP e NAE, recomendações para atividades acadêmicas e laborais e registro das ocorrências.",
+          "objetivos": "Normatizar os procedimentos institucionais em situações de tentativa de suicídio, suicídio e posvenção do suicídio (Art. 1º).",
+          "publico_alvo": [
+            "comunidade_universitaria"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Desde 29/05/2024",
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Instrução Normativa UFSM nº 006, de 29 de maio de 2024",
+            "tipo_documento": "instrucao_normativa",
+            "numero_documento": "006/2024",
+            "data_publicacao": "2024-05-29",
+            "orgao_emissor": "Reitor da Universidade Federal de Santa Maria",
+            "url_original": "https://www.ufsm.br/pro-reitorias/proplan/instrucao-normativa-ufsm-006-2024"
+          },
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/proplan/instrucao-normativa-ufsm-006-2024",
+          "titulo_fonte": "Instrução Normativa UFSM 006/2024",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2024-05-29",
+          "trecho_evidencia": "Normatiza os procedimentos institucionais a serem adotados em situações de tentativa de suicídio, suicídio e posvenção do suicídio, no âmbito da UFSM.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "unidade_responsavel",
+            "modalidade"
+          ],
+          "justificativa": "Ato normativo formal de prevenção/posvenção do suicídio com procedimentos institucionais; política institucional, grau 1."
+        },
+        {
+          "nome": "Escuta psicológica de acolhimento em saúde mental – Subdivisão de Educação-Saúde da CAEd",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "A Subdivisão de Educação-Saúde da Coordenadoria de Ações Educacionais (CAEd/PROGRAD) oferece escuta especializada de acolhimento em saúde mental a estudantes, grupos, rodas de conversa, palestras e oficinas, além de orientações e encaminhamentos. Segundo o fluxograma do campus Santa Maria, atende estudantes sem Benefício Socioeconômico, por formulário preenchido por servidor de referência do estudante; funciona de segunda a sexta, das 7h às 19h.",
+          "objetivos": "Realizar ações de prevenção e promoção à saúde mental da comunidade acadêmica e propor espaços de escuta às demandas de sofrimento psíquico dos estudantes.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "campus",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Coordenadoria de Ações Educacionais (CAEd) – Subdivisão de Educação-Saúde (PROGRAD)",
+          "campus": "Santa Maria",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/prograd/caed/saude-mental",
+          "titulo_fonte": "Educação-saúde – CAEd",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Subdivisão de Educação-Saúde da Coordenadoria de Ações Educacionais (CAEd) realiza ações de prevenção e promoção à saúde mental da comunidade acadêmica da UFSM. Propõe espaços de escuta às demandas de sofrimento psíquico dos estudantes",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço institucional permanente de acolhimento em saúde mental documentado em página oficial; ato normativo de competência (Res. 041/2021, alterada pela 245/2025) citado apenas em resultado de busca, não verificado."
+        },
+        {
+          "nome": "Acolhimento em Saúde Mental – SATIE/PRAE (estudantes com Benefício Socioeconômico)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Espaço de escuta e promoção de saúde mental realizado por profissionais de psicologia e serviço social do Setor de Atenção Integral ao Estudante (SATIE) da PRAE, destinado a estudantes com Benefício Socioeconômico (incluindo moradores da Casa do Estudante), com solicitação via formulário. Nos campi fora da sede, os Núcleos de Assistência Estudantil (NAE) oferecem atendimento psicológico conforme fluxogramas institucionais.",
+          "objetivos": "Escuta sobre questões que afetam a qualidade de vida estudantil e a permanência, pensando estratégias e articulações para o bem-estar dos estudantes.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PRAE) – Setor de Atenção Integral ao Estudante (SATIE)",
+          "campus": "Santa Maria (NAEs em Cachoeira do Sul, Frederico Westphalen e Palmeira das Missões, conforme fluxogramas)",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/prae/servicos/acolhimento-em-saude-mental",
+          "titulo_fonte": "Acolhimento em Saúde Mental – PRAE",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Acolhimento é realizado por profissionais da psicologia e do serviço social e configura-se como um espaço de escuta e promoção de saúde mental de estudantes na UFSM que possuem Benefício Socioeconômico.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço permanente de assistência estudantil com atendimento em saúde mental, documentado em página oficial; sem ato normativo específico localizado."
+        },
+        {
+          "nome": "Serviço Psicossocial da CQVS/PROGEP para servidores",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço da Coordenadoria de Saúde e Qualidade de Vida do Servidor (CQVS/PROGEP) com psicólogos e assistente social que atendem, orientam e acompanham servidores e gestores no âmbito organizacional e do trabalho, presencialmente ou de forma virtual, mediante solicitação por e-mail ou telefone.",
+          "objetivos": "Promoção da saúde do trabalhador (conforme página).",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Pró-Reitoria de Gestão de Pessoas (PROGEP) – Coordenadoria de Saúde e Qualidade de Vida do Servidor (CQVS)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/progep/servicos/servico-psicossocial",
+          "titulo_fonte": "Serviço Psicossocial – PROGEP",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Serviço Psicossocial conta com Psicólogos e Assistente Social que atendem, orientam e acompanham servidores e servidores gestores no âmbito organizacional e do trabalho, na perspectiva da promoção da saúde do trabalhador.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Serviço permanente de atenção psicossocial a servidores documentado em página oficial."
+        },
+        {
+          "nome": "Projeto UFSM Conecta Saúde Mental",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "acao_pontual",
+            "pesquisa_formacao"
+          ],
+          "descricao": "Projeto institucional lançado em 27/08/2025 que busca integrar ações de saúde mental de PRAE, PROGRAD, PROGEP e dos Setores/Unidades de Apoio Pedagógico dos Centros de Ensino, coordenado pela servidora Priscila Marques e financiado com recursos de emenda parlamentar. Inclui mapeamento de procedimentos de saúde mental nas unidades, investimento em espaços de convivência (ex.: redário), aquisição de materiais para oficinas do SATIE e para o Programa Movimenta, ações itinerantes e capacitações.",
+          "objetivos": "Integrar ações de saúde mental de diferentes setores; investir em espaços de circulação social; conscientizar servidores; ampliar o acesso à informação (conforme notícia).",
+          "publico_alvo": [
+            "estudantes",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Lançado em 27/08/2025",
+          "unidade_responsavel": "PRAE, PROGRAD e PROGEP (equipe integrada); coordenação: Priscila Marques",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/2025/08/27/ufsm-lanca-projeto-que-interliga-acoes-de-saude-mental",
+          "titulo_fonte": "UFSM lança projeto que interliga ações de saúde mental",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2025-08-27",
+          "trecho_evidencia": "Na manhã desta quarta-feira, foi lançado o projeto UFSM Conecta Saúde Mental . O evento ocorreu às 8h30min, no Salão Imembuí, no campus sede",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "documento_normativo",
+            "periodo_de_vigencia",
+            "orcamento"
+          ],
+          "justificativa": "Programa/projeto institucional estruturado e intersetorial documentado em notícia oficial, sem ato normativo de criação localizado; grau 2. Pode ser reclassificado pelo revisor como projeto institucional (não extensão)."
+        },
+        {
+          "nome": "Espaço Nise da Silveira & AFAB (Associação de Familiares, Amigos e Bipolares)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Programa de extensão da UFSM que, segundo notícia de 2022, há 25 anos proporciona atenção psicossocial à população por meio de acolhimento, educação em saúde mental, psicoeducação e suporte mútuo entre pares; funciona na Antiga Reitoria (sala 510), nas tardes de segunda a sexta, com encontros presenciais, híbridos e remotos para adultos com demandas psíquicas. Coordenação da médica psiquiatra Martha Noal.",
+          "objetivos": "Gerar acolhimento, educação em saúde mental e prevenção de doenças, por meio de troca de experiências, psicoeducação e suporte mútuo entre os associados.",
+          "publico_alvo": [
+            "comunidade_externa"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "unidade",
+          "situacao_aparente": "desconhecida",
+          "periodo": "AFAB fundada em 1997 (conforme notícia de 2022)",
+          "unidade_responsavel": null,
+          "campus": "Santa Maria (Antiga Reitoria, centro)",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/2022/09/28/acao-na-antiga-reitoria-promove-assistencia-em-saude-mental-a-sociedade",
+          "titulo_fonte": "Ação na Antiga Reitoria promove assistência em saúde mental à sociedade",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2022-09-28",
+          "trecho_evidencia": "Esse é o caso do Espaço Nise da Silveira & Associação de Familiares, Amigos e Bipolares (AFAB), Programa de Extensão da Universidade Federal de Santa Maria (UFSM) que há 25 anos proporciona atenção psicossocial à população.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "unidade_responsavel",
+            "situacao_atual"
+          ],
+          "justificativa": "Programa de extensão evidenciado em notícia oficial de 2022; ainda listado na página institucional de Saúde Mental do Gabinete, mas sem confirmação de atividade atual. Data de publicação inferida da URL."
+        },
+        {
+          "nome": "Clínica de Estudos e Intervenções em Psicologia (CEIP/UFSM)",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [
+            "projeto_extensao",
+            "pesquisa_formacao"
+          ],
+          "descricao": "Clínica-escola do curso de Psicologia que oferta atendimentos psicológicos a partir de duas linhas teóricas (psicanalítica e cognitivo-comportamental), vinculadas a estágios e ações de extensão (LACCog, Projeto Transformar), incluindo grupos terapêuticos com inscrição por formulário.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_externa",
+            "comunidade_universitaria"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Curso de Psicologia – Centro de Ciências Sociais e Humanas (CCSH)",
+          "campus": "Santa Maria",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/cursos/graduacao/santa-maria/psicologia/ceip",
+          "titulo_fonte": "Clínica de Estudos e Intervenções em Psicologia (CEIP) – Psicologia",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Clínica de Estudos e Intervenções em Psicologia da UFSM – CEIP/UFSM –  oferta atendimentos psicológicos a partir de duas linhas teóricas que se vinculam a ações de extensão.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "objetivos",
+            "publico_alvo_detalhado",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Clínica-escola permanente documentada em página oficial. Modalidade presencial e vínculo ao CCSH inferidos de resultados de busca (regimento e notícias), não da página citada; revisor deve confirmar. Existe regimento interno (PDF localizado em busca, não acessado)."
+        },
+        {
+          "nome": "Janeiro Branco 2026 – Promoção da Saúde Mental e do Cuidado no Trabalho com Servidoras e Servidores",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Campanha da PROGEP alusiva ao Janeiro Branco 2026, voltada à promoção da saúde mental e do cuidado no trabalho de servidores da UFSM.",
+          "objetivos": null,
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "Janeiro de 2026",
+          "unidade_responsavel": "Pró-Reitoria de Gestão de Pessoas (PROGEP)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.ufsm.br/pro-reitorias/progep/2026/01/26/janeiro-branco-2026-promocao-da-saude-mental-e-do-cuidado-no-trabalho-com-servidores-e-servidoras",
+          "titulo_fonte": "Janeiro Branco 2026: Promoção da Saúde Mental e do Cuidado no Trabalho com Servidoras e Servidores",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2026-01-26",
+          "trecho_evidencia": "O Janeiro Branco é uma campanha nacional dedicada à promoção da saúde mental. Criada em 2014 e instituída oficialmente pela Lei nº 14.556/2023, a iniciativa convida, a cada mês de janeiro, à reflexão sobre cuidado, prevenção e bem-estar psicológico.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos",
+            "programacao_detalhada",
+            "modalidade"
+          ],
+          "justificativa": "Campanha pontual em notícia oficial da PROGEP; o trecho capturado é contextual (descreve a campanha nacional) e não detalha as atividades realizadas, por isso confiança média."
+        },
+        {
+          "nome": "Indicador de Saúde Mental Universitária (ISMU) – Plano de Metas da UFSM",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "politica_institucional"
+          ],
+          "descricao": "Indicador institucional em construção, integrado ao Plano de Metas da UFSM, com o propósito de mensurar o bem-estar psicológico e emocional dos estudantes; atualmente usa como proxy a produção científica institucional sobre saúde mental (SciVal/Elsevier) e prevê incorporar levantamentos periódicos e dados de atendimentos.",
+          "objetivos": "Monitorar continuamente a saúde mental da comunidade acadêmica, identificar fatores de risco e de proteção e apoiar a formulação de políticas integradas de acolhimento, prevenção e promoção.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": null,
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://proplan.ufsm.br/wiki/Indicador_de_Sa%C3%BAde_Mental_Universit%C3%A1ria",
+          "titulo_fonte": "Indicador de Saúde Mental Universitária - WikiUFSM",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "O Indicador de Saúde Mental Universitária (ISMU) está em fase de construção e tem como propósito mensurar o bem-estar psicológico e emocional dos estudantes da UFSM, combinando dimensões quantitativas e qualitativas.",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "campos_ausentes": [
+            "unidade_responsavel",
+            "periodo",
+            "data_publicacao_fonte"
+          ],
+          "justificativa": "Instrumento de monitoramento institucional vinculado ao planejamento estratégico (Plano de Metas), documentado em wiki oficial da PROPLAN; não é um serviço nem ação de cuidado direto. Classificação tentativa como pesquisa/monitoramento; revisor pode considerar como componente de planejamento institucional."
+        }
+      ]
+    },
+    {
+      "sigla": "UFFS",
+      "nome_oficial": "Universidade Federal da Fronteira Sul",
+      "dominio": "uffs.edu.br",
+      "consultas": [
+        "UFFS saúde mental estudantes acolhimento psicológico site:uffs.edu.br",
+        "UFFS \"Departamento de Alimentação e Saúde Mental\" PROAE",
+        "UFFS resolução política saúde mental estudantes Conselho Universitário",
+        "UFFS \"setembro amarelo\" campus prevenção suicídio estudantes notícia",
+        "UFFS projeto de extensão saúde mental universitários acolhimento roda de conversa",
+        "uffs.edu.br assuntos estudantis atendimento psicológico SAE psicologia estudante",
+        "UFFS saúde mental servidores PROGESP qualidade de vida programa"
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010/@@download/anexo1",
+          "titulo": "Anexo I da Resolução nº 10/CONSUNI/CGAE/UFFS/2019 – Política de Assistência Estudantil da UFFS (PDF)",
+          "acessada": true,
+          "observacao": "usada (PDF baixado e texto extraído)"
+        },
+        {
+          "url": "https://www.uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010",
+          "titulo": "RESOLUÇÃO Nº 10/CONSUNI CGAE/UFFS/2019 (ALTERADA) – página do ato normativo",
+          "acessada": true,
+          "observacao": "usada para ementa e data da sessão (27/08/2019); página indica alterações pelas Res. 33/2021, 34/2022, 51/2023 e 63/2026, não verificadas"
+        },
+        {
+          "url": "https://www.uffs.edu.br/uffs/conteudo/Pró-reitorias/PROAE/DASM - RU/Jornada Universitária - Cartilha Saúde Mental.pdf",
+          "titulo": "Jornada Universitária – Um guia de preparação emocional para estudantes de graduação",
+          "acessada": true,
+          "observacao": "usada (WebFetch excedeu tamanho; PDF baixado via curl e texto extraído)"
+        },
+        {
+          "url": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/repositorio-pro-reitoria-de-assuntos-estudantis/projeto-de-extensao-ext-2018-0094/@@download/file",
+          "titulo": "Projeto de extensão EXT-2018-0094 – Promoção à saúde do estudante universitário (PDF)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/repositorio-pro-reitoria-de-assuntos-estudantis/projeto-promocao-a-saude-do-estudante-universitario/@@download/file",
+          "titulo": "FUP – Promoção à saúde do estudante universitário (ODT)",
+          "acessada": true,
+          "observacao": "lida (ODT extraído); conteúdo coincide com EXT-2018-0094, não gerou candidato separado"
+        },
+        {
+          "url": "https://uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/publicacoes/informes/campanha-setembro-amarelo/@@download/arquivo",
+          "titulo": "Campanha Setembro Amarelo (site novo)",
+          "acessada": true,
+          "observacao": "404 no site novo"
+        },
+        {
+          "url": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/publicacoes/informes/campanha-setembro-amarelo/@@download/arquivo",
+          "titulo": "CAMPANHA SETEMBRO AMARELO (ODT, PROAE)",
+          "acessada": true,
+          "observacao": "usada (site antigo; metadados do arquivo indicam 2017)"
+        },
+        {
+          "url": "https://uffs.edu.br/institucional/pro-reitorias/extensao-e-cultura/repositorio/ext-2019-0143/@@download/file",
+          "titulo": "EXT-2019-0143 (site novo)",
+          "acessada": true,
+          "observacao": "404 no site novo"
+        },
+        {
+          "url": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/extensao-e-cultura/repositorio/ext-2019-0143/@@download/file",
+          "titulo": "Projeto de extensão EXT-2019-0143 – Discussões sobre a saúde mental no ensino superior (PDF)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/repositorio-pro-reitoria-de-assuntos-estudantis/cartilha-de-assuntos-estudantis/@@download/file",
+          "titulo": "Cartilha sobre Assuntos Estudantis da UFFS (PDF)",
+          "acessada": true,
+          "observacao": "lida; conteúdo genérico sobre assistência estudantil, não gerou candidato"
+        },
+        {
+          "url": "https://portaleventos.uffs.edu.br/index.php/SEPAE/article/download/20381/13591",
+          "titulo": "Permanência estudantil: o fazer profissional do SAE Campus Chapecó (VI Seminário da Política de Assistência Estudantil)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://servicos.uffs.edu.br/wp-content/uploads/2025/03/PROGRAMA-SAUDE-SEM-FRONTEIRAS-UFFS.pdf",
+          "titulo": "Programa Saúde Sem Fronteiras – PROGESP/DASS UFFS (PDF)",
+          "acessada": true,
+          "observacao": "usada"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Verificar se as alterações da Res. 10/CONSUNI CGAE/UFFS/2019 (Res. 33/2021, 34/2022, 51/2023, 63/2026) modificaram o Programa de Promoção à Saúde do Estudante (PPSE) e os serviços psicológicos",
+        "Localizar o 'Protocolo Interno de Saúde da UFFS' citado no Art. 17 da Política de Assistência Estudantil",
+        "Confirmar existência/estrutura atual do 'Departamento de Alimentação e Saúde Mental' (PROAE/DASM), citado apenas como contato na cartilha Jornada Universitária",
+        "Novo site uffs.edu.br (pós-2025) não retornou páginas atuais de serviço psicológico; documentos localizados são majoritariamente do site antigo (2017–2019)",
+        "Não localizada política ou resolução específica de saúde mental na UFFS",
+        "Situação atual dos projetos EXT-2018-0094 e EXT-2019-0143 não confirmada"
+      ],
+      "candidatos": [
+        {
+          "nome": "Programa de Promoção à Saúde do Estudante (PPSE) – Política de Assistência Estudantil da UFFS",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Programa instituído no Anexo I da Resolução nº 10/CONSUNI/CGAE/UFFS/2019 (Política de Assistência Estudantil). Prevê mediação do acesso a serviços de saúde, promoção e prevenção em saúde física, mental e social, acolhimento e acompanhamento social e psicológico pelas equipes dos SAEs e atendimento de saúde mental pelos psicólogos dos SAE.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Resolução aprovada em 27/08/2019",
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PROAE), em parceria com PROGRAD e PROGESP; operacionalizado pelos campi",
+          "campus": "Multicampi",
+          "documento_relacionado": {
+            "titulo": "Resolução nº 10/CONSUNI CGAE/UFFS/2019 – Institui a Política de Assistência Estudantil no âmbito da Universidade Federal da Fronteira Sul",
+            "tipo_documento": "resolucao",
+            "numero_documento": "10/CONSUNI CGAE/UFFS/2019",
+            "data_publicacao": null,
+            "orgao_emissor": "Câmara de Graduação e Assuntos Estudantis (CGAE) do Conselho Universitário (CONSUNI) – UFFS",
+            "url_original": "https://www.uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010"
+          },
+          "url_fonte": "https://uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010/@@download/anexo1",
+          "titulo_fonte": "Anexo I da Resolução nº 10/CONSUNI/CGAE/UFFS/2019 – Política de Assistência Estudantil da UFFS",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Art. 104. Ao PPSE compete: I - realizar os encaminhamentos à rede pública de saúde; II - desenvolver projetos na área da promoção de saúde; III - realizar parcerias com a rede municipal e estadual de saúde; IV - prestar atendimento de saúde mental, por meio de atendimento dos profissionais de psicologia dos SAE; V - promover campanhas de promoção à saúde;",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "media",
+          "campos_ausentes": [
+            "objetivos específicos de saúde mental",
+            "data de publicação no boletim",
+            "modalidade"
+          ],
+          "justificativa": "Programa formalmente instituído por resolução do CONSUNI/CGAE com atribuição explícita de atendimento em saúde mental (grau 1). Ressalva: trata-se de política de assistência estudantil, não de política específica de saúde mental; o texto lido é o anexo original de 2019 e a página indica alterações posteriores não verificadas."
+        },
+        {
+          "nome": "Acompanhamento psicológico nos Setores de Assuntos Estudantis (SAE) dos campi",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Serviço de acompanhamento pedagógico e/ou psicossocial realizado por profissionais de psicologia, pedagogia e serviço social lotados nos SAEs. O acompanhamento psicológico compreende acolhimento, integração e orientação ao estudante.",
+          "objetivos": "Colaborar nos processos de adaptação ao ensino superior, aprendizagem, relações interpessoais, orientação vocacional e desenvolvimento de carreira, saúde e qualidade de vida (conforme Art. 14).",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "campus",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Setores de Assuntos Estudantis (SAE) dos campi / PROAE",
+          "campus": "Multicampi (SAEs de cada campus)",
+          "documento_relacionado": {
+            "titulo": "Resolução nº 10/CONSUNI CGAE/UFFS/2019 – Institui a Política de Assistência Estudantil no âmbito da Universidade Federal da Fronteira Sul",
+            "tipo_documento": "resolucao",
+            "numero_documento": "10/CONSUNI CGAE/UFFS/2019",
+            "data_publicacao": null,
+            "orgao_emissor": "Câmara de Graduação e Assuntos Estudantis (CGAE) do Conselho Universitário (CONSUNI) – UFFS",
+            "url_original": "https://www.uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010"
+          },
+          "url_fonte": "https://uffs.edu.br/atos-normativos/resolucao/consunicgae/2019-0010/@@download/anexo1",
+          "titulo_fonte": "Anexo I da Resolução nº 10/CONSUNI/CGAE/UFFS/2019 – Política de Assistência Estudantil da UFFS",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Art. 14. O acompanhamento psicológico, realizado por profissional de psicologia, compreende as atividades de acolhimento, integração e orientação ao estudante, sendo responsável por colaborar nos processos de adaptação ao ensino superior, de aprendizagem, relações interpessoais, orientação vocacional e desenvolvimento de carreira, saúde e qualidade de vida",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "forma de agendamento",
+            "quantitativo de profissionais por campus"
+          ],
+          "justificativa": "Serviço psicológico permanente previsto em resolução. Classificado como serviço (não política); grau 3 por ser serviço documentado. A cartilha 'Jornada Universitária' informa que o serviço existe 'nos campi em que há esse serviço', indicando cobertura possivelmente desigual."
+        },
+        {
+          "nome": "Plantões psicológicos do SAE – Campus Chapecó",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Relato institucional do SAE Campus Chapecó sobre 2022: retorno ao atendimento presencial com acolhimentos psicológicos e criação de plantões psicológicos em dias e períodos fixos, com atendimento por ordem de chegada.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "2022 (ano relatado)",
+          "unidade_responsavel": "Setor de Assuntos Estudantis (SAE) – Campus Chapecó",
+          "campus": "Chapecó",
+          "documento_relacionado": null,
+          "url_fonte": "https://portaleventos.uffs.edu.br/index.php/SEPAE/article/download/20381/13591",
+          "titulo_fonte": "Permanência estudantil: o fazer profissional do SAE Campus Chapecó (VI Seminário da Política de Assistência Estudantil – PROAE/UFFS)",
+          "tipo_fonte": "publicacao_cientifica",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A inovação que se deu foi a criação dos plantões psicológicos estipulado em períodos e dias fixos, onde os estudantes são atendidos por ordem de chegada. Avalia-se como positiva esta forma de atendimento em função de atender a demanda do estudante de forma mais breve, não necessitando de agendamento prévio.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "data de publicação",
+            "situação atual",
+            "horários"
+          ],
+          "justificativa": "Resumo publicado em anais de seminário promovido pela PROAE/UFFS, escrito por servidoras do SAE; documenta modalidade de serviço em um campus. Confiança média por ser relato de 2022 sem confirmação de continuidade."
+        },
+        {
+          "nome": "Projeto de extensão 'Promoção à saúde do estudante universitário' (EXT-2018-0094)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "Projeto multicampi coordenado pela PROAE e desenvolvido pelos SAEs, com quatro eixos: encontro com ingressantes, rodas de conversa temáticas, grupos de apoio em saúde mental e manuais sobre procedimentos de saúde; previa monitores de saúde bolsistas.",
+          "objetivos": "Fortalecer as condições de permanência e êxito nas atividades acadêmicas no período letivo de 2019 por meio de ações voltadas para a promoção de saúde e qualidade de vida estudantil na UFFS; prevenir o comportamento suicida; promover a saúde mental dos estudantes.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": "02/02/2019 a 21/12/2019",
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PROAE) / SAEs; proponente: Darlan Christiano Kroth",
+          "campus": "Todos os campi (registro: Chapecó)",
+          "documento_relacionado": null,
+          "url_fonte": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/repositorio-pro-reitoria-de-assuntos-estudantis/projeto-de-extensao-ext-2018-0094/@@download/file",
+          "titulo_fonte": "Dados gerais do projeto – EXT-2018-0094 – Promoção à saúde do estudante universitário",
+          "tipo_fonte": "sistema_extensao",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Objetivos específicos: - Desenvolver ações na área da promoção à saúde dos estudantes na UFFS; - Capacitar os estudantes a cuidarem de sua saúde e conhecerem a rede pública de saúde; - Prevenir o comportamento suicida entre os estudantes; - Promover a saúde mental dos estudantes mediante a criação de ambiente solidário na UFFS.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade",
+            "resultados/relatório final"
+          ],
+          "justificativa": "Projeto de extensão registrado (área temática Saúde), com eixo explícito de grupos de apoio em saúde mental e prevenção do suicídio. Documento indica 'Projeto em execução', mas período encerrava em 12/2019; situação atual desconhecida."
+        },
+        {
+          "nome": "Projeto de extensão 'Discussões sobre a saúde mental no ensino superior' (EXT-2019-0143) – Campus Realeza",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Proposta de espaço de encontro, conversa e apoio coletivo a discentes do campus Realeza, com mediação de psicólogo (da prefeitura de Realeza), sem atendimento clínico.",
+          "objetivos": "Propiciar um espaço de encontro, conversa e apoio coletivo aos discentes do campus Realeza como o apoio do profissional de psicologia.",
+          "publico_alvo": [
+            "estudantes",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "campus",
+          "situacao_aparente": "desconhecida",
+          "periodo": "01/07/2019 a 18/05/2020",
+          "unidade_responsavel": "Proponente: Jeverson Luiz Cattani (TAE)",
+          "campus": "Realeza",
+          "documento_relacionado": null,
+          "url_fonte": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/extensao-e-cultura/repositorio/ext-2019-0143/@@download/file",
+          "titulo_fonte": "Dados gerais do projeto – EXT-2019-0143 – Discussões sobre a saúde mental no ensino superior",
+          "tipo_fonte": "sistema_extensao",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Objetivos gerais: Propiciar um espaço de encontro, conversa e apoio coletivo aos discentes do campus Realeza como o apoio do profissional de psicologia. Objetivos específicos: • Oferecer espaço de apoio emocional aos discentes do campus;",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "relatório de execução"
+          ],
+          "justificativa": "Projeto de extensão registrado e deferido. Confiança média: o próprio registro indica 'Situação: Aguarda publicação' e 'Coordenador atual: Projeto sem coordenador ativo', sem evidência de execução."
+        },
+        {
+          "nome": "Campanha Setembro Amarelo – PROAE e SAEs (2017)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Informe da PROAE manifestando apoio à campanha Setembro Amarelo, com programação de rodas de conversa e palestras sobre valorização da vida e prevenção do suicídio nos campi Realeza, Passo Fundo, Cerro Largo e Laranjeiras do Sul, e divulgação dos contatos dos psicólogos dos SAEs.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "setembro/outubro de 2017 (datas das atividades listadas)",
+          "unidade_responsavel": "Pró-Reitoria de Assuntos Estudantis (PROAE) e Setores de Assuntos Estudantis (SAE)",
+          "campus": "Realeza; Passo Fundo; Cerro Largo; Laranjeiras do Sul",
+          "documento_relacionado": null,
+          "url_fonte": "https://site-antigo-2025.uffs.edu.br/institucional/pro-reitorias/assuntos-estudantis/publicacoes/informes/campanha-setembro-amarelo/@@download/arquivo",
+          "titulo_fonte": "CAMPANHA SETEMBRO AMARELO (informe PROAE)",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "A Pró-Reitoria de Assuntos Estudantis e os Setores de Assuntos Estudantis dos Campi manifestam apoio a esta campanha na UFFS e reforçam a participação da comunidade acadêmica nas atividades de prevenção ao suicídio e debates acerca dessa temática que acontecerão durante o mês de setembro.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "data de publicação explícita no documento"
+          ],
+          "justificativa": "Ação pontual (campanha) documentada em informe oficial; ano inferido pelas datas das atividades (2017). Não há evidência no material de edições posteriores."
+        },
+        {
+          "nome": "Cartilha 'Jornada Universitária – Um guia de preparação emocional para estudantes de graduação'",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "Material educativo de preparação emocional para estudantes, com orientações sobre hábitos saudáveis, planejamento de estudos e indicação de apoio psicológico e pedagógico nos SAEs; lista contatos dos SAEs, do Departamento de Alimentação e Saúde Mental e da PROAE.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "desconhecida",
+          "periodo": null,
+          "unidade_responsavel": "PROAE (contato listado: Departamento de Alimentação e Saúde Mental – proae.dasm@uffs.edu.br); diagramação: Diretoria de Comunicação Social",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uffs.edu.br/uffs/conteudo/Pró-reitorias/PROAE/DASM - RU/Jornada Universitária - Cartilha Saúde Mental.pdf",
+          "titulo_fonte": "Jornada Universitária – Um guia de preparação emocional para estudantes de graduação",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Busque, sempre que necessário, o suporte dos profissionais da Psicologia e da Pedagogia nos campi em que há esse serviço. Informe-se no Setor de Assuntos Estudantis (SAE) do seu campus ou coordenação do seu curso sobre quais serviços estão disponíveis, como funcionam e onde solicitar.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "data de publicação",
+            "periodo"
+          ],
+          "justificativa": "Material de educação/psicoeducação institucional (categoria pesquisa_formacao por ser ação educativa). Sem data no documento. Também evidencia a existência nominal de um 'Departamento de Alimentação e Saúde Mental' na PROAE, a confirmar."
+        },
+        {
+          "nome": "Programa Saúde Sem Fronteiras (saúde do servidor) – PROGESP/DASS",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [
+            "acao_pontual"
+          ],
+          "descricao": "Programa de promoção da saúde e bem-estar dos servidores, executado com as equipes DASS/SIASS dos seis campi; inclui campanhas anuais como Janeiro Branco (saúde mental e emocional) e Valorização da Vida e Prevenção do Suicídio, além de atividades como biodanza e PICS.",
+          "objetivos": "Promover a saúde e o bem-estar dos servidores da UFFS.",
+          "publico_alvo": [
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Documento datado de 2026 (Chapecó, SC, 2026)",
+          "unidade_responsavel": "Pró-Reitoria de Gestão de Pessoas (PROGESP) – Diretoria de Atenção à Saúde do Servidor (DASS)",
+          "campus": "Chapecó, Erechim, Passo Fundo, Cerro Largo, Laranjeiras do Sul, Realeza",
+          "documento_relacionado": {
+            "titulo": "Programa Saúde Sem Fronteiras – UFFS",
+            "tipo_documento": "plano",
+            "numero_documento": null,
+            "data_publicacao": null,
+            "orgao_emissor": "PROGESP/DASS – UFFS",
+            "url_original": "https://servicos.uffs.edu.br/wp-content/uploads/2025/03/PROGRAMA-SAUDE-SEM-FRONTEIRAS-UFFS.pdf"
+          },
+          "url_fonte": "https://servicos.uffs.edu.br/wp-content/uploads/2025/03/PROGRAMA-SAUDE-SEM-FRONTEIRAS-UFFS.pdf",
+          "titulo_fonte": "Programa Saúde Sem Fronteiras – UFFS",
+          "tipo_fonte": "relatorio_institucional",
+          "data_publicacao_fonte": null,
+          "trecho_evidencia": "Janeiro Branco Alertar os cuidados para a saúde mental e emocional dos servidores com objetivo de diminuir as doenças recorrentes de situações de pânico, ansiedade e estresse. [...] Valorização da Vida e Prevenção do Suicídio Sensibilizar aos servidores sobre o suicídio, visando a adoção de atitudes coletivas que que valorizem a vida",
+          "grau_evidencia_sugerido": 2,
+          "confianca": "media",
+          "campos_ausentes": [
+            "ato normativo de instituição",
+            "data de publicação"
+          ],
+          "justificativa": "Programa institucional estruturado e documentado para servidores, com componentes de saúde mental, sem ato normativo localizado (grau 2). Escopo é saúde do servidor em geral, não apenas saúde mental. Texto extraído de PDF (espaçamento normalizado; '[...]' indica omissão)."
+        }
+      ]
+    },
+    {
+      "sigla": "UERGS",
+      "nome_oficial": "Universidade Estadual do Rio Grande do Sul",
+      "dominio": "uergs.edu.br",
+      "consultas": [
+        "UERGS saúde mental estudantes acolhimento psicológico site:uergs.edu.br",
+        "Uergs saúde mental estudantes psicólogo atendimento",
+        "Uergs \"setembro amarelo\" OR \"saúde mental\" notícia uergs.edu.br",
+        "\"Uergs\" projeto extensão \"saúde mental\" (busca estendida)",
+        "Busca interna uergs.edu.br (endpoint /busca/lista-data-table): \"saude mental\"",
+        "Busca interna uergs.edu.br: \"psicologico\"",
+        "Busca interna uergs.edu.br: \"setembro amarelo\"",
+        "Busca interna uergs.edu.br: \"suicidio\"",
+        "Busca interna uergs.edu.br: \"acolhimento\"",
+        "Busca interna uergs.edu.br: \"psicologia\"",
+        "Busca interna uergs.edu.br: \"ansiedade\""
+      ],
+      "fontes_consultadas": [
+        {
+          "url": "https://www.uergs.edu.br/",
+          "titulo": "Página inicial UERGS",
+          "acessada": true,
+          "observacao": "navegação; sem conteúdo específico"
+        },
+        {
+          "url": "https://www.uergs.edu.br/estudantes",
+          "titulo": "Estudantes – UERGS",
+          "acessada": true,
+          "observacao": "menu genérico; irrelevante"
+        },
+        {
+          "url": "https://www.uergs.edu.br/assistencia-estudantil",
+          "titulo": "Assistência Estudantil – UERGS",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/upload/arquivos/202609/04172328-ordem-de-servico-nad.pdf",
+          "titulo": "Ordem de Serviço nº 03/2025 – PROENS (NAD)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://uergs.edu.br/upload/arquivos/202604/14142403-resolucao-consun-001-2026-projeto-resolucao-acoes-afirmativas-diversidades-e-equidade.pdf",
+          "titulo": "Resolução CONSUN nº 001/2026 – Política de Ações Afirmativas, Diversidade e Equidade",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/politica-de-acoes-afirmativas-diversidade-e-equidade-da-uergs-e-aprovada-pelo-consun",
+          "titulo": "Política de Ações Afirmativas, Diversidade e Equidade da Uergs é aprovada pelo Consun",
+          "acessada": true,
+          "observacao": "usada para contexto/link do PDF"
+        },
+        {
+          "url": "https://www.uergs.edu.br/saude-mental-justica-social-e-permanencia-estudantil-um-cuidado-continuo",
+          "titulo": "Saúde Mental, Justiça Social e Permanência Estudantil: Um Cuidado Contínuo",
+          "acessada": true,
+          "observacao": "lida; artigo de opinião institucional (NAD), corrobora NAD"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-promove-rodas-de-conversa-com-estudantes-para-a-promocao-da-saude-mental",
+          "titulo": "Uergs promove rodas de conversa com estudantes para a promoção da saúde mental",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/proens-prepara-o-2-ciclo-das-rodas-de-conversa-com-estudantes",
+          "titulo": "Proens prepara o 2º ciclo das Rodas de Conversa com estudantes",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-tera-grupo-de-acolhimento-a-estudantes-voltado-a-saude-mental-por-meio-de-parceria-com-a-ufrgs",
+          "titulo": "Uergs terá grupo de Acolhimento a Estudantes voltado à saúde mental por meio de parceria com a UFRGS",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/grupos-de-acolhimento-programa-medusa-2026-2",
+          "titulo": "Grupos de acolhimento - Programa MEDUSA 2026/2",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-transforma-dialogos-sobre-bem-estar-2025",
+          "titulo": "Uergs Transforma: Diálogos sobre bem-estar 2025",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/dialogos-sobre-bem-estar-2026",
+          "titulo": "Diálogos sobre Bem-Estar 2026",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-prepara-programacao-de-palestras-voltadas-ao-desenvolvimento-e-a-saude-mental-dos-as-funcionarios-as",
+          "titulo": "Uergs prepara programação de palestras voltadas ao desenvolvimento e à saúde mental dos(as) funcionários(as)",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-promove-seminario-sobre-prevencao-ao-suicidio",
+          "titulo": "Uergs promove seminário sobre prevenção ao suicídio",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/saude-mental-em-escolas-e-tema-de-acao-de-extensao-da-uergs-em-porto-alegre",
+          "titulo": "Saúde mental em escolas é tema de Ação de Extensão da Uergs em Porto Alegre",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/uergs-participa-de-pesquisa-inedita-que-mapeia-os-desafios-de-saude-mental-em-universidades-brasileiras",
+          "titulo": "Uergs participa de pesquisa inédita que mapeia os desafios de saúde mental em universidades brasileiras",
+          "acessada": true,
+          "observacao": "usada"
+        },
+        {
+          "url": "https://www.uergs.edu.br/arandu",
+          "titulo": "Espaço Arandu",
+          "acessada": true,
+          "observacao": "baixada, não analisada em detalhe (resultado da busca por 'acolhimento'); sem candidato"
+        }
+      ],
+      "resultado": "com_iniciativas",
+      "pendencias": [
+        "Não localizada política específica de saúde mental; a Res. CONSUN 001/2026 (Ações Afirmativas) contém diretriz de saúde mental — verificar se há regulamentação/plano de implementação posterior",
+        "Verificar se o NAD possui ato de criação próprio (Regimento Geral / resolução) além da Ordem de Serviço PROENS nº 03/2025",
+        "Confirmar continuidade das Rodas de Conversa do NAD após 2024",
+        "Página 'Espaço Arandu' e eventos 'Sipat 2021 – Saúde mental, ansiedade e estresse' e 'Abertura do 10º Siepex (2021)' identificados na busca interna mas não analisados",
+        "Busca externa (WebSearch) não indexou bem o domínio uergs.edu.br; a varredura dependeu da busca interna do site"
+      ],
+      "candidatos": [
+        {
+          "nome": "Núcleo de Atendimento ao Discente (NAD) – acolhimento psicossocial",
+          "categoria_sugerida": "servico_permanente",
+          "categorias_secundarias": [],
+          "descricao": "Núcleo integrado à Coordenadoria de Qualificação Acadêmica (PROENS) que realiza acolhimento psicossocial, escuta qualificada, orientação e encaminhamento de estudantes, com psicóloga e assistente social, mediante agendamento, presencial na Reitoria (Porto Alegre) e online para as unidades. Não oferece psicoterapia, psicodiagnóstico nem atendimento psiquiátrico.",
+          "objetivos": "Garantir o suporte psicossocial e a acessibilidade comunicacional necessária à permanência e ao êxito acadêmico (Art. 1º da OS nº 03/2025).",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": null,
+          "unidade_responsavel": "Coordenadoria de Qualificação Acadêmica / Núcleo de Atendimento ao Discente (NAD) – Pró-Reitoria de Ensino (PROENS)",
+          "campus": "Reitoria – Porto Alegre (presencial); unidades do interior (online)",
+          "documento_relacionado": {
+            "titulo": "Ordem de Serviço nº 03/2025 – institui os procedimentos de acolhimento e encaminhamento de estudantes pelo NAD",
+            "tipo_documento": "outro",
+            "numero_documento": "03/2025",
+            "data_publicacao": "2025-11-14",
+            "orgao_emissor": "Pró-Reitoria de Ensino (PROENS) – UERGS",
+            "url_original": "https://www.uergs.edu.br/upload/arquivos/202609/04172328-ordem-de-servico-nad.pdf"
+          },
+          "url_fonte": "https://www.uergs.edu.br/assistencia-estudantil",
+          "titulo_fonte": "Assistência Estudantil – UERGS",
+          "tipo_fonte": "site_institucional",
+          "data_publicacao_fonte": "2026-09-04",
+          "trecho_evidencia": "Integrado à Coordenadoria de Qualificação Acadêmica, o Núcleo de Atendimento ao Discente (NAD) é responsável por estruturar e coordenar ações voltadas à promoção da educação inclusiva na Uergs. O Núcleo atua no acolhimento psicossocial e no acompanhamento de estudantes no geral",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "ato de criação do NAD"
+          ],
+          "justificativa": "Serviço permanente de acolhimento psicossocial documentado em página institucional e com fluxo regulamentado por Ordem de Serviço (data '14 de novembro de 2025' no documento; data da página = data de listagem na busca interna). Classificado como serviço, não política."
+        },
+        {
+          "nome": "Política de Ações Afirmativas, Diversidade e Equidade – diretriz de atenção e promoção da saúde mental (Resolução CONSUN nº 001/2026)",
+          "categoria_sugerida": "politica_institucional",
+          "categorias_secundarias": [],
+          "descricao": "Resolução do Conselho Superior que institui a Política de Ações Afirmativas, Diversidade e Equidade da UERGS; entre as diretrizes, prevê ações de atenção e promoção da saúde mental e do bem-estar de estudantes, docentes e corpo técnico, e atribui à PROENS a ampliação do NAD para acolhimento psicossocial.",
+          "objetivos": null,
+          "publico_alvo": [
+            "estudantes",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Aprovada em 19/03/2026; publicada no DOE em 26/03/2026",
+          "unidade_responsavel": "Conselho Superior Universitário (CONSUN); elaboração conduzida pela Coordenadoria de Qualificação Acadêmica/PROENS",
+          "campus": null,
+          "documento_relacionado": {
+            "titulo": "Resolução CONSUN nº 001/2026 – institui e normatiza a Política de Ações Afirmativas, Diversidade e Equidade da UERGS",
+            "tipo_documento": "resolucao",
+            "numero_documento": "001/2026",
+            "data_publicacao": "2026-03-26",
+            "orgao_emissor": "Conselho Superior Universitário (CONSUN) – UERGS",
+            "url_original": "https://uergs.edu.br/upload/arquivos/202604/14142403-resolucao-consun-001-2026-projeto-resolucao-acoes-afirmativas-diversidades-e-equidade.pdf"
+          },
+          "url_fonte": "https://uergs.edu.br/upload/arquivos/202604/14142403-resolucao-consun-001-2026-projeto-resolucao-acoes-afirmativas-diversidades-e-equidade.pdf",
+          "titulo_fonte": "Resolução CONSUN nº 001/2026",
+          "tipo_fonte": "documento_normativo",
+          "data_publicacao_fonte": "2026-03-26",
+          "trecho_evidencia": "VII – Promoção de ações voltadas à atenção e promoção da saúde mental e do bem-estar de estudantes, docentes e do corpo técnico e de apoio administrativo, em consonância com os princípios da Política Nacional de Promoção da Saúde e com a Política Nacional de Saúde Mental.",
+          "grau_evidencia_sugerido": 1,
+          "confianca": "media",
+          "campos_ausentes": [
+            "plano de implementação",
+            "objetivos específicos de saúde mental"
+          ],
+          "justificativa": "Ato normativo do CONSUN que formalmente inclui saúde mental como diretriz institucional (grau 1). Ressalva: é política de ações afirmativas, não política específica de saúde mental; o revisor deve decidir se a diretriz basta para grau 1."
+        },
+        {
+          "nome": "Rodas de Conversa com estudantes para promoção da saúde mental (NAD/CQA) – 'Tempo de Reconstruir' e 'Laços que conectam e inspiram'",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [
+            "servico_permanente"
+          ],
+          "descricao": "Ciclos de rodas de conversa em grupos fechados (até 12 pessoas), com encontros semanais por um mês, facilitados pela psicóloga e pela assistente social do NAD; 1º ciclo (jun–jul/2024) voltado ao acolhimento diante da crise climática/enchentes no RS; 2º ciclo (set–out/2024) online, sobre pertencimento.",
+          "objetivos": "Acolher e promover o cuidado com a saúde mental dos(as) estudantes em meio aos efeitos da crise climática no Rio Grande do Sul.",
+          "publico_alvo": [
+            "estudantes"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "20/06/2024 a 19/07/2024 (1º ciclo); 09/09/2024 a 14/10/2024 (2º ciclo)",
+          "unidade_responsavel": "Coordenadoria de Qualificação Acadêmica / Núcleo de Atendimento ao Discente (NAD) – PROENS",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-promove-rodas-de-conversa-com-estudantes-para-a-promocao-da-saude-mental",
+          "titulo_fonte": "Uergs promove rodas de conversa com estudantes para a promoção da saúde mental",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2024-06-11",
+          "trecho_evidencia": "A Coordenadoria de Qualificação Acadêmica da Uergs está promovendo Rodas de Conversa com grupos de estudantes da Universidade. A ação busca acolher e promover o cuidado com a saúde mental dos(as) estudantes em meio aos efeitos da crise climática no Rio Grande do Sul.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [],
+          "justificativa": "Ação com ciclos datados documentada em notícias oficiais (11/06/2024 e 09/08/2024). Modalidade 'online' confirmada para o 2º ciclo (Google Meet); o 1º ciclo não explicita modalidade. Situação 'encerrada' refere-se aos ciclos de 2024; continuidade não verificada."
+        },
+        {
+          "nome": "Grupo de Acolhimento a Estudantes da Uergs em parceria com o Programa de Extensão MEDUSA (UFRGS)",
+          "categoria_sugerida": "projeto_extensao",
+          "categorias_secundarias": [],
+          "descricao": "Parceria da Coordenadoria de Qualificação Acadêmica da UERGS com o Programa de Extensão Movimento Educação e Saúde Mental (MEDUSA/UFRGS) para grupos de acolhimento/rodas de conversa exclusivos para estudantes da UERGS; iniciado em 10/10/2025 (online, semanal) e com oferta 2026/2 em formato online e presencial.",
+          "objetivos": "Promover espaços de escuta, acolhimento e discussão sobre o sofrimento psíquico no ambiente universitário; promoção da saúde mental; prevenção ao suicídio; conexão universitária (página do evento 2026/2).",
+          "publico_alvo": [
+            "estudantes",
+            "pos_graduandos"
+          ],
+          "modalidade": "hibrida",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Desde 10/10/2025; edição 2026/2 de 14/09/2026 a 18/12/2026",
+          "unidade_responsavel": "Coordenadoria de Qualificação Acadêmica (CQA/PROENS) – UERGS, em parceria com Programa MEDUSA/UFRGS; responsável: Elis Regina Pôncio (psicóloga/Uergs)",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-tera-grupo-de-acolhimento-a-estudantes-voltado-a-saude-mental-por-meio-de-parceria-com-a-ufrgs",
+          "titulo_fonte": "Uergs terá grupo de Acolhimento a Estudantes voltado à saúde mental por meio de parceria com a UFRGS",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2025-10-09",
+          "trecho_evidencia": "A Uergs estabeleceu uma parceria com o Programa de Extensão Medusa - Movimento Educação e Saúde Mental, vinculado à UFRGS, com o objetivo de promover a socialização e a saúde mental da comunidade universitária. Uma das ações decorrentes da iniciativa é a abertura de um Grupo de Acolhimento exclusivo para estudantes da Uergs.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "instrumento formal da parceria (convênio/termo)"
+          ],
+          "justificativa": "Ação de extensão interinstitucional documentada em notícia e agenda oficiais da UERGS (2025 e 2026/2). Atenção: o programa de extensão pertence à UFRGS; para a UERGS é parceria/oferta aos seus estudantes."
+        },
+        {
+          "nome": "Uergs Transforma: Diálogos sobre Bem-Estar (Setembro Amarelo) – 2025 e 2026",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Evento de extensão online alusivo ao Setembro Amarelo, com palestras sobre saúde mental, burnout e valorização da vida, organizado pela Comissão de Apoio ao Desenvolvimento e Qualificação de Pessoas (apoio ao Departamento de Recursos Humanos). Edições em 17–18/09/2025 e 29/09/2026.",
+          "objetivos": "Promover a valorização da vida e a conscientização sobre saúde mental (edição 2025).",
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "comunidade_externa"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "17–18/09/2025; 29/09/2026",
+          "unidade_responsavel": "Comissão de Apoio ao Desenvolvimento e Qualificação de Pessoas (Portaria nº 012/2024) / Departamento de Recursos Humanos – Pró-Reitoria de Administração",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-transforma-dialogos-sobre-bem-estar-2025",
+          "titulo_fonte": "Uergs Transforma: Diálogos sobre bem-estar 2025",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2025-09-10",
+          "trecho_evidencia": "O evento de extensão \"Uergs Transforma: Diálogos sobre bem-estar 2025\" é dedicado ao Setembro Amarelo e tem como objetivo promover a valorização da vida e a conscientização sobre saúde mental.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [],
+          "justificativa": "Evento recorrente datado (campanha Setembro Amarelo), documentado na agenda oficial; edição 2026 confirmada em https://www.uergs.edu.br/dialogos-sobre-bem-estar-2026. Data da fonte = data de listagem na busca interna."
+        },
+        {
+          "nome": "Palestras sobre saúde mental para funcionários(as) – DRH e Comissão de Apoio ao Desenvolvimento e Qualificação de Pessoas (2024)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [
+            "pesquisa_formacao"
+          ],
+          "descricao": "Série de palestras em setembro de 2024 sobre atenção à saúde mental e promoção da vida, incluindo 'Sofrimento psíquico na Universidade: o que faz adoecer e como enfrentar?' (16/09/2024), seguida da Semana de Aprimoramento e Desenvolvimento em outubro.",
+          "objetivos": null,
+          "publico_alvo": [
+            "comunidade_universitaria",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": null,
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "setembro–outubro de 2024",
+          "unidade_responsavel": "Departamento de Recursos Humanos (DRH) e Comissão de Apoio ao Desenvolvimento e Qualificação de Pessoas",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-prepara-programacao-de-palestras-voltadas-ao-desenvolvimento-e-a-saude-mental-dos-as-funcionarios-as",
+          "titulo_fonte": "Uergs prepara programação de palestras voltadas ao desenvolvimento e à saúde mental dos(as) funcionários(as)",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2024-09-12",
+          "trecho_evidencia": "Em setembro, serão realizadas duas palestras sobre temas relacionados à atenção à saúde mental e promoção da vida. [...] A primeira palestra será realizada no dia 16 de setembro com o tema “Sofrimento psíquico na Universidade: o que faz adoecer e como enfrentar?”.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "modalidade"
+          ],
+          "justificativa": "Ação pontual datada, documentada em notícia oficial; foco em servidores. Pode ser agregada pelo revisor ao candidato 'Diálogos sobre Bem-Estar' por ter a mesma comissão organizadora."
+        },
+        {
+          "nome": "Seminário pela Vida: prevenção do suicídio (2019)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [],
+          "descricao": "Seminário realizado em 03/10/2019 no Teatro Dante Barone da Assembleia Legislativa, com palestras sobre suicídio como problema de saúde pública e cenário epidemiológico no RS.",
+          "objetivos": "Promover práticas de transformação e de ampliação da consciência.",
+          "publico_alvo": [],
+          "modalidade": "presencial",
+          "abrangencia": "institucional",
+          "situacao_aparente": "encerrada",
+          "periodo": "03/10/2019",
+          "unidade_responsavel": "Coordenadoria de Qualificação Acadêmica da Pró-Reitoria de Ensino",
+          "campus": "Porto Alegre",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-promove-seminario-sobre-prevencao-ao-suicidio",
+          "titulo_fonte": "Uergs promove seminário sobre prevenção ao suicídio",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2019-09-24",
+          "trecho_evidencia": "A Uergs realizará no dia 3 de outubro um Seminário com o tema “Prevenção do Suicídio”. O Seminário pela Vida é uma iniciativa da Coordenadoria de Qualificação Acadêmica da Pró-Reitoria de Ensino da Uergs com o objetivo de promover práticas de transformação e de ampliação da consciência.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [
+            "publico_alvo"
+          ],
+          "justificativa": "Evento pontual datado, documentado em notícia oficial."
+        },
+        {
+          "nome": "Ação de Extensão 'Políticas Públicas de Atenção à Saúde Mental nas Escolas' – Unidade Porto Alegre (2019)",
+          "categoria_sugerida": "acao_pontual",
+          "categorias_secundarias": [
+            "projeto_extensao"
+          ],
+          "descricao": "Mesa redonda de extensão sobre políticas de atenção à saúde mental nas escolas, com foco nos bairros Partenon e Lomba do Pinheiro (Porto Alegre).",
+          "objetivos": "Discutir as políticas de atenção à saúde mental nas escolas, com foco nos bairros Partenon e Lomba do Pinheiro.",
+          "publico_alvo": [
+            "comunidade_externa",
+            "docentes",
+            "estudantes"
+          ],
+          "modalidade": "presencial",
+          "abrangencia": "unidade",
+          "situacao_aparente": "encerrada",
+          "periodo": "07/11/2019",
+          "unidade_responsavel": "Unidade da Uergs em Porto Alegre; coordenação: profa. Adriana Helena Lau",
+          "campus": "Porto Alegre",
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/saude-mental-em-escolas-e-tema-de-acao-de-extensao-da-uergs-em-porto-alegre",
+          "titulo_fonte": "Saúde mental em escolas é tema de Ação de Extensão da Uergs em Porto Alegre",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2019-11-04",
+          "trecho_evidencia": "Na próxima quinta-feira, 7 de novembro, a Unidade da Uergs em Porto Alegre estará promovendo uma Ação de Extensão relacionada à saúde mental nas escolas de Porto Alegre. Através de uma mesa redonda, o evento busca discutir as políticas de atenção à saúde mental nas escolas, com foco nos bairros Partenon e Lomba do Pinheiro.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "alta",
+          "campos_ausentes": [],
+          "justificativa": "Evento de extensão pontual voltado à comunidade externa (escolas), não à saúde mental da comunidade universitária; incluído por pertinência temática — revisor pode excluir conforme escopo do observatório."
+        },
+        {
+          "nome": "Participação da Uergs no Estudo Nacional de Saúde Mental nas Universidades (Enasam-U)",
+          "categoria_sugerida": "pesquisa_formacao",
+          "categorias_secundarias": [],
+          "descricao": "A UERGS foi sorteada entre as dez universidades públicas da região Sul participantes do Enasam-U, estudo com estudantes e servidores coordenado nacionalmente por pesquisadores da UFRGS e Fiocruz, com apoio do CNPq.",
+          "objetivos": "Compreender os efeitos e os desafios de saúde mental enfrentados nas universidades para direcionar esforços na construção de uma universidade mais acolhedora, inclusiva e produtiva.",
+          "publico_alvo": [
+            "estudantes",
+            "docentes",
+            "tecnicos_administrativos"
+          ],
+          "modalidade": "online",
+          "abrangencia": "institucional",
+          "situacao_aparente": "ativa",
+          "periodo": "Coleta na região Sul em junho de 2026",
+          "unidade_responsavel": "Coordenação nacional: UFRGS e Fiocruz (Renasam); unidade interna da UERGS não informada",
+          "campus": null,
+          "documento_relacionado": null,
+          "url_fonte": "https://www.uergs.edu.br/uergs-participa-de-pesquisa-inedita-que-mapeia-os-desafios-de-saude-mental-em-universidades-brasileiras",
+          "titulo_fonte": "Uergs participa de pesquisa inédita que mapeia os desafios de saúde mental em universidades brasileiras",
+          "tipo_fonte": "noticia_oficial",
+          "data_publicacao_fonte": "2026-06-15",
+          "trecho_evidencia": "Na região sul, foram sorteadas dez universidades públicas, entre elas a Uergs, que representarão toda a comunidade universitária.",
+          "grau_evidencia_sugerido": 3,
+          "confianca": "media",
+          "campos_ausentes": [
+            "unidade_responsavel na UERGS"
+          ],
+          "justificativa": "Pesquisa aplicada externa na qual a UERGS participa como campo amostral; não é iniciativa própria da UERGS. Confiança média quanto à pertinência como iniciativa institucional."
+        }
+      ]
+    }
+  ]
+}
